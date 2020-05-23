@@ -14,6 +14,62 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>people_w_0</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_w_0</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flower_w_0</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles_w_0</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ocean_w_0</string>
+			<key>category</key>
+			<string>Ocean</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife_w_0</string>
+			<key>category</key>
+			<string>StillLife</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_w_0</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>GlitterPaintting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
@@ -33,7 +89,7 @@
 		<string>e_Animals</string>
 		<string>f_Flower</string>
 		<string>g_People</string>
-		<string>h_SlowLife</string>
+		<string>h_StillLife</string>
 		<string>h_Ocean</string>
 		<string>k_FoodDrink</string>
 		<string>l_Vehicles</string>

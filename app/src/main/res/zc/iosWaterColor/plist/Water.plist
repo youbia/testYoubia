@@ -59,6 +59,8 @@
 			<string>StillLife</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -75,6 +77,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 	</array>
 	<key>Category</key>

@@ -11,6 +11,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -19,6 +21,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -27,6 +31,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>

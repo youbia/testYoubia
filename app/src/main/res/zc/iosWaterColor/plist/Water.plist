@@ -26,58 +26,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>animals_w_0</string>
-			<key>category</key>
-			<string>Animals</string>
-			<key>model</key>
-			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>flower_w_0</string>
-			<key>category</key>
-			<string>Flower</string>
-			<key>model</key>
-			<string>water</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>vehicles_w_0</string>
-			<key>category</key>
-			<string>Vehicles</string>
-			<key>model</key>
-			<string>water</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ocean_w_0</string>
-			<key>category</key>
-			<string>Ocean</string>
-			<key>model</key>
-			<string>water</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>stillLife_w_0</string>
-			<key>category</key>
-			<string>StillLife</string>
-			<key>model</key>
-			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>landscapes_w_0</string>
-			<key>category</key>
-			<string>Landscapes</string>
-			<key>model</key>
-			<string>water</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>landscapes_o_0</string>
 			<key>category</key>
 			<string>Landscapes</string>

@@ -82,5 +82,17 @@
 			</dict>
 		</array>
 	</dict>
+	<key>GuoLv</key>
+	<dict>
+		<key>oil</key>
+		<dict>
+			<key>guolvCount</key>
+			<string>2</string>
+			<key>guolvCountOk</key>
+			<string>3</string>
+			<key>AreaGuolvCount</key>
+			<string>50</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

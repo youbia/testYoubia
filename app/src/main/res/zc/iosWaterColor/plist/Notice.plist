@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fb</key>
+	<array>
+		<dict>
+			<key>text</key>
+			<string>join our Facebook</string>
+			<key>textDeail</key>
+			<string>like Facebook</string>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>facebookIcon</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+	</array>
+	<key>rate</key>
+	<dict>
+		<key>starNumber</key>
+		<string>4</string>
+		<key>rateBool</key>
+		<string>3</string>
+	</dict>
+	<key>FBid</key>
+	<dict>
+		<key>FBid</key>
+		<string>107312911028076</string>
+		<key>FBurl</key>
+		<string>watercolorpaintingapp</string>
+	</dict>
+	<key>clearCache</key>
+	<string>202019</string>
+	<key>ADSBOOL</key>
+	<string>yes</string>
+</dict>
+</plist>

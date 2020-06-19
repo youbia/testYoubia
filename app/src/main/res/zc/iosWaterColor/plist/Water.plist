@@ -5849,31 +5849,31 @@
 	</array>
 	<key>Daily</key>
 	<dict>
-		<key>water</key>
+		<key>oilOld</key>
 		<array>
 			<dict>
 				<key>start</key>
 				<string>2020-06-01</string>
 				<key>end</key>
-				<string>2020-06-02</string>
+				<string>2020-06-15</string>
 			</dict>
 		</array>
 		<key>oil</key>
 		<array>
 			<dict>
 				<key>start</key>
-				<string>2020-06-03</string>
+				<string>2020-06-16</string>
 				<key>end</key>
-				<string>2020-06-03</string>
+				<string>2020-06-20</string>
 			</dict>
 		</array>
-		<key>oilOld</key>
+		<key>water</key>
 		<array>
 			<dict>
 				<key>start</key>
-				<string>2020-06-04</string>
+				<string>2020-06-21</string>
 				<key>end</key>
-				<string>2020-06-04</string>
+				<string>2020-06-29</string>
 			</dict>
 		</array>
 	</dict>

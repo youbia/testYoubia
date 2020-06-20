@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_1.png</string>
+			<string>holiday_oilOld_1</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -210,7 +210,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_9.png</string>
+			<string>holiday_oilOld_9</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -218,7 +218,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_10.png</string>
+			<string>holiday_oilOld_10</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -226,7 +226,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_11.png</string>
+			<string>holiday_oilOld_11</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -234,7 +234,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_12.png</string>
+			<string>holiday_oilOld_12</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -380,7 +380,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_13.png</string>
+			<string>holiday_oilOld_13</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -388,7 +388,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_14.png</string>
+			<string>holiday_oilOld_14</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -396,7 +396,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_15.png</string>
+			<string>holiday_oilOld_15</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -404,7 +404,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>holiday_oilOld_16.png</string>
+			<string>holiday_oilOld_16</string>
 			<key>category</key>
 			<string>Holiday</string>
 			<key>model</key>
@@ -877,6 +877,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -885,8 +887,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1073,6 +1073,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1089,8 +1091,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1217,8 +1217,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1227,6 +1225,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1489,8 +1489,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1499,6 +1497,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1531,7 +1531,7 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
+			<key>store</key>
 			<string>yes</string>
 		</dict>
 		<dict>
@@ -1583,6 +1583,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1599,8 +1601,6 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1667,8 +1667,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1693,7 +1691,7 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
+			<key>ads</key>
 			<string>yes</string>
 		</dict>
 		<dict>
@@ -1703,6 +1701,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1889,6 +1889,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1905,8 +1907,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1999,8 +1999,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2009,6 +2007,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2101,6 +2101,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2109,8 +2111,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2127,6 +2127,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2135,8 +2137,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2425,6 +2425,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2449,8 +2451,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2459,6 +2459,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2483,8 +2485,6 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2543,6 +2543,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2551,8 +2553,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3589,8 +3589,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3599,6 +3597,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3683,6 +3683,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3707,8 +3709,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3819,6 +3819,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3835,8 +3837,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3853,6 +3853,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -3869,8 +3871,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4005,8 +4005,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4015,6 +4013,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4447,6 +4447,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4455,8 +4457,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4499,6 +4499,8 @@
 			<string>StillLife</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4523,8 +4525,6 @@
 			<string>StillLife</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4609,6 +4609,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4617,8 +4619,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4643,6 +4643,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4659,8 +4661,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4745,6 +4745,8 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4753,8 +4755,6 @@
 			<string>Travel</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4771,6 +4771,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -4787,8 +4789,6 @@
 			<string>People</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>

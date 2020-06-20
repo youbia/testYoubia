@@ -5723,6 +5723,8 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5747,8 +5749,6 @@
 			<string>Landscapes</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5765,6 +5765,8 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5773,8 +5775,6 @@
 			<string>Animals</string>
 			<key>model</key>
 			<string>water</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>

@@ -5206,6 +5206,40 @@
 			<key>model</key>
 			<string>oil</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_73</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_74</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_101</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_102</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
@@ -5240,6 +5274,12 @@
 				<key>end</key>
 				<string>2020-06-20</string>
 			</dict>
+			<dict>
+				<key>start</key>
+				<string>2020-07-01</string>
+				<key>end</key>
+				<string>2020-07-15</string>
+			</dict>
 		</array>
 		<key>water</key>
 		<array>
@@ -5247,7 +5287,13 @@
 				<key>start</key>
 				<string>2020-06-21</string>
 				<key>end</key>
-				<string>2020-06-29</string>
+				<string>2020-06-30</string>
+			</dict>
+			<dict>
+				<key>start</key>
+				<string>2020-07-16</string>
+				<key>end</key>
+				<string>2020-07-31</string>
 			</dict>
 		</array>
 	</dict>

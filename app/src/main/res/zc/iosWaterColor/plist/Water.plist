@@ -5172,6 +5172,40 @@
 			<key>model</key>
 			<string>water</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife_water_11</string>
+			<key>category</key>
+			<string>StillLife</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles_water_7</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles_water_8</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flower_oil_1</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

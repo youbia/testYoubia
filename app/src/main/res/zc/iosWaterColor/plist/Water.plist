@@ -5331,8 +5331,6 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>water</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5341,6 +5339,8 @@
 			<string>Flower</string>
 			<key>model</key>
 			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 	</array>
 	<key>Category</key>

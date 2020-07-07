@@ -5512,6 +5512,40 @@
 			<key>store</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_oil_14</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_oil_15</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_water_41</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_water_42</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

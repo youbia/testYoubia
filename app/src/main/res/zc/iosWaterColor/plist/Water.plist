@@ -1651,6 +1651,8 @@
 			<string>People</string>
 			<key>model</key>
 			<string>oil</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>

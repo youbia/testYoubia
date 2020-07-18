@@ -5752,6 +5752,40 @@
 			<key>model</key>
 			<string>water</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_72</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_73</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_74</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_75</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

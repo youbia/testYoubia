@@ -14,6 +14,56 @@
 			<key>FbBool</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F00</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F01</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F02</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F03</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F04</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>rate</key>
 	<dict>

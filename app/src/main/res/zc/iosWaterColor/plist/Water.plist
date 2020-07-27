@@ -5922,6 +5922,40 @@
 			<key>store</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_97</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_98</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_99</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_100</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

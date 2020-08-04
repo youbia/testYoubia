@@ -6058,6 +6058,40 @@
 			<key>store</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_76</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_77</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_78</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_79</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

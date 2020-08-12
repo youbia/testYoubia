@@ -6160,6 +6160,40 @@
 			<key>model</key>
 			<string>water</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_105</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_106</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_107</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_108</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -84,6 +84,16 @@
 			<key>FbBool</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/watercolorpaintingapp</string>
+			<key>url</key>
+			<string>fb://profile/107312911028076</string>
+			<key>image</key>
+			<string>Bonus_F07</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>rate</key>
 	<dict>

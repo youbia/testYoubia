@@ -6296,6 +6296,40 @@
 			<key>model</key>
 			<string>water</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_116</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_117</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_88</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_89</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

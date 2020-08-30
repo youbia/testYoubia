@@ -6420,7 +6420,7 @@
 			<key>category</key>
 			<string>Animals</string>
 			<key>model</key>
-			<string>oil</string>
+			<string>water</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -6428,9 +6428,43 @@
 			<key>category</key>
 			<string>Travel</string>
 			<key>model</key>
-			<string>oil</string>
+			<string>water</string>
 			<key>store</key>
 			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_96</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_oil_97</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>oil</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_118</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_119</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
 		</dict>
 	</array>
 	<key>Category</key>

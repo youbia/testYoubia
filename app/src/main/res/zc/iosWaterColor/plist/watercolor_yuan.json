@@ -1312,4 +1312,11 @@
   ,{"appurl":"","ads":"no","store":"yes","model":"water","image":"travel_water_127","categoryName":"Travel"}
 
 
+
+  ,{"appurl":"","ads":"no","store":"no","model":"oil","image":"people_oil_45","categoryName":"People"}
+  ,{"appurl":"","ads":"no","store":"no","model":"oil","image":"travel_oil_20","categoryName":"Travel"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"travel_water_128","categoryName":"Travel"}
+  ,{"appurl":"","ads":"yes","store":"no","model":"water","image":"travel_water_129","categoryName":"Travel"}
+
+
 ]}

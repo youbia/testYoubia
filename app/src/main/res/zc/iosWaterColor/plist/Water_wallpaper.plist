@@ -7060,6 +7060,40 @@
 			<key>store</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_138</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>foodDrink_water_6</string>
+			<key>category</key>
+			<string>FoodDrink</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_water_10</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_water_11</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

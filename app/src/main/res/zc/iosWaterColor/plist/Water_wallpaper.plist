@@ -7162,6 +7162,40 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_135</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_136</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_137</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>vehicles_water_9</string>
+			<key>category</key>
+			<string>Vehicles</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -1408,8 +1408,13 @@
 
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"animals_water_88","categoryName":"Animals"}
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"animals_water_89","categoryName":"Animals"}
-
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"wallpaper_water_16","categoryName":"Wallpaper"}
   ,{"appurl":"","ads":"yes","store":"no","model":"water","image":"wallpaper_water_17","categoryName":"Wallpaper"}
+
+
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"stillLife_water_16","categoryName":"StillLife"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"people_water_56","categoryName":"People"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"people_water_55","categoryName":"People"}
+  ,{"appurl":"","ads":"no","store":"yes","model":"water","image":"travel_water_141","categoryName":"Travel"}
 
   ]}

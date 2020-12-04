@@ -7264,6 +7264,40 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife_water_16</string>
+			<key>category</key>
+			<string>StillLife</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_water_56</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>people_water_55</string>
+			<key>category</key>
+			<string>People</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_141</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

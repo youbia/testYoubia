@@ -882,11 +882,12 @@
 		<string>d_Cute</string>
 		<string>e_Costume</string>
 		<string>f_Fashions</string>
-		<string>g_Love</string>
-		<string>h_Friend</string>
-		<string>i_Scenery</string>
-		<string>j_Lifestyle</string>
-		<string>k_Other</string>
+		<string>g_Wallpaper</string>
+		<string>h_Love</string>
+		<string>i_Friend</string>
+		<string>j_Scenery</string>
+		<string>k_Lifestyle</string>
+		<string>l_Other</string>
 	</array>
 </dict>
 </plist>

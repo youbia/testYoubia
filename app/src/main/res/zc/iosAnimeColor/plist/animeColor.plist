@@ -873,12 +873,16 @@
 			<string>girl_60</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>wallpaper_1</string>
 			<key>category</key>
 			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 	</array>
 	<key>Category</key>

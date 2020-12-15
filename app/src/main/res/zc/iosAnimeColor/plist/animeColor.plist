@@ -63,6 +63,8 @@
 			<string>girl_9</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -93,6 +95,8 @@
 			<string>fashions_1</string>
 			<key>category</key>
 			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -111,6 +115,8 @@
 			<string>girl_6</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,6 +135,8 @@
 			<string>girl_12</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -147,6 +155,8 @@
 			<string>cute_5</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -165,6 +175,8 @@
 			<string>cute_8</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,6 +195,8 @@
 			<string>girl_15</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -201,6 +215,8 @@
 			<string>boy_2</string>
 			<key>category</key>
 			<string>Boy</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -219,6 +235,8 @@
 			<string>friend_1</string>
 			<key>category</key>
 			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -237,6 +255,8 @@
 			<string>costume_4</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,6 +275,8 @@
 			<string>lifestyle_3</string>
 			<key>category</key>
 			<string>Lifestyle</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -279,6 +301,8 @@
 			<string>boy_4</string>
 			<key>category</key>
 			<string>Boy</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -297,6 +321,8 @@
 			<string>love_2</string>
 			<key>category</key>
 			<string>Love</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -309,6 +335,8 @@
 			<string>other_1</string>
 			<key>category</key>
 			<string>Other</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -327,6 +355,8 @@
 			<string>boy_8</string>
 			<key>category</key>
 			<string>Boy</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -345,6 +375,8 @@
 			<string>cute_12</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -363,6 +395,8 @@
 			<string>costume_6</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -381,6 +415,8 @@
 			<string>fashions_4</string>
 			<key>category</key>
 			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -399,6 +435,8 @@
 			<string>girl_17</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -417,6 +455,8 @@
 			<string>girl_20</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -435,6 +475,8 @@
 			<string>girl_23</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -447,6 +489,8 @@
 			<string>girl_25</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -465,6 +509,8 @@
 			<string>cute_16</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -483,6 +529,8 @@
 			<string>cute_19</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -495,6 +543,8 @@
 			<string>costume_9</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -513,6 +563,8 @@
 			<string>costume_12</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -525,6 +577,8 @@
 			<string>costume_14</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -543,6 +597,8 @@
 			<string>lifestyle_6</string>
 			<key>category</key>
 			<string>Lifestyle</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -561,6 +617,8 @@
 			<string>fashions_6</string>
 			<key>category</key>
 			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -579,6 +637,8 @@
 			<string>girl_27</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -591,6 +651,8 @@
 			<string>girl_29</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -603,6 +665,8 @@
 			<string>girl_31</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -615,6 +679,8 @@
 			<string>girl_33</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -633,6 +699,8 @@
 			<string>girl_36</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -645,6 +713,8 @@
 			<string>girl_38</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -663,6 +733,8 @@
 			<string>girl_41</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -675,6 +747,8 @@
 			<string>girl_43</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -687,6 +761,8 @@
 			<string>girl_45</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -699,6 +775,8 @@
 			<string>scenery_3</string>
 			<key>category</key>
 			<string>Scenery</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -717,6 +795,8 @@
 			<string>costume_16</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -729,6 +809,8 @@
 			<string>girl_46</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -741,6 +823,8 @@
 			<string>girl_48</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -753,6 +837,8 @@
 			<string>girl_50</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -765,6 +851,8 @@
 			<string>lifestyle_10</string>
 			<key>category</key>
 			<string>Lifestyle</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -777,6 +865,8 @@
 			<string>cute_22</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -789,6 +879,8 @@
 			<string>girl_51</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -801,6 +893,8 @@
 			<string>girl_53</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -813,6 +907,8 @@
 			<string>girl_55</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -825,12 +921,22 @@
 			<string>girl_57</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_58</string>
 			<key>category</key>
 			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_1</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -843,6 +949,8 @@
 			<string>cute_25</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -852,9 +960,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>wallpaper_2</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_3</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>scenery_7</string>
 			<key>category</key>
 			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -867,18 +993,18 @@
 			<string>girl_59</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_60</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>store</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>wallpaper_1</string>
+			<string>wallpaper_4</string>
 			<key>category</key>
 			<string>Wallpaper</string>
 			<key>ads</key>

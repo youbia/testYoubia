@@ -3,18 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>fb</key>
-	<array>
-		<dict>
-			<key>webUrl</key>
-			<string>https://www.facebook.com/watercolorpaintingapp</string>
-			<key>url</key>
-			<string>fb://profile/107312911028076</string>
-			<key>image</key>
-			<string>facebookIcon</string>
-			<key>FbBool</key>
-			<string>yes</string>
-		</dict>
-	</array>
+	<array/>
 	<key>rate</key>
 	<dict>
 		<key>starNumber</key>

@@ -3,7 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>fb</key>
-	<array/>
+	<array>
+		<dict>
+			<key>webUrl</key>
+			<string>https://www.facebook.com/AnimePaintbyNumber</string>
+			<key>url</key>
+			<string>fb://profile/104314068235938</string>
+			<key>image</key>
+			<string>facebookIcon</string>
+			<key>FbBool</key>
+			<string>yes</string>
+		</dict>
+	</array>
 	<key>rate</key>
 	<dict>
 		<key>starNumber</key>

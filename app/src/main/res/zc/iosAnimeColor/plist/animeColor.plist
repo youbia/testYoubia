@@ -48,12 +48,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girl_5</string>
-			<key>category</key>
-			<string>Girl</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>girl_8</string>
 			<key>category</key>
 			<string>Girl</string>
@@ -77,12 +71,6 @@
 			<string>scenery_1</string>
 			<key>category</key>
 			<string>Scenery</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girl_4</string>
-			<key>category</key>
-			<string>Girl</string>
 		</dict>
 		<dict>
 			<key>name</key>

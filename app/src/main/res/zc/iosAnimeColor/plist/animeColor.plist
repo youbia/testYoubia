@@ -648,25 +648,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girl_51</string>
-			<key>category</key>
-			<string>Girl</string>
-			<key>store</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>girl_52</string>
 			<key>category</key>
 			<string>Girl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girl_53</string>
-			<key>category</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>

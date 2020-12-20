@@ -1,0 +1,199 @@
+
+
+
+{
+
+  "daily": {
+
+    "oil":[
+      {"start": "2020-06-16", "end": "2020-06-20"},
+      {"start": "2020-07-01", "end": "2020-07-15"},
+      {"start": "2020-08-15", "end": "2020-08-31"},
+      {"start": "2020-09-16", "end": "2020-09-30"},
+
+      {"start": "2020-12-02", "end": "2020-12-06"},
+
+      {"start": "2020-12-17", "end": "2020-12-31"}
+
+    ],
+
+    "water":[
+      {"start": "2020-06-21", "end": "2020-06-30"},
+      {"start": "2020-07-16", "end": "2020-07-31"},
+      {"start": "2020-08-01", "end": "2020-08-15"},
+      {"start": "2020-09-01", "end": "2020-09-15"},
+      {"start": "2020-10-01", "end": "2020-12-01"},
+
+      {"start": "2020-10-01", "end": "2020-12-01"},
+
+      {"start": "2020-12-07", "end": "2020-12-16"}
+    ]
+
+  },
+
+
+
+
+  "category":[
+
+    {"appurl":"","ads":"no","store":"no","image":"costume_1","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"fashions_2","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_1","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_7","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_2","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_1","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_3","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_8","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_9","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_2","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_1","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_2","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_1","categoryName":"Fashions"},
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_3","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_3","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_6","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_10","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_11","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_12","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_3","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_4","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"yes","image":"cute_5","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_6","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_7","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_8","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_13","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_14","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_15","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_5","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_1","categoryName":"Boy"},
+    {"appurl":"","ads":"yes","store":"no","image":"boy_2","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_2","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_9","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"friend_1","categoryName":"Friend"},
+    {"appurl":"","ads":"yes","store":"no","image":"friend_2","categoryName":"Friend"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_6","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"yes","image":"costume_4","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"friend_3","categoryName":"Friend"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_1","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"yes","store":"no","image":"lifestyle_3","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_4","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"no","image":"love_1","categoryName":"Love"},
+    {"appurl":"","ads":"no","store":"no","image":"friend_4","categoryName":"Friend"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_4","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_7","categoryName":"Boy"},
+    {"appurl":"","ads":"yes","store":"no","image":"love_2","categoryName":"Love"},
+    {"appurl":"","ads":"no","store":"no","image":"love_3","categoryName":"Love"},
+    {"appurl":"","ads":"no","store":"yes","image":"other_1","categoryName":"Other"},
+    {"appurl":"","ads":"no","store":"no","image":"other_2","categoryName":"Other"},
+    {"appurl":"","ads":"no","store":"no","image":"boy_3","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"yes","image":"boy_8","categoryName":"Boy"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_10","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_11","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_12","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_13","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_5","categoryName":"Costume"},
+    {"appurl":"","ads":"yes","store":"no","image":"costume_6","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_7","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_8","categoryName":"Costume"},
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_4","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"fashions_5","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_16","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_17","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_18","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_19","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_20","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_21","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_22","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_23","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_24","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_25","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_14","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_15","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"yes","image":"cute_16","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_17","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_18","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_19","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_20","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"yes","image":"costume_9","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_10","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_11","categoryName":"Costume"},
+    {"appurl":"","ads":"yes","store":"no","image":"costume_12","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_13","categoryName":"Costume"},
+    {"appurl":"","ads":"yes","store":"no","image":"costume_14","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_4","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_5","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"yes","image":"lifestyle_6","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_7","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_8","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_6","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"fashions_7","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_26","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_27","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_28","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_29","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_30","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_31","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_32","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_33","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_34","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_35","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_36","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_37","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_38","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_39","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_40","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_41","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_42","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_43","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_44","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_45","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_2","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"yes","image":"scenery_3","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_5","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_15","categoryName":"Costume"},
+    {"appurl":"","ads":"yes","store":"no","image":"costume_16","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"no","image":"costume_17","categoryName":"Costume"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_46","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_47","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_48","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_49","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_50","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_9","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"yes","store":"no","image":"lifestyle_10","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_21","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"yes","image":"cute_22","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_23","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"yes","image":"girl_51","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_52","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_53","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_54","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_55","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_56","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_57","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_58","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"wallpaper_1","categoryName":"Wallpaper"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_24","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_25","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_6","categoryName":"Scenery"},
+    {"appurl":"","ads":"yes","store":"no","image":"wallpaper_2","categoryName":"Wallpaper"},
+    {"appurl":"","ads":"yes","store":"no","image":"wallpaper_3","categoryName":"Wallpaper"},
+    {"appurl":"","ads":"yes","store":"no","image":"scenery_7","categoryName":"Scenery"},
+    {"appurl":"","ads":"no","store":"no","image":"scenery_8","categoryName":"Scenery"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_59","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_60","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"wallpaper_4","categoryName":"Wallpaper"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ]}

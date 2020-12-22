@@ -39,8 +39,6 @@
 			<string>girl_9</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -59,8 +57,6 @@
 			<string>fashions_1</string>
 			<key>category</key>
 			<string>Fashions</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -117,8 +113,6 @@
 			<string>cute_8</string>
 			<key>category</key>
 			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -157,8 +151,6 @@
 			<string>boy_2</string>
 			<key>category</key>
 			<string>Boy</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,8 +163,6 @@
 			<string>friend_1</string>
 			<key>category</key>
 			<string>Friend</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -205,8 +195,6 @@
 			<string>lifestyle_3</string>
 			<key>category</key>
 			<string>Lifestyle</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -277,8 +265,6 @@
 			<string>cute_12</string>
 			<key>category</key>
 			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -309,8 +295,6 @@
 			<string>fashions_4</string>
 			<key>category</key>
 			<string>Fashions</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -381,8 +365,6 @@
 			<string>cute_19</string>
 			<key>category</key>
 			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -441,8 +423,6 @@
 			<string>girl_29</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -461,8 +441,6 @@
 			<string>girl_33</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -481,16 +459,12 @@
 			<string>girl_36</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_38</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -509,8 +483,6 @@
 			<string>girl_41</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -583,8 +555,6 @@
 			<string>girl_48</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -597,8 +567,6 @@
 			<string>girl_50</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -611,8 +579,6 @@
 			<string>lifestyle_10</string>
 			<key>category</key>
 			<string>Lifestyle</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -657,8 +623,6 @@
 			<string>girl_57</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -671,8 +635,6 @@
 			<string>wallpaper_1</string>
 			<key>category</key>
 			<string>Wallpaper</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -691,16 +653,12 @@
 			<string>wallpaper_2</string>
 			<key>category</key>
 			<string>Wallpaper</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>scenery_7</string>
 			<key>category</key>
 			<string>Scenery</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -713,8 +671,6 @@
 			<string>girl_59</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -727,8 +683,6 @@
 			<string>wallpaper_4</string>
 			<key>category</key>
 			<string>Wallpaper</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 	</array>
 	<key>Category</key>

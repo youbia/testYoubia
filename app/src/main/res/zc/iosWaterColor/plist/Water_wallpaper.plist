@@ -7400,6 +7400,40 @@
 			<key>model</key>
 			<string>water</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_90</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_91</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_147</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_148</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -7532,6 +7532,12 @@
 				<key>end</key>
 				<string>2020-12-16</string>
 			</dict>
+			<dict>
+				<key>start</key>
+				<string>2021-01-01</string>
+				<key>end</key>
+				<string>2021-01-31</string>
+			</dict>
 		</array>
 	</dict>
 </dict>

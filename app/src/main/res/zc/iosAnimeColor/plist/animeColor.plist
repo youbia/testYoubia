@@ -976,6 +976,54 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_9</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_10</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_11</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_61</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_62</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_18</string>
+			<key>category</key>
+			<string>Costume</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_26</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_27</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

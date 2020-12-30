@@ -625,8 +625,6 @@
 			<string>girl_29</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -673,8 +671,6 @@
 			<string>girl_36</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -879,8 +875,6 @@
 			<string>girl_55</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -907,6 +901,8 @@
 			<string>wallpaper_1</string>
 			<key>category</key>
 			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -919,8 +915,6 @@
 			<string>cute_25</string>
 			<key>category</key>
 			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -933,6 +927,8 @@
 			<string>wallpaper_2</string>
 			<key>category</key>
 			<string>Wallpaper</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -947,8 +943,6 @@
 			<string>scenery_7</string>
 			<key>category</key>
 			<string>Scenery</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -987,6 +981,8 @@
 			<string>scenery_10</string>
 			<key>category</key>
 			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1011,6 +1007,8 @@
 			<string>costume_18</string>
 			<key>category</key>
 			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1023,6 +1021,36 @@
 			<string>cute_27</string>
 			<key>category</key>
 			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_63</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_64</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_65</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>love_4</string>
+			<key>category</key>
+			<string>Love</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 	</array>
 	<key>Category</key>

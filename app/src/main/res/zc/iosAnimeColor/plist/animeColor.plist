@@ -935,8 +935,6 @@
 			<string>wallpaper_3</string>
 			<key>category</key>
 			<string>Wallpaper</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -981,8 +979,6 @@
 			<string>scenery_10</string>
 			<key>category</key>
 			<string>Scenery</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1049,6 +1045,68 @@
 			<string>love_4</string>
 			<key>category</key>
 			<string>Love</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_66</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_67</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_9</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_8</string>
+			<key>category</key>
+			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_5</string>
+			<key>category</key>
+			<string>Friend</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_19</string>
+			<key>category</key>
+			<string>Costume</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_28</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_29</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_30</string>
+			<key>category</key>
+			<string>Cute</string>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>

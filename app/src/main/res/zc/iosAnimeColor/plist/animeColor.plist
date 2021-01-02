@@ -973,12 +973,16 @@
 			<string>scenery_9</string>
 			<key>category</key>
 			<string>Scenery</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>scenery_10</string>
 			<key>category</key>
 			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -991,6 +995,8 @@
 			<string>girl_61</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>store</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1003,8 +1009,6 @@
 			<string>costume_18</string>
 			<key>category</key>
 			<string>Costume</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1017,70 +1021,70 @@
 			<string>cute_27</string>
 			<key>category</key>
 			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_63</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_64</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_65</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>love_4</string>
 			<key>category</key>
 			<string>Love</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_66</string>
 			<key>category</key>
 			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>girl_67</string>
 			<key>category</key>
 			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>boy_9</string>
 			<key>category</key>
 			<string>Boy</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>fashions_8</string>
 			<key>category</key>
 			<string>Fashions</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>friend_5</string>
 			<key>category</key>
 			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1135,6 +1139,62 @@
 			<string>fashions_9</string>
 			<key>category</key>
 			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_12</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_13</string>
+			<key>category</key>
+			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_14</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_71</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_72</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_73</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_74</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_75</string>
+			<key>category</key>
+			<string>Girl</string>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>

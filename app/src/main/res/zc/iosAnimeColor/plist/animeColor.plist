@@ -1250,6 +1250,34 @@
 			<key>category</key>
 			<string>Girl</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_10</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_11</string>
+			<key>category</key>
+			<string>Boy</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_31</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_32</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

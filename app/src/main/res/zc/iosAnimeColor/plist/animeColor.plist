@@ -1306,6 +1306,34 @@
 			<key>category</key>
 			<string>Girl</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_88</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_89</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>lifestyle_11</string>
+			<key>category</key>
+			<string>Lifestyle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_20</string>
+			<key>category</key>
+			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

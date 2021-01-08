@@ -1334,6 +1334,62 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_15</string>
+			<key>category</key>
+			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_16</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_17</string>
+			<key>category</key>
+			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>love_5</string>
+			<key>category</key>
+			<string>Love</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_90</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_91</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_92</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_93</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

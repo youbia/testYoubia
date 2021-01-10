@@ -1418,6 +1418,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_12</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_6</string>
+			<key>category</key>
+			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_94</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_10</string>
+			<key>category</key>
+			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

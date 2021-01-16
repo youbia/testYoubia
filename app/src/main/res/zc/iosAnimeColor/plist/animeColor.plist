@@ -1558,6 +1558,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_37</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_38</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>love_6</string>
+			<key>category</key>
+			<string>Love</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>love_7</string>
+			<key>category</key>
+			<string>Love</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

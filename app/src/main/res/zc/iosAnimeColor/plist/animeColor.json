@@ -269,7 +269,12 @@
     {"appurl":"","ads":"yes","store":"no","image":"girl_110","categoryName":"Girl"},
     {"appurl":"","ads":"no","store":"no","image":"girl_111","categoryName":"Girl"},
     {"appurl":"","ads":"yes","store":"no","image":"girl_112","categoryName":"Girl"},
-    {"appurl":"","ads":"no","store":"no","image":"girl_113","categoryName":"Girl"}
+    {"appurl":"","ads":"no","store":"no","image":"girl_113","categoryName":"Girl"},
 
 
+
+    {"appurl":"","ads":"yes","store":"no","image":"cute_39","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_40","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_41","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_42","categoryName":"Cute"}
   ]}

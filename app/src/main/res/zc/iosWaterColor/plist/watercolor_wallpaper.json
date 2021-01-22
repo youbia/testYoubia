@@ -1477,10 +1477,13 @@
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"wallpaper_water_22","categoryName":"Wallpaper"}
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"wallpaper_water_23","categoryName":"Wallpaper"}
   ,{"appurl":"","ads":"no","store":"yes","model":"water","image":"landscapes_water_140","categoryName":"Landscapes"}
-  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"landscapes_water_141","categoryName":"Landscapes"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"landscapes_water_141","categoryName":"Landscapes"},
 
 
 
+    {"appurl":"https://play.google.com/store/apps/details?id=watercolor.oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"watercolor","categoryName":"App"},
+
+    {"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}
 
 
   ]}

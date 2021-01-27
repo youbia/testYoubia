@@ -7638,6 +7638,40 @@
 			<key>store</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_water_28</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>wallpaper_water_29</string>
+			<key>category</key>
+			<string>Wallpaper</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>flower_water_19</string>
+			<key>category</key>
+			<string>Flower</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_96</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

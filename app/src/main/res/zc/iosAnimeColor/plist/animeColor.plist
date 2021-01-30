@@ -1838,6 +1838,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>lifestyle_14</string>
+			<key>category</key>
+			<string>Lifestyle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>lifestyle_15</string>
+			<key>category</key>
+			<string>Lifestyle</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_124</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_125</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -310,7 +310,12 @@
     {"appurl":"","ads":"no","store":"no","image":"cute_45","categoryName":"Cute"},
     {"appurl":"","ads":"yes","store":"no","image":"cute_46","categoryName":"Cute"},
     {"appurl":"","ads":"no","store":"no","image":"cute_47","categoryName":"Cute"},
-    {"appurl":"","ads":"yes","store":"no","image":"cute_48","categoryName":"Cute"}
+    {"appurl":"","ads":"yes","store":"no","image":"cute_48","categoryName":"Cute"},
 
 
+
+    {"appurl":"","ads":"no","store":"no","image":"lifestyle_14","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"yes","store":"no","image":"lifestyle_15","categoryName":"Lifestyle"},
+    {"appurl":"","ads":"no","store":"no","image":"girl_124","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_125","categoryName":"Girl"}
   ]}

@@ -359,7 +359,11 @@
     {"appurl":"","ads":"yes","store":"no","image":"girl_134","categoryName":"Girl"},
     {"appurl":"","ads":"no","store":"no","image":"girl_135","categoryName":"Girl"},
     {"appurl":"","ads":"yes","store":"no","image":"girl_136","categoryName":"Girl"},
-    {"appurl":"","ads":"no","store":"no","image":"girl_137","categoryName":"Girl"}
+    {"appurl":"","ads":"no","store":"no","image":"girl_137","categoryName":"Girl"},
 
 
+    {"appurl":"","ads":"yes","store":"no","image":"cute_55","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_56","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_57","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_58","categoryName":"Cute"}
   ]}

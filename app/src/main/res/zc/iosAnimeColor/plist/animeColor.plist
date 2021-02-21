@@ -2118,6 +2118,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_20</string>
+			<key>category</key>
+			<string>Scenery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>scenery_21</string>
+			<key>category</key>
+			<string>Scenery</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_7</string>
+			<key>category</key>
+			<string>Friend</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_8</string>
+			<key>category</key>
+			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

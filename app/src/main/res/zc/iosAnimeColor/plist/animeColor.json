@@ -405,6 +405,14 @@
     {"appurl":"","ads":"yes","store":"no","image":"costume_29","categoryName":"Costume"},
     {"appurl":"","ads":"no","store":"no","image":"costume_30","categoryName":"Costume"},
     {"appurl":"","ads":"yes","store":"no","image":"cute_59","categoryName":"Cute"},
-    {"appurl":"","ads":"no","store":"no","image":"cute_60","categoryName":"Cute"}
+    {"appurl":"","ads":"no","store":"no","image":"cute_60","categoryName":"Cute"},
+
+
+    {"appurl":"","ads":"no","store":"no","image":"girl_153","categoryName":"Girl"},
+    {"appurl":"","ads":"yes","store":"no","image":"girl_154","categoryName":"Girl"},
+    {"appurl":"","ads":"no","store":"no","image":"friend_9","categoryName":"Friend"},
+    {"appurl":"","ads":"yes","store":"no","image":"friend_10","categoryName":"Friend"}
+
+
 
   ]}

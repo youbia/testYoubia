@@ -2230,6 +2230,34 @@
 			<key>category</key>
 			<string>Cute</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_153</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_154</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_9</string>
+			<key>category</key>
+			<string>Friend</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_10</string>
+			<key>category</key>
+			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

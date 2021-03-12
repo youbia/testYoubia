@@ -1573,6 +1573,12 @@
   ,{"appurl":"","ads":"yes","store":"no","model":"water","image":"travel_water_172","categoryName":"Travel"}
 
 
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"landscapes_water_146","categoryName":"Landscapes"}
+  ,{"appurl":"","ads":"no","store":"yes","model":"water","image":"landscapes_water_147","categoryName":"Landscapes"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"stillLife_water_23","categoryName":"StillLife"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"stillLife_water_24","categoryName":"StillLife"}
+
+
 
     ,{"appurl":"https://play.google.com/store/apps/details?id=oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"oilcolor","categoryName":"App"}
     ,{"appurl":"https://play.google.com/store/apps/details?id=anime.color.by.number","model":"","store":"no","ads":"no","image":"AnimeAds_An","categoryName":"App"}

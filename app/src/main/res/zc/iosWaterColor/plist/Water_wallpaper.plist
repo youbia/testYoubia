@@ -8012,6 +8012,40 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_146</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_147</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife_water_23</string>
+			<key>category</key>
+			<string>StillLife</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>stillLife_water_24</string>
+			<key>category</key>
+			<string>StillLife</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

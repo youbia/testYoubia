@@ -2286,6 +2286,34 @@
 			<key>category</key>
 			<string>Girl</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_19</string>
+			<key>category</key>
+			<string>Boy</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_20</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_159</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_160</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

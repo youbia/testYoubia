@@ -2314,6 +2314,34 @@
 			<key>category</key>
 			<string>Girl</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_11</string>
+			<key>category</key>
+			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_12</string>
+			<key>category</key>
+			<string>Fashions</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_13</string>
+			<key>category</key>
+			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_14</string>
+			<key>category</key>
+			<string>Fashions</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

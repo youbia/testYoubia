@@ -423,6 +423,13 @@
     {"appurl":"","ads":"yes","store":"no","image":"boy_19","categoryName":"Boy"},
     {"appurl":"","ads":"no","store":"no","image":"boy_20","categoryName":"Boy"},
     {"appurl":"","ads":"yes","store":"no","image":"girl_159","categoryName":"Girl"},
-    {"appurl":"","ads":"no","store":"no","image":"girl_160","categoryName":"Girl"}
+    {"appurl":"","ads":"no","store":"no","image":"girl_160","categoryName":"Girl"},
+
+
+
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_11","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"fashions_12","categoryName":"Fashions"},
+    {"appurl":"","ads":"yes","store":"no","image":"fashions_13","categoryName":"Fashions"},
+    {"appurl":"","ads":"no","store":"no","image":"fashions_14","categoryName":"Fashions"}
 
   ]}

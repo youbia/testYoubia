@@ -430,6 +430,10 @@
     {"appurl":"","ads":"yes","store":"no","image":"fashions_11","categoryName":"Fashions"},
     {"appurl":"","ads":"no","store":"no","image":"fashions_12","categoryName":"Fashions"},
     {"appurl":"","ads":"yes","store":"no","image":"fashions_13","categoryName":"Fashions"},
-    {"appurl":"","ads":"no","store":"no","image":"fashions_14","categoryName":"Fashions"}
+    {"appurl":"","ads":"no","store":"no","image":"fashions_14","categoryName":"Fashions"},
 
+    {"appurl":"","ads":"no","store":"no","image":"cute_61","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_62","categoryName":"Cute"},
+    {"appurl":"","ads":"no","store":"no","image":"cute_63","categoryName":"Cute"},
+    {"appurl":"","ads":"yes","store":"no","image":"cute_64","categoryName":"Cute"}
   ]}

@@ -2398,6 +2398,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_31</string>
+			<key>category</key>
+			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_32</string>
+			<key>category</key>
+			<string>Costume</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_33</string>
+			<key>category</key>
+			<string>Costume</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>costume_34</string>
+			<key>category</key>
+			<string>Costume</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

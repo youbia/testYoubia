@@ -8284,11 +8284,45 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_105</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>animals_water_106</string>
+			<key>category</key>
+			<string>Animals</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_152</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_153</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+			<key>store</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>
 		<string>b_Bonus</string>
-		<string>c_Landscapes</string>
+		<string>c_c</string>
 		<string>d_Travel</string>
 		<string>e_People</string>
 		<string>f_Animals</string>

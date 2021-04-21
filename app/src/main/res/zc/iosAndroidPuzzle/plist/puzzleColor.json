@@ -3,33 +3,9 @@
 
 {
 
-  "0": {"image": "girl_1"},
-  "1": {"image": "girl_2"},
-  "2": {"image": "girl_3"},
-  "3": {"image": "girl_4"},
-  "4": {"image": "girl_5"},
-  "5": {"image": "girl_6"},
-  "6": {"image": "girl_7"},
-  "7": {"image": "girl_8"},
-  "8": {"image": "girl_9"},
-  "9": {"image": "girl_10"},
-  "10": {"image": "girl_11"},
-  "11": {"image": "girl_12"},
-  "12": {"image": "girl_13"},
-  "13": {"image": "girl_14"},
-  "14": {"image": "girl_15"},
-  "15": {"image": "girl_16"},
-  "16": {"image": "girl_17"},
-  "17": {"image": "girl_18"},
-  "18": {"image": "girl_19"},
-  "19": {"image": "girl_20"},
-  "20": {"image": "girl_21"},
-  "21": {"image": "girl_22"},
-  "22": {"image": "girl_23"},
-  "23": {"image": "girl_24"},
-  "24": {"image": "girl_25"},
-  "25": {"image": "girl_26"},
-  "26": {"image": "girl_27"}
+  "0": {"name": "puzzle_1", "count": "1"},
+  "1": {"name": "puzzle_2", "count": "2"}
+
 
 
 

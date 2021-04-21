@@ -1,0 +1,29 @@
+{"frames": [
+
+{
+	"filename": "Group_3_5.png",
+	"frame": {"x":1,"y":657,"w":413,"h":308},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":413,"h":308},
+	"sourceSize": {"w":413,"h":308}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1,"y":1,"w":725,"h":654},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":725,"h":654},
+	"sourceSize": {"w":725,"h":654}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Bear-1.png",
+	"format": "RGBA8888",
+	"size": {"w":727,"h":966},
+	"scale": "1",
+	"related_multi_packs": [ "Bear-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a8db2deb5ef2d68c7eb61f9f95dc91fa:4059a28ff0e3a6ddcd09233e25c77622:4e120752bd5e196232427e4be5e10f57$"
+}
+}

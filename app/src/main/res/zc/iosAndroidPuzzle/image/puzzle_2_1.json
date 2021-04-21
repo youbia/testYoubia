@@ -19,11 +19,11 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "Bear-1.png",
+	"image": "Bear_1.png",
 	"format": "RGBA8888",
 	"size": {"w":727,"h":966},
 	"scale": "1",
-	"related_multi_packs": [ "Bear-0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:a8db2deb5ef2d68c7eb61f9f95dc91fa:4059a28ff0e3a6ddcd09233e25c77622:4e120752bd5e196232427e4be5e10f57$"
+	"related_multi_packs": [ "Bear_0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:35252556c8e52ebca822ce56c6532196:1a9e768331a2b6ccb5d2dc63bd34ea8d:333e43e945c5b316e865da6d94fec81d$"
 }
 }

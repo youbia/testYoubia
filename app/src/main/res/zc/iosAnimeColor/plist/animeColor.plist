@@ -2566,6 +2566,34 @@
 			<key>category</key>
 			<string>Costume</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_172</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_173</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_174</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_175</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

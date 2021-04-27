@@ -542,12 +542,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>costume_13</string>
-			<key>category</key>
-			<string>Costume</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>costume_14</string>
 			<key>category</key>
 			<string>Costume</string>
@@ -1602,12 +1596,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>costume_21</string>
-			<key>category</key>
-			<string>Costume</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>costume_22</string>
 			<key>category</key>
 			<string>Costume</string>
@@ -2310,23 +2298,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girl_160</string>
-			<key>category</key>
-			<string>Girl</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>fashions_11</string>
 			<key>category</key>
 			<string>Fashions</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>fashions_12</string>
-			<key>category</key>
-			<string>Fashions</string>
 		</dict>
 		<dict>
 			<key>name</key>

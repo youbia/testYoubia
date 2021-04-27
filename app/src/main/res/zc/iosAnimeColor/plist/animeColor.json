@@ -88,7 +88,6 @@
     {"appurl":"","ads":"no","store":"no","image":"costume_10","categoryName":"Costume"},
     {"appurl":"","ads":"no","store":"no","image":"costume_11","categoryName":"Costume"},
     {"appurl":"","ads":"yes","store":"no","image":"costume_12","categoryName":"Costume"},
-    {"appurl":"","ads":"no","store":"no","image":"costume_13","categoryName":"Costume"},
     {"appurl":"","ads":"yes","store":"no","image":"costume_14","categoryName":"Costume"},
     {"appurl":"","ads":"no","store":"no","image":"lifestyle_4","categoryName":"Lifestyle"},
     {"appurl":"","ads":"no","store":"no","image":"lifestyle_5","categoryName":"Lifestyle"},
@@ -253,7 +252,6 @@
 
     {"appurl":"","ads":"no","store":"no","image":"boy_15","categoryName":"Boy"},
     {"appurl":"","ads":"yes","store":"no","image":"lifestyle_12","categoryName":"Lifestyle"},
-    {"appurl":"","ads":"no","store":"no","image":"costume_21","categoryName":"Costume"},
     {"appurl":"","ads":"yes","store":"no","image":"costume_22","categoryName":"Costume"},
 
 
@@ -423,12 +421,11 @@
     {"appurl":"","ads":"yes","store":"no","image":"boy_19","categoryName":"Boy"},
     {"appurl":"","ads":"no","store":"no","image":"boy_20","categoryName":"Boy"},
     {"appurl":"","ads":"yes","store":"no","image":"girl_159","categoryName":"Girl"},
-    {"appurl":"","ads":"no","store":"no","image":"girl_160","categoryName":"Girl"},
+
 
 
 
     {"appurl":"","ads":"yes","store":"no","image":"fashions_11","categoryName":"Fashions"},
-    {"appurl":"","ads":"no","store":"no","image":"fashions_12","categoryName":"Fashions"},
     {"appurl":"","ads":"yes","store":"no","image":"fashions_13","categoryName":"Fashions"},
     {"appurl":"","ads":"no","store":"no","image":"fashions_14","categoryName":"Fashions"},
 

@@ -810,25 +810,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>girl_179</string>
-			<key>category</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>girl_180</string>
 			<key>category</key>
 			<string>Girl</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>girl_181</string>
-			<key>category</key>
-			<string>Girl</string>
 		</dict>
 		<dict>
 			<key>name</key>

@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Group_1_1.png",
+	"frame": {"x":1,"y":1,"w":630,"h":438},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":630,"h":438},
+	"sourceSize": {"w":630,"h":438}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1,"y":962,"w":631,"h":385},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":631,"h":385},
+	"sourceSize": {"w":631,"h":385}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1,"y":633,"w":414,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":414,"h":327},
+	"sourceSize": {"w":414,"h":327}
+},
+{
+	"filename": "Group_1_5.png",
+	"frame": {"x":388,"y":1292,"w":104,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":104,"h":183},
+	"sourceSize": {"w":104,"h":183}
+},
+{
+	"filename": "Group_2_9.png",
+	"frame": {"x":417,"y":633,"w":87,"h":153},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":153},
+	"sourceSize": {"w":87,"h":153}
+},
+{
+	"filename": "Group_3_4.png",
+	"frame": {"x":417,"y":788,"w":84,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":169},
+	"sourceSize": {"w":84,"h":169}
+},
+{
+	"filename": "Group_3_7.png",
+	"frame": {"x":388,"y":1085,"w":116,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":205},
+	"sourceSize": {"w":116,"h":205}
+},
+{
+	"filename": "Group_4_3.png",
+	"frame": {"x":388,"y":962,"w":121,"h":121},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":121,"h":121},
+	"sourceSize": {"w":121,"h":121}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_42_1.png",
+	"format": "RGBA8888",
+	"size": {"w":510,"h":1594},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_42_0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e09a55bda1472c899908add96b7ec24a:28a91d6a0eb5cec592b39034a06fa125:ffe444942c6ab28a8a63a391e320512f$"
+}
+}

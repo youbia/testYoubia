@@ -1690,6 +1690,18 @@
 			<key>category</key>
 			<string>Girl</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>OilPainting</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1455637736</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>puzzleArt</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

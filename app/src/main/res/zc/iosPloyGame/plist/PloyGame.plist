@@ -12,16 +12,58 @@
 		</dict>
 	</array>
 	<key>b_Birds</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>c_Food</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>d_Ocean</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>e_Plants</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>f_People</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 	<key>g_Objects</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>animal00068</string>
+			<key>buy</key>
+			<integer>1</integer>
+		</dict>
+	</array>
 </dict>
 </plist>

@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>a_Animals</key>
+	<key>Photo</key>
 	<array>
 		<dict>
 			<key>name</key>
@@ -11,59 +11,19 @@
 			<integer>1</integer>
 		</dict>
 	</array>
-	<key>b_Birds</key>
+	<key>Category</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>c_Food</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>d_Ocean</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>e_Plants</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>f_People</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>g_Objects</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>animal00068</string>
-			<key>buy</key>
-			<integer>1</integer>
-		</dict>
+		<string>b_Girl</string>
+		<string>c_Boy</string>
+		<string>d_Cute</string>
+		<string>e_Costume</string>
+		<string>f_Fashions</string>
+		<string>g_Wallpaper</string>
+		<string>h_Love</string>
+		<string>i_Friend</string>
+		<string>j_Scenery</string>
+		<string>k_Lifestyle</string>
+		<string>l_Other</string>
 	</array>
 </dict>
 </plist>

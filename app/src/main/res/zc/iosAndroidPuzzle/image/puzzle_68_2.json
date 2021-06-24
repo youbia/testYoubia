@@ -1,77 +1,21 @@
 {"frames": [
 
 {
-	"filename": "Group_1_1.png",
-	"frame": {"x":1,"y":1,"w":902,"h":304},
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1,"y":1,"w":872,"h":989},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":902,"h":304},
-	"sourceSize": {"w":902,"h":304}
-},
-{
-	"filename": "Group_2_4.png",
-	"frame": {"x":617,"y":307,"w":118,"h":106},
-	"rotated": true,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":106},
-	"sourceSize": {"w":118,"h":106}
-},
-{
-	"filename": "Group_2_13.png",
-	"frame": {"x":356,"y":307,"w":148,"h":140},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":148,"h":140},
-	"sourceSize": {"w":148,"h":140}
-},
-{
-	"filename": "Group_2_14.png",
-	"frame": {"x":831,"y":307,"w":94,"h":89},
-	"rotated": true,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":89},
-	"sourceSize": {"w":94,"h":89}
-},
-{
-	"filename": "Group_3_5.png",
-	"frame": {"x":185,"y":307,"w":169,"h":145},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":169,"h":145},
-	"sourceSize": {"w":169,"h":145}
-},
-{
-	"filename": "Group_3_6.png",
-	"frame": {"x":1,"y":307,"w":182,"h":146},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":182,"h":146},
-	"sourceSize": {"w":182,"h":146}
-},
-{
-	"filename": "Group_3_10.png",
-	"frame": {"x":506,"y":307,"w":109,"h":138},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":138},
-	"sourceSize": {"w":109,"h":138}
-},
-{
-	"filename": "Group_4_1.png",
-	"frame": {"x":725,"y":307,"w":112,"h":104},
-	"rotated": true,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":104},
-	"sourceSize": {"w":112,"h":104}
+	"spriteSourceSize": {"x":0,"y":0,"w":872,"h":989},
+	"sourceSize": {"w":872,"h":989}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "puzzle_68_2.png",
 	"format": "RGBA8888",
-	"size": {"w":921,"h":454},
+	"size": {"w":874,"h":991},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_68_0.json", "puzzle_68_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:61a0287af82e3d09b8dc0708f5abac34:126156234b13523577bb83961335ca9d:93e4e93c39a102c10e1a1341743db9fc$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d4b68d6a2c4ec51dae07437ea79e34cb:d804da31a247ee78ce3c516370dcd778:93e4e93c39a102c10e1a1341743db9fc$"
 }
 }

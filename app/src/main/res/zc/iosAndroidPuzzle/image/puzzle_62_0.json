@@ -57,7 +57,7 @@
 	"sourceSize": {"w":681,"h":23}
 },
 {
-	"filename": "Group_1_12.png",
+	"filename": "Group_1_14.png",
 	"frame": {"x":1507,"y":1980,"w":151,"h":67},
 	"rotated": false,
 	"trimmed": false,
@@ -208,6 +208,6 @@
 	"size": {"w":2038,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_62_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:07a2cd69226c5503f0dc83311ab011ea:f6130684507ee2feadbbcb8624c82546:c61486c4a695d613c98a2301c24c7a98$"
+	"smartupdate": "$TexturePacker:SmartUpdate:c4300cd0cc9ee6870ab665440585a9cf:97c51cb53cd1c9c69e7dbbb168f52ddb:c61486c4a695d613c98a2301c24c7a98$"
 }
 }

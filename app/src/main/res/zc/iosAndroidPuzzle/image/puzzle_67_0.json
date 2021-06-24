@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1350},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_3.png",
+	"frame": {"x":1,"y":1353,"w":337,"h":969},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":337,"h":969},
+	"sourceSize": {"w":337,"h":969}
+},
+{
+	"filename": "Group_3_12.png",
+	"frame": {"x":981,"y":1978,"w":65,"h":88},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":88},
+	"sourceSize": {"w":65,"h":88}
+},
+{
+	"filename": "Group_3_14.png",
+	"frame": {"x":1071,"y":1978,"w":69,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":68},
+	"sourceSize": {"w":69,"h":68}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1003,"y":1096,"w":962,"h":880},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":962,"h":880},
+	"sourceSize": {"w":962,"h":880}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":991,"h":1093},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":991,"h":1093},
+	"sourceSize": {"w":991,"h":1093}
+},
+{
+	"filename": "Line_2_Group_4.png",
+	"frame": {"x":1,"y":1692,"w":1000,"h":222},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":222},
+	"sourceSize": {"w":1000,"h":222}
+},
+{
+	"filename": "Line_3_Group_4.png",
+	"frame": {"x":1,"y":1916,"w":978,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":978,"h":128},
+	"sourceSize": {"w":978,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_67_0.png",
+	"format": "RGBA8888",
+	"size": {"w":1995,"h":2047},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_67_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:5a51ba296202e7d6ab6c7d11a5ff6aaf:d1570fe97e2bf372f3dac50dd06f17e7:2b725761fa91be43530a32edef68eebf$"
+}
+}

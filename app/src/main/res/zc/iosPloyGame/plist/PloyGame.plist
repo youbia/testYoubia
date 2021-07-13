@@ -8,6 +8,34 @@
 			<key>name</key>
 			<string>poly_1</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_6</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_7</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>poly_8</string>
+		</dict>
 	</array>
 </dict>
 </plist>

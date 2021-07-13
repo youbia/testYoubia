@@ -7,23 +7,7 @@
 		<dict>
 			<key>name</key>
 			<string>poly_1</string>
-			<key>category</key>
-			<string>Girl</string>
 		</dict>
-	</array>
-	<key>Category</key>
-	<array>
-		<string>b_Girl</string>
-		<string>c_Boy</string>
-		<string>d_Cute</string>
-		<string>e_Costume</string>
-		<string>f_Fashions</string>
-		<string>g_Wallpaper</string>
-		<string>h_Love</string>
-		<string>i_Friend</string>
-		<string>j_Scenery</string>
-		<string>k_Lifestyle</string>
-		<string>l_Other</string>
 	</array>
 </dict>
 </plist>

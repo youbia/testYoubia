@@ -8,6 +8,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_1</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -26,6 +28,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_5</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -75,12 +79,10 @@
 			</dict>
 		</array>
 	</array>
-	<key>rate</key>
+	<key>adsBool</key>
 	<dict>
-		<key>starNumber</key>
-		<string>4</string>
-		<key>rateBool</key>
-		<string>1</string>
+		<key>adsBool</key>
+		<string>yes</string>
 	</dict>
 </dict>
 </plist>

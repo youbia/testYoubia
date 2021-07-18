@@ -75,5 +75,12 @@
 			</dict>
 		</array>
 	</array>
+	<key>rate</key>
+	<dict>
+		<key>starNumber</key>
+		<string>4</string>
+		<key>rateBool</key>
+		<string>1</string>
+	</dict>
 </dict>
 </plist>

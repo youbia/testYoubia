@@ -76,42 +76,24 @@
 		<polygon fill="#B8502D" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="93.1,528.7 41,533.7 115.5,597 		"/>
 		<polygon fill="#B24723" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="41,533.7 15,580.8 115.5,597 		"/>
 		<polygon fill="#693012" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="15,580.8 53.4,630.5 115.5,597 		"/>
-		<polygon fill="#BA632D" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="82,352.6 50.9,382.3 119.2,373.6 		
+		<polygon fill="#BA632D" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="82,352.6 50.9,382.3 133.8,369.5 		
 			"/>
-		<polygon fill="#A25827" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="50.9,382.3 83.2,425.8 119.2,373.6 
+		<polygon fill="#A25827" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="50.9,382.3 83.2,425.8 133.8,369.6 
 					"/>
 		<polygon fill="#BF6821" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="83.2,425.8 44.7,448.1 126.6,486.6 
 					"/>
-		<polygon fill="#B26129" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="82,352.6 119.2,373.6 127.9,346.4 		
+		<polygon fill="#B95E25" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 82,352.6 133.9,369.5 		
 			"/>
-		<polygon fill="#B95E25" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 82,352.6 127.9,346.4 		
-			"/>
-		<polygon fill="#A45827" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="119.2,373.6 83.2,425.8 130.3,386.1 
+		<polygon fill="#B8662E" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 133.9,369.5 
+			168.8,342.6 		"/>
+		<polygon fill="#A35725" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="163.8,367.4 134,369.5 163.8,419.6 
 					"/>
-		<polygon fill="#B8662E" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 127.9,346.4 
-			151.4,346.4 		"/>
-		<polygon fill="#0D0B0E" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,346.4 119.2,373.6 144,346.4 
-					"/>
-		<polygon fill="#0B0000" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="119.2,373.6 130.3,386.1 
-			151.4,383.6 		"/>
-		<polygon fill="#010000" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="144,346.4 119.2,373.6 151.4,383.6 
-					"/>
-		<polygon fill="#0E0301" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="151.4,346.4 144,346.4 163.8,367.4 
-					"/>
-		<polygon fill="#010002" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="144,346.4 151.4,383.6 163.8,367.4 
-					"/>
-		<polygon fill="#A35725" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="163.8,367.4 151.4,383.6 
-			163.8,419.6 		"/>
-		<polygon fill="#9C5829" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="151.4,383.6 130.3,386.1 
-			163.8,419.6 		"/>
 		<polygon fill="#A15A26" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="83.2,425.8 126.6,486.6 163.8,419.6 
 					"/>
-		<polygon fill="#A55726" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="130.3,386.1 83.2,425.8 163.8,419.6 
+		<polygon fill="#A55726" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="133.9,369.6 83.2,425.8 163.8,419.6 
 					"/>
-		<polygon fill="#B7643C" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="151.4,346.4 163.8,367.4 
-			168.8,342.6 		"/>
-		<polygon fill="#BA642B" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 151.4,346.4 
-			168.8,342.6 		"/>
+		<polygon fill="#B7643C" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="134,369.5 163.8,367.4 168.8,342.6 
+					"/>
 		<polygon fill="#AE4B2B" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="93.1,528.7 115.5,597 173.8,523.8 		
 			"/>
 		<polygon fill="#8B4B25" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="127.9,311.6 168.8,342.6 202.3,293 

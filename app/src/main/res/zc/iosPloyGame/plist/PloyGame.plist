@@ -341,61 +341,11 @@
 				<key>name</key>
 				<string>poly_76</string>
 			</dict>
-		</array>
-		<array>
 			<dict>
 				<key>name</key>
 				<string>poly_77</string>
 				<key>ads</key>
 				<string>yes</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_78</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_79</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_80</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_81</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_82</string>
-			</dict>
-		</array>
-		<array>
-			<dict>
-				<key>name</key>
-				<string>poly_83</string>
-				<key>ads</key>
-				<string>yes</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_84</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_85</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_86</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_87</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_88</string>
 			</dict>
 		</array>
 	</array>

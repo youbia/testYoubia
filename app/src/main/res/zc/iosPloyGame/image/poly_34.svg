@@ -91,14 +91,10 @@
 		<polygon fill="#8AB5C4" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="365.9,88.6 468.1,231.9 583.4,140.7 
 					"/>
 		<polygon fill="#6DA2B5" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="583.4,140.7 468.1,231.9 
-			585.4,210.8 		"/>
-		<polygon fill="#488BA2" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="583.4,140.7 585.4,210.8 
 			586.4,210.8 		"/>
-		<polygon fill="#163540" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="586.4,210.8 585.4,210.8 
-			587.4,257.9 		"/>
 		<polygon fill="#163540" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="468.1,231.9 513.2,300 587.4,257.9 
 					"/>
-		<polygon fill="#488BA2" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="585.4,210.8 468.1,231.9 
+		<polygon fill="#488BA2" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="586.4,210.8 468.1,231.9 
 			587.4,257.9 		"/>
 		<polygon fill="#E68F0F" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="513.2,300 521.2,364.1 613.4,376.2 
 					"/>

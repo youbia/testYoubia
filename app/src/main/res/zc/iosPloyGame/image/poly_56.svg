@@ -153,9 +153,10 @@
 			769.6,196.2 		"/>
 		<polygon fill="#D6DA22" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="760.6,219.5 776,227.5 794.6,274.5 
 					"/>
+		<polygon fill="#D9CF00" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="740.6,63.8 792.6,149.5 836,148.2 		
+			"/>
+		<polygon fill="#5A4D04" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="806.6,243.5 878.6,230.2 
+			794.6,274.5 		"/>
 	</g>
 </g>
-<polygon fill="#D9CF00" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="740.6,63.8 792.6,149.5 836,148.2 "/>
-<polygon fill="#5A4D04" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="806.6,243.5 878.6,230.2 794.6,274.5 
-	"/>
 </svg>

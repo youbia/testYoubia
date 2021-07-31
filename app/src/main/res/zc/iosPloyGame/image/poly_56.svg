@@ -153,10 +153,10 @@
 			"/>
 		<polygon fill="#5A4D04" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="806.6,243.5 878.6,230.2 
 			794.6,274.5 		"/>
-		<path fill="#5A4D04" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" d="M816,218.5l-9.4,25c0,0-31.5-16-30.6-16
-			S816,218.5,816,218.5z"/>
 		<polygon fill="#949F00" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="816,218.5 806.6,243.5 878.6,230.2 
 					"/>
+		<polygon fill="#5A4D04" stroke="#000000" stroke-width="0.1" stroke-miterlimit="10" points="816,218.5 806.6,243.5 776,227.5 		
+			"/>
 	</g>
 </g>
 </svg>

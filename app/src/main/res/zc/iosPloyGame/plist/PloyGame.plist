@@ -313,8 +313,6 @@
 				<key>name</key>
 				<string>poly_70</string>
 			</dict>
-		</array>
-		<array>
 			<dict>
 				<key>name</key>
 				<string>poly_71</string>
@@ -324,28 +322,6 @@
 			<dict>
 				<key>name</key>
 				<string>poly_72</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_73</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_74</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_75</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_76</string>
-			</dict>
-			<dict>
-				<key>name</key>
-				<string>poly_77</string>
-				<key>ads</key>
-				<string>yes</string>
 			</dict>
 		</array>
 	</array>

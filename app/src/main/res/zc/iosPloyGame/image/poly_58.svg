@@ -53,6 +53,8 @@
 			796.8,667.6 		"/>
 		<polygon fill="#F7B87C" stroke="#000000" stroke-width="0.4" stroke-miterlimit="10" points="855.8,618.3 831.1,527.6 
 			792.1,568.6 		"/>
+		<polygon fill="#707FBD" stroke="#000000" stroke-width="0.4" stroke-miterlimit="10" points="519.8,350.3 519.8,518 598.4,554 		
+			"/>
 	</g>
 	<g>
 		<polygon fill="#4A557E" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="855.8,102.6 519.8,350.3 
@@ -219,5 +221,4 @@
 			"/>
 	</g>
 </g>
-<polygon fill="#707FBD" stroke="#000000" stroke-width="0.3" stroke-miterlimit="10" points="519.8,350.3 519.8,518 598.4,554 "/>
 </svg>

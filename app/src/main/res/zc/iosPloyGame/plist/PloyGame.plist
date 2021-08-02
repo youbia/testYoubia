@@ -8,8 +8,6 @@
 			<dict>
 				<key>name</key>
 				<string>poly_1</string>
-				<key>ads</key>
-				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -22,6 +20,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_4</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -30,6 +30,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_6</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 		</array>
 		<array>
@@ -42,6 +44,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_8</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -54,6 +58,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_11</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -64,6 +70,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_13</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -72,6 +80,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_15</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -104,10 +114,14 @@
 			<dict>
 				<key>name</key>
 				<string>poly_22</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
 				<string>poly_23</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -136,6 +150,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_29</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -144,6 +160,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_31</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -166,6 +184,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_36</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -182,6 +202,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_40</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 		</array>
 		<array>
@@ -192,6 +214,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_42</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -200,6 +224,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_44</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -230,6 +256,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_51</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>
@@ -246,6 +274,8 @@
 			<dict>
 				<key>name</key>
 				<string>poly_55</string>
+				<key>ads</key>
+				<string>yes</string>
 			</dict>
 			<dict>
 				<key>name</key>

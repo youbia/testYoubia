@@ -2088,15 +2088,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>GlitterPaintting</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1508864104</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>polyart</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1577328648</string>
 		</dict>
 	</array>
 	<key>Category</key>

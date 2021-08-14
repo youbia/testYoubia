@@ -1,115 +1,139 @@
 {"frames": [
 
 {
-	"filename": "arms/big/woman_arms_big_7.png",
-	"frame": {"x":1218,"y":1,"w":768,"h":569},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":153,"w":768,"h":569},
-	"sourceSize": {"w":768,"h":830}
-},
-{
-	"filename": "arms/big/woman_arms_big_26.png",
-	"frame": {"x":1,"y":1,"w":678,"h":573},
+	"filename": "arms/big/woman_arms_big_5.png",
+	"frame": {"x":1,"y":1,"w":700,"h":562},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":46,"y":113,"w":678,"h":573},
-	"sourceSize": {"w":768,"h":760}
+	"spriteSourceSize": {"x":33,"y":93,"w":700,"h":562},
+	"sourceSize": {"w":768,"h":768}
+},
+{
+	"filename": "arms/big/woman_arms_big_13.png",
+	"frame": {"x":531,"y":1000,"w":730,"h":532},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":137,"w":730,"h":532},
+	"sourceSize": {"w":768,"h":792}
+},
+{
+	"filename": "arms/small/woman_arms_small_11.png",
+	"frame": {"x":1773,"y":720,"w":192,"h":250},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":250},
+	"sourceSize": {"w":192,"h":250}
 },
 {
 	"filename": "body/big/woman_body_big_14.png",
-	"frame": {"x":1501,"y":1752,"w":237,"h":337},
-	"rotated": true,
+	"frame": {"x":1802,"y":1315,"w":237,"h":337},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":137,"y":85,"w":237,"h":337},
 	"sourceSize": {"w":512,"h":512}
 },
 {
-	"filename": "body/big/woman_body_big_16.png",
-	"frame": {"x":1789,"y":339,"w":244,"h":335},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":134,"y":91,"w":244,"h":335},
-	"sourceSize": {"w":512,"h":516}
-},
-{
 	"filename": "body/big/woman_body_big_17.png",
-	"frame": {"x":1789,"y":1,"w":241,"h":336},
+	"frame": {"x":1802,"y":1654,"w":241,"h":336},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":139,"y":91,"w":241,"h":336},
 	"sourceSize": {"w":512,"h":514}
 },
 {
-	"filename": "head/big/woman_head_big_18.png",
-	"frame": {"x":1218,"y":771,"w":185,"h":268},
-	"rotated": true,
+	"filename": "body/big/woman_body_big_27.png",
+	"frame": {"x":1802,"y":972,"w":243,"h":341},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":87,"y":60,"w":185,"h":268},
-	"sourceSize": {"w":384,"h":368}
+	"spriteSourceSize": {"x":134,"y":85,"w":243,"h":341},
+	"sourceSize": {"w":512,"h":512}
+},
+{
+	"filename": "head/big/woman_head_big_8.png",
+	"frame": {"x":531,"y":565,"w":148,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":49,"w":148,"h":271},
+	"sourceSize": {"w":384,"h":366}
+},
+{
+	"filename": "head/big/woman_head_big_9.png",
+	"frame": {"x":894,"y":1534,"w":352,"h":445},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":19,"w":352,"h":445},
+	"sourceSize": {"w":512,"h":490}
+},
+{
+	"filename": "head/big/woman_head_big_13.png",
+	"frame": {"x":1773,"y":361,"w":256,"h":357},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":73,"y":7,"w":256,"h":357},
+	"sourceSize": {"w":384,"h":364}
+},
+{
+	"filename": "head/big/woman_head_big_16.png",
+	"frame": {"x":1773,"y":1,"w":248,"h":358},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":8,"w":248,"h":358},
+	"sourceSize": {"w":384,"h":366}
 },
 {
 	"filename": "head/big/woman_head_big_19.png",
-	"frame": {"x":1,"y":1573,"w":288,"h":334},
-	"rotated": true,
+	"frame": {"x":1,"y":1564,"w":288,"h":334},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":36,"w":288,"h":334},
 	"sourceSize": {"w":384,"h":370}
 },
 {
-	"filename": "head/big/woman_head_big_40.png",
-	"frame": {"x":337,"y":1573,"w":180,"h":267},
+	"filename": "head/big/woman_head_big_23.png",
+	"frame": {"x":531,"y":1534,"w":361,"h":456},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":101,"y":49,"w":180,"h":267},
+	"spriteSourceSize": {"x":77,"y":8,"w":361,"h":456},
+	"sourceSize": {"w":512,"h":488}
+},
+{
+	"filename": "head/big/woman_head_big_31.png",
+	"frame": {"x":291,"y":1564,"w":235,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":80,"y":0,"w":235,"h":362},
 	"sourceSize": {"w":384,"h":366}
 },
 {
-	"filename": "head/small/woman_head_small_2.png",
-	"frame": {"x":1840,"y":1752,"w":192,"h":252},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":252},
-	"sourceSize": {"w":192,"h":252}
-},
-{
-	"filename": "legs/big/woman_legs_big_8.png",
-	"frame": {"x":1522,"y":771,"w":523,"h":979},
+	"filename": "legs/big/woman_legs_big_1.png",
+	"frame": {"x":1,"y":565,"w":528,"h":997},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":339,"y":15,"w":523,"h":979},
+	"spriteSourceSize": {"x":342,"y":0,"w":528,"h":997},
 	"sourceSize": {"w":1024,"h":1024}
 },
 {
-	"filename": "legs/big/woman_legs_big_11.png",
-	"frame": {"x":1,"y":576,"w":523,"h":995},
+	"filename": "legs/big/woman_legs_big_4.png",
+	"frame": {"x":1234,"y":1,"w":537,"h":988},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":345,"y":0,"w":523,"h":995},
+	"spriteSourceSize": {"x":333,"y":9,"w":537,"h":988},
 	"sourceSize": {"w":1024,"h":1024}
 },
 {
-	"filename": "legs/big/woman_legs_big_15.png",
-	"frame": {"x":526,"y":998,"w":526,"h":994},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":274,"y":6,"w":526,"h":994},
-	"sourceSize": {"w":1024,"h":1024}
-},
-{
-	"filename": "legs/big/woman_legs_big_23.png",
-	"frame": {"x":526,"y":1526,"w":518,"h":973},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":280,"y":30,"w":518,"h":973},
-	"sourceSize": {"w":1024,"h":1024}
-},
-{
-	"filename": "legs/big/woman_legs_big_27.png",
-	"frame": {"x":681,"y":1,"w":535,"h":995},
+	"filename": "legs/big/woman_legs_big_12.png",
+	"frame": {"x":703,"y":1,"w":529,"h":997},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":335,"y":0,"w":535,"h":995},
+	"spriteSourceSize": {"x":339,"y":0,"w":529,"h":997},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "legs/big/woman_legs_big_30.png",
+	"frame": {"x":1263,"y":991,"w":537,"h":979},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":333,"y":12,"w":537,"h":979},
 	"sourceSize": {"w":1024,"h":1024}
 }],
 "meta": {
@@ -117,9 +141,9 @@
 	"version": "1.0",
 	"image": "woman_4.png",
 	"format": "RGBA8888",
-	"size": {"w":2046,"h":2045},
+	"size": {"w":2046,"h":1991},
 	"scale": "1",
 	"related_multi_packs": [ "woman_0.json", "woman_1.json", "woman_2.json", "woman_3.json", "woman_5.json", "woman_6.json", "woman_7.json", "woman_8.json", "woman_9.json", "woman_10.json", "woman_11.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:7afca3bddfc4404da973231e15dd6a79:a0f236a3715e52bed9e97b5dad6c231e:c14b537bc9ddfcdddbd433b42578440f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f5099a7ec11d345c2cf4409c673dffe0:a0f236a3715e52bed9e97b5dad6c231e:c14b537bc9ddfcdddbd433b42578440f$"
 }
 }

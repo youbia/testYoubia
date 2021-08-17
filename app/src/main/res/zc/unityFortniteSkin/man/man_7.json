@@ -1,61 +1,85 @@
 {"frames": [
 
 {
-	"filename": "body/big/man_body_big_7.png",
-	"frame": {"x":1251,"y":919,"w":674,"h":949},
+	"filename": "man_body_big_11.png",
+	"frame": {"x":634,"y":1011,"w":632,"h":846},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":47,"y":121,"w":674,"h":949},
-	"sourceSize": {"w":768,"h":1188}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":632,"h":846},
+	"sourceSize": {"w":632,"h":846}
 },
 {
-	"filename": "body/big/man_body_big_8.png",
-	"frame": {"x":563,"y":1040,"w":686,"h":922},
+	"filename": "man_body_big_23.png",
+	"frame": {"x":1,"y":1013,"w":631,"h":849},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":41,"y":141,"w":686,"h":922},
-	"sourceSize": {"w":768,"h":1200}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":631,"h":849},
+	"sourceSize": {"w":631,"h":849}
 },
 {
-	"filename": "body/big/man_body_big_11.png",
-	"frame": {"x":1246,"y":1,"w":684,"h":916},
+	"filename": "man_body_big_40.png",
+	"frame": {"x":1268,"y":1009,"w":628,"h":877},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":43,"y":141,"w":684,"h":916},
-	"sourceSize": {"w":768,"h":1196}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":628,"h":877},
+	"sourceSize": {"w":628,"h":877}
 },
 {
-	"filename": "body/big/man_body_big_12.png",
-	"frame": {"x":1,"y":1,"w":688,"h":924},
+	"filename": "man_head_big_25.png",
+	"frame": {"x":1600,"y":308,"w":273,"h":314},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":40,"y":135,"w":688,"h":924},
-	"sourceSize": {"w":768,"h":1194}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":273,"h":314},
+	"sourceSize": {"w":273,"h":314}
 },
 {
-	"filename": "legs/big/man_legs_big_3.png",
-	"frame": {"x":691,"y":1,"w":553,"h":1037},
+	"filename": "man_head_big_32.png",
+	"frame": {"x":1600,"y":624,"w":254,"h":306},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":108,"y":5,"w":553,"h":1037},
-	"sourceSize": {"w":768,"h":1042}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":254,"h":306},
+	"sourceSize": {"w":254,"h":306}
 },
 {
-	"filename": "legs/big/man_legs_big_5.png",
-	"frame": {"x":1,"y":927,"w":560,"h":1031},
+	"filename": "man_head_big_50.png",
+	"frame": {"x":1600,"y":1,"w":314,"h":305},
 	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":104,"y":8,"w":560,"h":1031},
-	"sourceSize": {"w":768,"h":1044}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":305},
+	"sourceSize": {"w":314,"h":305}
+},
+{
+	"filename": "man_legs_big_1.png",
+	"frame": {"x":1,"y":1,"w":528,"h":1010},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":528,"h":1010},
+	"sourceSize": {"w":528,"h":1010}
+},
+{
+	"filename": "man_legs_big_4.png",
+	"frame": {"x":1065,"y":1,"w":533,"h":1006},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":533,"h":1006},
+	"sourceSize": {"w":533,"h":1006}
+},
+{
+	"filename": "man_legs_big_41.png",
+	"frame": {"x":531,"y":1,"w":532,"h":1008},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":532,"h":1008},
+	"sourceSize": {"w":532,"h":1008}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "man_7.png",
 	"format": "RGBA8888",
-	"size": {"w":1931,"h":1963},
+	"size": {"w":1915,"h":1887},
 	"scale": "1",
-	"related_multi_packs": [ "man_0.json", "man_1.json", "man_2.json", "man_3.json", "man_4.json", "man_5.json", "man_6.json", "man_8.json", "man_9.json", "man_10.json", "man_11.json", "man_12.json", "man_13.json", "man_14.json", "man_15.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:575d1090357165d8692e16d8c9a5954b:b4908777b8de179bc653eaaa82a09bbf:e87bd6eb5aa0c85b0f0ecb308c055fee$"
+	"related_multi_packs": [ "man_0.json", "man_1.json", "man_2.json", "man_3.json", "man_4.json", "man_5.json", "man_6.json", "man_8.json", "man_9.json", "man_10.json", "man_11.json", "man_12.json", "man_13.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d521c3be9bbf93e3f5f65a6a38ba0de6:02e7e25a55f3d4468e3f1261ec7a636e:dc4db4f6947da53afa0a0d6f26f313db$"
 }
 }

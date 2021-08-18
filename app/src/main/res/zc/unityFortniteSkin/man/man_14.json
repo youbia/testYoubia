@@ -1,0 +1,37 @@
+{"frames": [
+
+{
+	"filename": "man_body_small_20.png",
+	"frame": {"x":389,"y":1,"w":171,"h":235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":8,"w":171,"h":235},
+	"sourceSize": {"w":192,"h":250}
+},
+{
+	"filename": "man_head_small_49.png",
+	"frame": {"x":1,"y":1,"w":192,"h":239},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":192,"h":239},
+	"sourceSize": {"w":192,"h":250}
+},
+{
+	"filename": "man_head_small_50.png",
+	"frame": {"x":195,"y":1,"w":192,"h":237},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":13,"w":192,"h":237},
+	"sourceSize": {"w":192,"h":250}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "man_14.png",
+	"format": "RGBA8888",
+	"size": {"w":561,"h":241},
+	"scale": "1",
+	"related_multi_packs": [ "man_0.json", "man_1.json", "man_2.json", "man_3.json", "man_4.json", "man_5.json", "man_6.json", "man_7.json", "man_8.json", "man_9.json", "man_10.json", "man_11.json", "man_12.json", "man_13.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8c4e2e288a196d8d05702338a96b7189:63eb0cada9cebe96c5ad9ccf2800d7a4:902f141f38c1d31c1cb835e8a829ca6e$"
+}
+}

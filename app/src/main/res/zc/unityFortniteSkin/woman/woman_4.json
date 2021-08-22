@@ -2,31 +2,23 @@
 
 {
 	"filename": "buding.png",
-	"frame": {"x":1531,"y":1,"w":265,"h":343},
+	"frame": {"x":1536,"y":1653,"w":265,"h":343},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":265,"h":343},
 	"sourceSize": {"w":265,"h":343}
 },
 {
-	"filename": "woman_arms_big_10.png",
-	"frame": {"x":492,"y":907,"w":540,"h":397},
+	"filename": "woman_arms_big_3.png",
+	"frame": {"x":995,"y":408,"w":537,"h":397},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":540,"h":397},
-	"sourceSize": {"w":540,"h":397}
-},
-{
-	"filename": "woman_arms_big_13.png",
-	"frame": {"x":1530,"y":406,"w":517,"h":405},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":517,"h":405},
-	"sourceSize": {"w":517,"h":405}
+	"spriteSourceSize": {"x":0,"y":0,"w":537,"h":397},
+	"sourceSize": {"w":537,"h":397}
 },
 {
 	"filename": "woman_arms_big_14.png",
-	"frame": {"x":990,"y":406,"w":538,"h":405},
+	"frame": {"x":995,"y":1,"w":538,"h":405},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":538,"h":405},
@@ -34,7 +26,7 @@
 },
 {
 	"filename": "woman_arms_big_20.png",
-	"frame": {"x":990,"y":1,"w":539,"h":403},
+	"frame": {"x":499,"y":920,"w":539,"h":403},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":539,"h":403},
@@ -42,23 +34,23 @@
 },
 {
 	"filename": "woman_arms_big_25.png",
-	"frame": {"x":492,"y":1306,"w":522,"h":424},
+	"frame": {"x":498,"y":1325,"w":522,"h":424},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":522,"h":424},
 	"sourceSize": {"w":522,"h":424}
 },
 {
-	"filename": "woman_body_big_2.png",
-	"frame": {"x":1522,"y":1715,"w":244,"h":329},
+	"filename": "woman_body_big_7.png",
+	"frame": {"x":1534,"y":408,"w":270,"h":337},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":329},
-	"sourceSize": {"w":244,"h":329}
+	"spriteSourceSize": {"x":0,"y":0,"w":270,"h":337},
+	"sourceSize": {"w":270,"h":337}
 },
 {
 	"filename": "woman_body_big_13.png",
-	"frame": {"x":1016,"y":1711,"w":263,"h":323},
+	"frame": {"x":1022,"y":1712,"w":263,"h":323},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":263,"h":323},
@@ -66,92 +58,108 @@
 },
 {
 	"filename": "woman_body_big_17.png",
-	"frame": {"x":1281,"y":1711,"w":239,"h":334},
+	"frame": {"x":1803,"y":1653,"w":239,"h":334},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":239,"h":334},
 	"sourceSize": {"w":239,"h":334}
 },
 {
+	"filename": "woman_body_big_27.png",
+	"frame": {"x":1806,"y":343,"w":238,"h":335},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":238,"h":335},
+	"sourceSize": {"w":238,"h":335}
+},
+{
+	"filename": "woman_body_big_28.png",
+	"frame": {"x":1805,"y":1,"w":240,"h":340},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":340},
+	"sourceSize": {"w":240,"h":340}
+},
+{
 	"filename": "woman_body_big_31.png",
-	"frame": {"x":1768,"y":1715,"w":243,"h":330},
+	"frame": {"x":1287,"y":1712,"w":243,"h":330},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":243,"h":330},
 	"sourceSize": {"w":243,"h":330}
 },
 {
-	"filename": "woman_body_big_32.png",
-	"frame": {"x":1798,"y":1,"w":246,"h":367},
+	"filename": "woman_head_big_23.png",
+	"frame": {"x":1535,"y":1,"w":268,"h":312},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":246,"h":367},
-	"sourceSize": {"w":246,"h":367}
+	"spriteSourceSize": {"x":0,"y":0,"w":268,"h":312},
+	"sourceSize": {"w":268,"h":312}
 },
 {
 	"filename": "woman_head_big_26.png",
-	"frame": {"x":716,"y":1732,"w":209,"h":285},
+	"frame": {"x":498,"y":1751,"w":209,"h":285},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":209,"h":285},
 	"sourceSize": {"w":209,"h":285}
 },
 {
-	"filename": "woman_head_big_36.png",
-	"frame": {"x":492,"y":1732,"w":222,"h":310},
+	"filename": "woman_head_big_38.png",
+	"frame": {"x":709,"y":1751,"w":206,"h":288},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":222,"h":310},
-	"sourceSize": {"w":222,"h":310}
+	"spriteSourceSize": {"x":0,"y":0,"w":206,"h":288},
+	"sourceSize": {"w":206,"h":288}
 },
 {
 	"filename": "woman_legs_big_9.png",
-	"frame": {"x":497,"y":1,"w":491,"h":904},
+	"frame": {"x":1536,"y":747,"w":491,"h":904},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":491,"h":904},
 	"sourceSize": {"w":491,"h":904}
 },
 {
-	"filename": "woman_legs_big_17.png",
-	"frame": {"x":1,"y":906,"w":489,"h":902},
+	"filename": "woman_legs_big_10.png",
+	"frame": {"x":1,"y":1,"w":496,"h":934},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":902},
-	"sourceSize": {"w":489,"h":902}
+	"spriteSourceSize": {"x":0,"y":0,"w":496,"h":934},
+	"sourceSize": {"w":496,"h":934}
+},
+{
+	"filename": "woman_legs_big_22.png",
+	"frame": {"x":499,"y":1,"w":494,"h":917},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":917},
+	"sourceSize": {"w":494,"h":917}
 },
 {
 	"filename": "woman_legs_big_30.png",
-	"frame": {"x":1,"y":1,"w":494,"h":903},
+	"frame": {"x":1040,"y":807,"w":494,"h":903},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":494,"h":903},
 	"sourceSize": {"w":494,"h":903}
 },
 {
-	"filename": "woman_legs_big_33.png",
-	"frame": {"x":1034,"y":813,"w":489,"h":896},
+	"filename": "woman_legs_big_32.png",
+	"frame": {"x":1,"y":937,"w":495,"h":906},
 	"rotated": false,
 	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":489,"h":896},
-	"sourceSize": {"w":489,"h":896}
-},
-{
-	"filename": "woman_legs_big_35.png",
-	"frame": {"x":1525,"y":813,"w":481,"h":900},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":481,"h":900},
-	"sourceSize": {"w":481,"h":900}
+	"spriteSourceSize": {"x":0,"y":0,"w":495,"h":906},
+	"sourceSize": {"w":495,"h":906}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "woman_4.png",
 	"format": "RGBA8888",
-	"size": {"w":2048,"h":2046},
+	"size": {"w":2046,"h":2043},
 	"scale": "1",
-	"related_multi_packs": [ "woman_0.json", "woman_1.json", "woman_2.json", "woman_3.json", "woman_5.json", "woman_6.json", "woman_7.json", "woman_8.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:6d4d6bd6829c88bb830a94a472457efc:e6206b466145c302062872e90d808052:d2bb54f63532420814fa77683eb7e7f3$"
+	"related_multi_packs": [ "woman_0.json", "woman_1.json", "woman_2.json", "woman_3.json", "woman_5.json", "woman_6.json", "woman_7.json", "woman_8.json", "woman_9.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:04c260e81df9e37a7bf451e332cefaf8:3f82cee5ac3ab59b7b1b291ff5371382:42e40a759b3c2d83635a66fe26294c3a$"
 }
 }

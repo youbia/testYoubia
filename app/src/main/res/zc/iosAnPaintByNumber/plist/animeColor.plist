@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Photo</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>111</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+	</array>
+	<key>Category</key>
+	<array>
+		<string>b_Girl</string>
+		<string>c_Boy</string>
+		<string>d_Cute</string>
+		<string>e_Costume</string>
+		<string>f_Fashions</string>
+		<string>g_Wallpaper</string>
+		<string>h_Love</string>
+		<string>i_Friend</string>
+		<string>j_Scenery</string>
+		<string>k_Lifestyle</string>
+		<string>l_Other</string>
+	</array>
+</dict>
+</plist>

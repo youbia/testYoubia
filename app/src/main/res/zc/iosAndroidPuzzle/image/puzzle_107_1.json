@@ -2,6 +2,14 @@
 
 {
 	"filename": "Group_1_3.png",
+	"frame": {"x":785,"y":1329,"w":184,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":443,"w":184,"h":183},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_4.png",
 	"frame": {"x":1481,"y":1090,"w":319,"h":535},
 	"rotated": true,
 	"trimmed": true,
@@ -9,7 +17,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_4.png",
+	"filename": "Group_1_5.png",
 	"frame": {"x":1003,"y":1090,"w":812,"h":476},
 	"rotated": true,
 	"trimmed": true,
@@ -63,23 +71,15 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1087},
 	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "组_1_拷贝_2_副本.png",
-	"frame": {"x":785,"y":1329,"w":184,"h":183},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":17,"y":443,"w":184,"h":183},
-	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "puzzle_11_1.png",
+	"image": "puzzle_107_1.png",
 	"format": "RGBA8888",
 	"size": {"w":2017,"h":2043},
 	"scale": "1",
-	"related_multi_packs": [ "puzzle_11_0.json", "puzzle_11_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b8274dc1fb89f0a3648cdb1e47f01ff8:98eb3ad4a9d9eae03607cb3aaa38cd29:85a969faee14c72a4de31a95fb8c1c95$"
+	"related_multi_packs": [ "puzzle_107_0.json", "puzzle_107_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:efed9a9bf7771c9ce2c779b0d51e5230:18fc8758d9d0f096118c963e61d73427:c7263f4d9547580053ee63ca35cc5631$"
 }
 }

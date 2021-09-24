@@ -91,11 +91,11 @@
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
-	"image": "puzzle_11_1.png",
+	"image": "puzzle_77_1.png",
 	"format": "RGBA8888",
 	"size": {"w":2029,"h":2013},
 	"scale": "1",
-	"related_multi_packs": [ "puzzle_11_0.json", "puzzle_11_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:3f42a415b7a760703e5d56c0f5a45172:bcb7ca158bee858c06ffa631b7e88924:85a969faee14c72a4de31a95fb8c1c95$"
+	"related_multi_packs": [ "puzzle_77_0.json", "puzzle_77_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:47ddac8871878c640552648f92e7e5e9:908d324b1ff12e5272d70590664c3db6:5ff6022fc6b4bc9d300bbf72eb162b94$"
 }
 }

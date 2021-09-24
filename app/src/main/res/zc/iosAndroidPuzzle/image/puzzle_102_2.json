@@ -1,0 +1,149 @@
+{"frames": [
+
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1,"y":818,"w":1000,"h":325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":325},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_4.png",
+	"frame": {"x":994,"y":1293,"w":260,"h":322},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":322},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_5.png",
+	"frame": {"x":1003,"y":771,"w":227,"h":192},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":286,"y":232,"w":227,"h":192},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_6.png",
+	"frame": {"x":1,"y":1293,"w":486,"h":474},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":514,"y":152,"w":486,"h":474},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_7.png",
+	"frame": {"x":1003,"y":965,"w":221,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":104,"w":221,"h":326},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":783,"y":1617,"w":305,"h":448},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":305,"h":448},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_5.png",
+	"frame": {"x":477,"y":1571,"w":304,"h":394},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":311,"w":304,"h":394},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_6.png",
+	"frame": {"x":645,"y":1145,"w":218,"h":347},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":541,"w":218,"h":347},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_7.png",
+	"frame": {"x":1,"y":1781,"w":191,"h":295},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":809,"y":757,"w":191,"h":295},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_9.png",
+	"frame": {"x":1,"y":1145,"w":138,"h":358},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":862,"y":989,"w":138,"h":358},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_10.png",
+	"frame": {"x":361,"y":1145,"w":124,"h":282},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1068,"w":124,"h":282},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_1.png",
+	"frame": {"x":298,"y":1781,"w":97,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":429,"y":541,"w":97,"h":170},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":477,"y":1365,"w":204,"h":461},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":350,"y":607,"w":204,"h":461},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_3.png",
+	"frame": {"x":1003,"y":542,"w":245,"h":227},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":711,"w":245,"h":227},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":257,"h":539},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":328,"y":535,"w":257,"h":539},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_3.png",
+	"frame": {"x":477,"y":1271,"w":70,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":449,"y":544,"w":70,"h":79},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_3_Group_2.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":815},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":535,"w":1000,"h":815},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_11_2.png",
+	"format": "RGBA8888",
+	"size": {"w":1261,"h":1973},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_11_0.json", "puzzle_11_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2352b11e7a7ad3d709ed1ae9222f6caa:c31228e5f91178a1008cefe2e4ec25a0:85a969faee14c72a4de31a95fb8c1c95$"
+}
+}

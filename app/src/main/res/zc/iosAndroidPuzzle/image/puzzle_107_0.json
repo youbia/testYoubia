@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1350},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_1.png",
+	"frame": {"x":1,"y":1353,"w":678,"h":560},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":678,"h":560},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_7.png",
+	"frame": {"x":1646,"y":1787,"w":272,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":417,"y":636,"w":272,"h":220},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_8.png",
+	"frame": {"x":931,"y":1353,"w":551,"h":608},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":449,"y":479,"w":551,"h":608},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_1.png",
+	"frame": {"x":563,"y":1353,"w":626,"h":366},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":374,"y":0,"w":626,"h":366},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":1484,"y":1353,"w":538,"h":432},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":538,"h":432},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_4.png",
+	"frame": {"x":1484,"y":1787,"w":249,"h":160},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":488,"y":770,"w":249,"h":160},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1350},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_11_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2023,"h":2037},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_11_1.json", "puzzle_11_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b8274dc1fb89f0a3648cdb1e47f01ff8:98eb3ad4a9d9eae03607cb3aaa38cd29:85a969faee14c72a4de31a95fb8c1c95$"
+}
+}

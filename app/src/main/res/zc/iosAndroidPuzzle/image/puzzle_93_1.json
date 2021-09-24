@@ -1,120 +1,40 @@
 {"frames": [
 
 {
-	"filename": "Group_1_2.png",
-	"frame": {"x":926,"y":967,"w":120,"h":1008},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":791,"y":284,"w":120,"h":1008},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_1_5.png",
-	"frame": {"x":1522,"y":1089,"w":174,"h":130},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":358,"y":820,"w":174,"h":130},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_1_6.png",
-	"frame": {"x":1654,"y":1089,"w":142,"h":118},
+	"filename": "Group_2_7.png",
+	"frame": {"x":926,"y":1,"w":71,"h":48},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":546,"y":1163,"w":142,"h":118},
+	"spriteSourceSize": {"x":343,"y":1232,"w":71,"h":48},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_1.png",
-	"frame": {"x":926,"y":863,"w":118,"h":100},
+	"filename": "Group_2_10.png",
+	"frame": {"x":863,"y":886,"w":169,"h":173},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":478,"y":548,"w":118,"h":100},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_2.png",
-	"frame": {"x":1464,"y":1422,"w":104,"h":100},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":419,"y":742,"w":104,"h":100},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_5.png",
-	"frame": {"x":1297,"y":1089,"w":169,"h":223},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":418,"y":863,"w":169,"h":223},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_6.png",
-	"frame": {"x":926,"y":1089,"w":307,"h":369},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":345,"y":902,"w":307,"h":369},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_11.png",
-	"frame": {"x":926,"y":1398,"w":163,"h":169},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":270,"y":64,"w":163,"h":169},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_12.png",
-	"frame": {"x":1464,"y":1265,"w":155,"h":162},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":497,"y":289,"w":155,"h":162},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_13.png",
-	"frame": {"x":1066,"y":1,"w":964,"h":797},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":0,"w":964,"h":797},
+	"spriteSourceSize": {"x":0,"y":586,"w":169,"h":173},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_2_14.png",
-	"frame": {"x":1628,"y":1265,"w":112,"h":161},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":888,"y":506,"w":112,"h":161},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_15.png",
-	"frame": {"x":1091,"y":1398,"w":165,"h":168},
-	"rotated": false,
+	"frame": {"x":863,"y":1061,"w":165,"h":168},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":789,"y":64,"w":165,"h":168},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_16.png",
-	"frame": {"x":1297,"y":1260,"w":165,"h":169},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":62,"y":275,"w":165,"h":169},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
 	"filename": "Line_1_Group_1.png",
-	"frame": {"x":1,"y":1,"w":860,"h":1063},
-	"rotated": true,
+	"frame": {"x":1,"y":886,"w":860,"h":1063},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":57,"y":235,"w":860,"h":1063},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Line_2_Group_1.png",
-	"frame": {"x":1,"y":863,"w":883,"h":923},
+	"frame": {"x":1,"y":1,"w":883,"h":923},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":57,"y":364,"w":883,"h":923},
@@ -125,9 +45,9 @@
 	"version": "1.0",
 	"image": "puzzle_93_1.png",
 	"format": "RGBA8888",
-	"size": {"w":1935,"h":1747},
+	"size": {"w":1033,"h":1950},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_93_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:42db6bbd34370088234a1d21295b09d8:5c9c74ec882a29c0b324a57d5c561a11:16f656a587b9e59a75e598102a1cf173$"
+	"smartupdate": "$TexturePacker:SmartUpdate:38069dbaccc01fe378207a66abf927c1:7d2009a245d89e291f0331a64e54b7bf:16f656a587b9e59a75e598102a1cf173$"
 }
 }

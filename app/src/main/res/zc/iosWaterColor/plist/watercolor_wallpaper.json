@@ -1677,10 +1677,13 @@
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"animals_water_110","categoryName":"Animals"}
   ,{"appurl":"","ads":"no","store":"no","model":"water","image":"animals_water_111","categoryName":"Animals"}
   ,{"appurl":"","ads":"yes","store":"no","model":"water","image":"travel_water_192","categoryName":"Travel"}
-  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"travel_water_193","categoryName":"Travel"},
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"travel_water_193","categoryName":"Travel"}
 
 
-
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"travel_water_194","categoryName":"Travel"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"travel_water_195","categoryName":"Travel"}
+  ,{"appurl":"","ads":"yes","store":"no","model":"water","image":"landscapes_water_156","categoryName":"Landscapes"}
+  ,{"appurl":"","ads":"no","store":"no","model":"water","image":"landscapes_water_157","categoryName":"Landscapes"},
 
     {"appurl":"https://play.google.com/store/apps/details?id=com.art.puzzle.jigsaw.coloring","model":"","store":"no","ads":"no","image":"artPuzzle","categoryName":"App"}
     ,{"appurl":"https://play.google.com/store/apps/details?id=oil.painting.color.by.number","model":"","store":"no","ads":"no","image":"oilcolor","categoryName":"App"}

@@ -8490,6 +8490,40 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>travel_water_194</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>travel_water_195</string>
+			<key>category</key>
+			<string>Travel</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_156</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>landscapes_water_157</string>
+			<key>category</key>
+			<string>Landscapes</string>
+			<key>model</key>
+			<string>water</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>OilPainting</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1455637736</string>

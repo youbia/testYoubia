@@ -1,0 +1,85 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":1346},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_1.png",
+	"frame": {"x":1,"y":1349,"w":967,"h":637},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":115,"w":967,"h":637},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1216},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":131,"w":1000,"h":1216},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_3.png",
+	"frame": {"x":1901,"y":1503,"w":110,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1206,"w":110,"h":140},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_8.png",
+	"frame": {"x":1901,"y":1727,"w":103,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":828,"y":1212,"w":103,"h":70},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_9.png",
+	"frame": {"x":1901,"y":1645,"w":104,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":686,"y":1237,"w":104,"h":80},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_10.png",
+	"frame": {"x":1901,"y":1799,"w":136,"h":50},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":597,"y":1137,"w":136,"h":50},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":970,"y":1503,"w":929,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":109,"w":929,"h":490},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1003,"y":1219,"w":1000,"h":282},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1065,"w":1000,"h":282},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_121_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2012,"h":1994},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_121_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:228a85955a176ce289c4bc4841c469e5:c8c57032dd8d430a3f7862ad47316796:cc4c554c54a0d586ea3768ce7df200cf$"
+}
+}

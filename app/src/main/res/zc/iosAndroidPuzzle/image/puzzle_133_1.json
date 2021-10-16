@@ -1,32 +1,40 @@
 {"frames": [
 
 {
-	"filename": "Group_1_2.png",
-	"frame": {"x":250,"y":1349,"w":174,"h":563},
+	"filename": "Group_1_1.png",
+	"frame": {"x":1,"y":1,"w":783,"h":1009},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":826,"y":482,"w":174,"h":563},
+	"spriteSourceSize": {"x":0,"y":1,"w":783,"h":1009},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_1_5.png",
-	"frame": {"x":740,"y":1791,"w":176,"h":236},
-	"rotated": true,
+	"frame": {"x":1753,"y":368,"w":176,"h":198},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":824,"y":183,"w":176,"h":236},
+	"spriteSourceSize": {"x":824,"y":183,"w":176,"h":198},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_6.png",
-	"frame": {"x":1620,"y":1716,"w":222,"h":191},
+	"filename": "Group_1_7.png",
+	"frame": {"x":867,"y":368,"w":644,"h":1145},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":644,"h":1145},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_9.png",
+	"frame": {"x":1513,"y":368,"w":792,"h":238},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":777,"y":23,"w":222,"h":191},
+	"spriteSourceSize": {"x":208,"y":1066,"w":792,"h":238},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_2_1.png",
-	"frame": {"x":596,"y":1349,"w":390,"h":440},
+	"frame": {"x":1513,"y":1162,"w":390,"h":440},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":610,"y":713,"w":390,"h":440},
@@ -34,23 +42,15 @@
 },
 {
 	"filename": "Group_2_2.png",
-	"frame": {"x":426,"y":1796,"w":202,"h":312},
+	"frame": {"x":1499,"y":1604,"w":202,"h":312},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":223,"y":876,"w":202,"h":312},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_3.png",
-	"frame": {"x":426,"y":1349,"w":168,"h":445},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":757,"w":168,"h":445},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
 	"filename": "Group_2_4.png",
-	"frame": {"x":988,"y":1716,"w":283,"h":379},
+	"frame": {"x":867,"y":1515,"w":283,"h":379},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":99,"y":854,"w":283,"h":379},
@@ -58,50 +58,26 @@
 },
 {
 	"filename": "Group_2_6.png",
-	"frame": {"x":1369,"y":1716,"w":249,"h":260},
+	"frame": {"x":1248,"y":1515,"w":249,"h":260},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":487,"y":487,"w":249,"h":260},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_7.png",
-	"frame": {"x":1,"y":1349,"w":582,"h":247},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":314,"y":1014,"w":582,"h":247},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_2_8.png",
-	"frame": {"x":1813,"y":1716,"w":140,"h":122},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":150,"y":1224,"w":140,"h":122},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
 	"filename": "Line_1_Group_1.png",
-	"frame": {"x":988,"y":1349,"w":365,"h":1048},
+	"frame": {"x":786,"y":1,"w":365,"h":1048},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":635,"y":3,"w":365,"h":1048},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_2_Group_1.png",
-	"frame": {"x":1003,"y":1,"w":1000,"h":1306},
-	"rotated": false,
+	"filename": "Line_2_Group_2.png",
+	"frame": {"x":1,"y":1012,"w":809,"h":864},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":4,"w":1000,"h":1306},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "图层_1.png",
-	"frame": {"x":1,"y":1,"w":1000,"h":1346},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":1346},
+	"spriteSourceSize": {"x":93,"y":481,"w":809,"h":864},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -109,9 +85,9 @@
 	"version": "1.0",
 	"image": "puzzle_133_1.png",
 	"format": "RGBA8888",
-	"size": {"w":2037,"h":2000},
+	"size": {"w":1930,"h":1822},
 	"scale": "1",
-	"related_multi_packs": [ "puzzle_133_0.json", "puzzle_133_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:d7c3acb3436856f0e67c5b02c04b97b1:180f233a0c60db3f6eb29cb90621b284:4cc7b005f335d6c2a658c7f9b154b3b0$"
+	"related_multi_packs": [ "puzzle_133_0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c30b420bc9c988510b8cc2fac811052c:ed9c0ff8a1debea368d52df4ea8a3ce5:917f117c75ec53f4879db78ea53616a7$"
 }
 }

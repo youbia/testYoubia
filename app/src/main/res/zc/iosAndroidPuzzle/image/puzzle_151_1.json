@@ -1,51 +1,43 @@
 {"frames": [
 
 {
-	"filename": "Group_3_9.png",
-	"frame": {"x":1,"y":1249,"w":1000,"h":309},
+	"filename": "Group_3_8.png",
+	"frame": {"x":1003,"y":1910,"w":294,"h":120},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":309},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_3_13.png",
-	"frame": {"x":1,"y":1560,"w":1000,"h":217},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":217},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Line_1_Group_1.png",
-	"frame": {"x":1,"y":1,"w":1000,"h":1246},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":100,"w":1000,"h":1246},
+	"spriteSourceSize": {"x":247,"y":494,"w":294,"h":120},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Line_2_Group_1.png",
-	"frame": {"x":1003,"y":1087,"w":1000,"h":918},
+	"frame": {"x":1003,"y":990,"w":1000,"h":918},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":428,"w":1000,"h":918},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
+	"filename": "Line_2_Group_2.png",
+	"frame": {"x":1,"y":1087,"w":1000,"h":958},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":388,"w":1000,"h":958},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
 	"filename": "Line_3_Group_2.png",
-	"frame": {"x":1003,"y":1,"w":1000,"h":1084},
+	"frame": {"x":1,"y":1,"w":1000,"h":1084},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":262,"w":1000,"h":1084},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_4_Group_3.png",
-	"frame": {"x":1,"y":1779,"w":999,"h":217},
+	"filename": "Line_3_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":987},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":7,"w":999,"h":217},
+	"spriteSourceSize": {"x":0,"y":37,"w":1000,"h":987},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -53,9 +45,9 @@
 	"version": "1.0",
 	"image": "puzzle_151_1.png",
 	"format": "RGBA8888",
-	"size": {"w":2004,"h":2006},
+	"size": {"w":2004,"h":2046},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_151_0.json", "puzzle_151_2.json", "puzzle_151_3.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b3ebbe264a8ea96f5a418c2f52f4aece:1b192004dbdcea58823ac90ab7757ba7:83ea6c63de339890bbcb9220efc8fb55$"
+	"smartupdate": "$TexturePacker:SmartUpdate:e66a009003aa91911730bd47f08c3f7f:a3a46249055acea1a35a1f51dba70fe1:83ea6c63de339890bbcb9220efc8fb55$"
 }
 }

@@ -41,7 +41,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_8-001.png",
+	"filename": "Group_1_8.png",
 	"frame": {"x":1601,"y":497,"w":379,"h":250},
 	"rotated": false,
 	"trimmed": true,
@@ -49,7 +49,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_8.png",
+	"filename": "Group_1_9.png",
 	"frame": {"x":1403,"y":935,"w":67,"h":62},
 	"rotated": false,
 	"trimmed": true,
@@ -57,7 +57,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_9.png",
+	"filename": "Group_1_10.png",
 	"frame": {"x":1601,"y":749,"w":244,"h":103},
 	"rotated": true,
 	"trimmed": true,
@@ -65,7 +65,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_12.png",
+	"filename": "Group_1_13.png",
 	"frame": {"x":1472,"y":935,"w":127,"h":56},
 	"rotated": false,
 	"trimmed": true,
@@ -73,7 +73,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_13.png",
+	"filename": "Group_1_14.png",
 	"frame": {"x":1540,"y":406,"w":451,"h":89},
 	"rotated": false,
 	"trimmed": true,
@@ -81,7 +81,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_14.png",
+	"filename": "Group_1_15.png",
 	"frame": {"x":1540,"y":1,"w":471,"h":403},
 	"rotated": false,
 	"trimmed": true,
@@ -89,7 +89,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_15.png",
+	"filename": "Group_1_16.png",
 	"frame": {"x":1014,"y":1003,"w":1000,"h":95},
 	"rotated": false,
 	"trimmed": true,
@@ -97,7 +97,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_16.png",
+	"filename": "Group_1_17.png",
 	"frame": {"x":990,"y":1,"w":1000,"h":153},
 	"rotated": true,
 	"trimmed": true,
@@ -105,7 +105,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_17.png",
+	"filename": "Group_1_18.png",
 	"frame": {"x":1,"y":1003,"w":611,"h":238},
 	"rotated": false,
 	"trimmed": true,
@@ -113,7 +113,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_1_18.png",
+	"filename": "Group_1_19.png",
 	"frame": {"x":614,"y":1003,"w":398,"h":225},
 	"rotated": false,
 	"trimmed": true,
@@ -152,6 +152,6 @@
 	"size": {"w":2015,"h":1242},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_147_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:e729fd8138e6a95c981b9e9945bb51f1:7d40b485644de9d7a48beab8897bf15c:0032abc00fc3e883af7da2da80fbd691$"
+	"smartupdate": "$TexturePacker:SmartUpdate:9476c1d9dff06c0b487fcd53c8484ab2:d2c01f7e3979062873302fee30e87864:0032abc00fc3e883af7da2da80fbd691$"
 }
 }

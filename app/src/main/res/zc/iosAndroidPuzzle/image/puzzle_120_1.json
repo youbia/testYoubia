@@ -17,7 +17,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_7.png",
+	"filename": "Group_2_6.png",
 	"frame": {"x":1,"y":1941,"w":53,"h":214},
 	"rotated": true,
 	"trimmed": true,
@@ -25,7 +25,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_2_8.png",
+	"filename": "Group_2_7.png",
 	"frame": {"x":584,"y":1172,"w":203,"h":566},
 	"rotated": false,
 	"trimmed": true,
@@ -128,6 +128,6 @@
 	"size": {"w":1188,"h":2004},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_120_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:421a88bbc10c513163c2cd8291e7d905:ed57072dad540010c3c6c27671537fbf:8de8aaec0f313ab9c727e1f3238308d6$"
+	"smartupdate": "$TexturePacker:SmartUpdate:7c44f15c1ac97487bd2bd3b49ae4e2e8:f2605d99dfe7d7363143273da8678479:8de8aaec0f313ab9c727e1f3238308d6$"
 }
 }

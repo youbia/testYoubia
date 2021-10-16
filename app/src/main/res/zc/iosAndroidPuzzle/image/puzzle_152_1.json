@@ -233,7 +233,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_2_Group_3-001.png",
+	"filename": "Line_2_Group_3.png",
 	"frame": {"x":388,"y":1,"w":650,"h":572},
 	"rotated": false,
 	"trimmed": true,
@@ -241,7 +241,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_2_Group_3.png",
+	"filename": "Line_2_Group_4.png",
 	"frame": {"x":1040,"y":1,"w":556,"h":543},
 	"rotated": false,
 	"trimmed": true,
@@ -265,7 +265,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_3_Group_3.png",
+	"filename": "Line_3_Group_4.png",
 	"frame": {"x":1258,"y":1270,"w":312,"h":149},
 	"rotated": true,
 	"trimmed": true,
@@ -288,6 +288,6 @@
 	"size": {"w":1638,"h":2020},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_152_0.json", "puzzle_152_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:a802d09797e65042f4f56278f09d3721:1bb95f4004e5393c1a5124e09852995e:2db890b1d74f1b3b02b79d936aa73851$"
+	"smartupdate": "$TexturePacker:SmartUpdate:d9e5ffae09a6c8641889ec2c9212a613:1bb95f4004e5393c1a5124e09852995e:2db890b1d74f1b3b02b79d936aa73851$"
 }
 }

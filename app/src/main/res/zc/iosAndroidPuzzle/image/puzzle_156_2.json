@@ -89,7 +89,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_1_Group_1-001.png",
+	"filename": "Line_1_Group_1.png",
 	"frame": {"x":1288,"y":369,"w":1000,"h":103},
 	"rotated": true,
 	"trimmed": true,
@@ -112,6 +112,6 @@
 	"size": {"w":1697,"h":1540},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_156_0.json", "puzzle_156_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:bf2e1fd6c9f21f0561f1148f9f746ed3:7cfe96d4260140ea2c778437b920dce2:45f44c618155356061e83c1132f6a268$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a6a6ea68ec8fa57e268312ab9fcde83f:4cd1202fa47b1686ed5278e19054cb06:45f44c618155356061e83c1132f6a268$"
 }
 }

@@ -1,7 +1,7 @@
 {"frames": [
 
 {
-	"filename": "background.png",
+	"filename": "Background.png",
 	"frame": {"x":1,"y":1,"w":1000,"h":1350},
 	"rotated": false,
 	"trimmed": false,
@@ -64,6 +64,6 @@
 	"size": {"w":2045,"h":2044},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_174_1.json", "puzzle_174_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:1d6b86c872d32a2858677a7a76c47785:675c759d5c91034abbecc5c5df2a5195:2232f74361675be1b89bd686efc35456$"
+	"smartupdate": "$TexturePacker:SmartUpdate:b724bcce8d558d29d68f47d22e95b98b:7c10444cf0168fa932601925d6e52eb9:2232f74361675be1b89bd686efc35456$"
 }
 }

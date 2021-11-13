@@ -1,0 +1,61 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1350},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_6.png",
+	"frame": {"x":1003,"y":1920,"w":115,"h":587},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":526,"y":0,"w":115,"h":587},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_2.png",
+	"frame": {"x":1003,"y":1353,"w":565,"h":971},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":565,"h":971},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_1.png",
+	"frame": {"x":1592,"y":1920,"w":350,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":1066,"w":350,"h":106},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1350},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1350},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_3_Group_1.png",
+	"frame": {"x":1,"y":1353,"w":1000,"h":694},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":694},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_175_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2004,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_175_1.json", "puzzle_175_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:28774e5f1e81444d81bd8c06084c26b2:75da1e108a634e0d2f51f96a4636cb61:07367d9e5a5bfedca21b3b11c53d65a8$"
+}
+}

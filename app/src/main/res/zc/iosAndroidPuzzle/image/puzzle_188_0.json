@@ -2,15 +2,15 @@
 
 {
 	"filename": "Background.png",
-	"frame": {"x":1,"y":1,"w":1000,"h":1346},
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":1346},
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_2_10.png",
-	"frame": {"x":1,"y":1349,"w":1000,"h":549},
+	"frame": {"x":1,"y":1351,"w":1000,"h":549},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":760,"w":1000,"h":549},
@@ -18,23 +18,15 @@
 },
 {
 	"filename": "Group_3_3.png",
-	"frame": {"x":1003,"y":1316,"w":998,"h":648},
+	"frame": {"x":1003,"y":1317,"w":998,"h":649},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":2,"y":699,"w":998,"h":648},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_4_5.png",
-	"frame": {"x":1092,"y":1966,"w":48,"h":75},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":901,"y":498,"w":48,"h":75},
+	"spriteSourceSize": {"x":2,"y":699,"w":998,"h":649},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_4_6.png",
-	"frame": {"x":1169,"y":1966,"w":40,"h":36},
+	"frame": {"x":1092,"y":1968,"w":40,"h":36},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":805,"y":454,"w":40,"h":36},
@@ -42,7 +34,7 @@
 },
 {
 	"filename": "Group_4_14.png",
-	"frame": {"x":1002,"y":1966,"w":39,"h":88},
+	"frame": {"x":1002,"y":1968,"w":39,"h":88},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":632,"y":520,"w":39,"h":88},
@@ -50,15 +42,15 @@
 },
 {
 	"filename": "Line_1_Group_4.png",
-	"frame": {"x":1003,"y":1,"w":1000,"h":1313},
+	"frame": {"x":1003,"y":1,"w":1000,"h":1314},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":34,"w":1000,"h":1313},
+	"spriteSourceSize": {"x":0,"y":34,"w":1000,"h":1314},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Line_2_Group_2.png",
-	"frame": {"x":1,"y":1900,"w":999,"h":139},
+	"frame": {"x":1,"y":1902,"w":999,"h":139},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":512,"w":999,"h":139},
@@ -69,9 +61,9 @@
 	"version": "1.0",
 	"image": "puzzle_188_0.png",
 	"format": "RGBA8888",
-	"size": {"w":2004,"h":2040},
+	"size": {"w":2004,"h":2042},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_188_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:dfb4040451e00a84d7681d727ba774bc:73383f4e3775abc27b095ca748d5a28a:3eddd8e2e085de68ee264e17b910c08a$"
+	"smartupdate": "$TexturePacker:SmartUpdate:8eb7375cf977c4db41b0008f21001b2d:47b74433e864b578ae1c8d6d2f1b6ea8:3eddd8e2e085de68ee264e17b910c08a$"
 }
 }

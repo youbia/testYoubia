@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1803,"y":1,"w":241,"h":223},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":759,"y":527,"w":241,"h":223},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1171,"y":1351,"w":624,"h":238},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":376,"y":161,"w":624,"h":238},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_4.png",
+	"frame": {"x":934,"y":1351,"w":235,"h":253},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":587,"y":1040,"w":235,"h":253},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_14.png",
+	"frame": {"x":342,"y":1351,"w":590,"h":269},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":197,"y":82,"w":590,"h":269},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_2.png",
+	"frame": {"x":1797,"y":1351,"w":227,"h":233},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":457,"y":275,"w":227,"h":233},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_11.png",
+	"frame": {"x":1,"y":1351,"w":279,"h":339},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":420,"y":506,"w":279,"h":339},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_9.png",
+	"frame": {"x":1003,"y":1,"w":798,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":798,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_195_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2027,"h":1631},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_195_1.json", "puzzle_195_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:73cce74783a147acdc3c2810aa1139e3:356a00ee9464f480a28655516028bb5d:20b6f458d6fcd6a44a55e6c0cb8e8893$"
+}
+}

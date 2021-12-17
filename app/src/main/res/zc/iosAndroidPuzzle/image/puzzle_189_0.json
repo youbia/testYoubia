@@ -1,0 +1,229 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":178,"y":1933,"w":100,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":832,"w":100,"h":157},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_7.png",
+	"frame": {"x":1,"y":1933,"w":110,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":628,"y":804,"w":110,"h":175},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_9.png",
+	"frame": {"x":337,"y":1933,"w":95,"h":153},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":759,"y":839,"w":95,"h":153},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":1592,"y":1644,"w":441,"h":401},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":559,"y":655,"w":441,"h":401},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_2.png",
+	"frame": {"x":1003,"y":1238,"w":1000,"h":404},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":944,"w":1000,"h":404},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_7.png",
+	"frame": {"x":911,"y":1933,"w":85,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":69,"y":599,"w":85,"h":108},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_8.png",
+	"frame": {"x":1221,"y":1954,"w":95,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":674,"w":95,"h":73},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_10.png",
+	"frame": {"x":1404,"y":1954,"w":81,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":672,"w":81,"h":75},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":1487,"y":1954,"w":62,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":276,"y":688,"w":62,"h":92},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_4.png",
+	"frame": {"x":2005,"y":74,"w":27,"h":35},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":365,"y":596,"w":27,"h":35},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_5.png",
+	"frame": {"x":492,"y":1933,"w":141,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":271,"y":621,"w":141,"h":92},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_7.png",
+	"frame": {"x":2005,"y":159,"w":28,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":558,"w":28,"h":42},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_8.png",
+	"frame": {"x":2005,"y":1,"w":35,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":259,"y":528,"w":35,"h":71},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_10.png",
+	"frame": {"x":1318,"y":1954,"w":84,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":301,"y":635,"w":84,"h":78},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_11.png",
+	"frame": {"x":1121,"y":1954,"w":98,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":382,"y":637,"w":98,"h":76},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_13.png",
+	"frame": {"x":635,"y":2011,"w":59,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":215,"y":631,"w":59,"h":36},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_2.png",
+	"frame": {"x":1060,"y":1954,"w":59,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":682,"y":497,"w":59,"h":93},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_3.png",
+	"frame": {"x":742,"y":2011,"w":37,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":710,"y":563,"w":37,"h":36},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_4.png",
+	"frame": {"x":998,"y":1954,"w":60,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":711,"y":487,"w":60,"h":93},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_8.png",
+	"frame": {"x":635,"y":1933,"w":150,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":663,"y":328,"w":150,"h":76},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_10.png",
+	"frame": {"x":2005,"y":103,"w":54,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":672,"y":408,"w":54,"h":31},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_12.png",
+	"frame": {"x":696,"y":2011,"w":36,"h":44},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":765,"y":428,"w":36,"h":44},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_5_3.png",
+	"frame": {"x":787,"y":1933,"w":96,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":758,"y":412,"w":96,"h":122},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_5_11.png",
+	"frame": {"x":1003,"y":1644,"w":308,"h":587},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":602,"y":761,"w":308,"h":587},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1,"y":1351,"w":1000,"h":580},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":445,"w":1000,"h":580},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1235},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":84,"w":1000,"h":1235},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_189_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2041,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_189_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:71a31e33d736cfa54eb7569145446f48:e08c03c0a209d7b5b53b476c612c3f67:059704a0967115a019809d1c31364ecd$"
+}
+}

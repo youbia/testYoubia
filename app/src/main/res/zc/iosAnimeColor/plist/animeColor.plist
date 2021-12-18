@@ -2974,6 +2974,34 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>girl_229</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_230</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_80</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_81</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>

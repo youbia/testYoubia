@@ -2,34 +2,58 @@
 
 {
 	"filename": "Group_1_5.png",
-	"frame": {"x":538,"y":1348,"w":275,"h":271},
+	"frame": {"x":594,"y":231,"w":275,"h":271},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":725,"y":541,"w":275,"h":271},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
+	"filename": "Group_1_6.png",
+	"frame": {"x":430,"y":1,"w":228,"h":365},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":72,"w":228,"h":365},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_7.png",
+	"frame": {"x":188,"y":1,"w":240,"h":215},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":825,"w":240,"h":215},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":1,"y":218,"w":308,"h":240},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":1110,"w":308,"h":240},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
 	"filename": "Group_3_5.png",
-	"frame": {"x":1,"y":1608,"w":242,"h":281},
+	"frame": {"x":311,"y":231,"w":242,"h":281},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":443,"y":648,"w":242,"h":281},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_8.png",
-	"frame": {"x":1,"y":1348,"w":535,"h":258},
+	"filename": "Group_3_9.png",
+	"frame": {"x":1,"y":1,"w":185,"h":184},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":159,"y":285,"w":535,"h":258},
+	"spriteSourceSize": {"x":677,"y":0,"w":185,"h":184},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Line_1_Group_3.png",
-	"frame": {"x":1,"y":1,"w":936,"h":1345},
+	"frame": {"x":1,"y":504,"w":936,"h":1350},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":2,"w":936,"h":1345},
+	"spriteSourceSize": {"x":64,"y":0,"w":936,"h":1350},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -37,9 +61,9 @@
 	"version": "1.0",
 	"image": "puzzle_190_2.png",
 	"format": "RGBA8888",
-	"size": {"w":938,"h":1851},
+	"size": {"w":938,"h":1855},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_190_0.json", "puzzle_190_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:38497f93f73ec0bfabb2137737e015d0:24c9ad501d65b6bef361b4142d51bcbc:2b48c6d0b6cd83216ab10b7c6158d61e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:0dd522003e2e3875120e1259e7850655:1ba62ea6c239719167738ec071d8a7cd:2b48c6d0b6cd83216ab10b7c6158d61e$"
 }
 }

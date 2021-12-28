@@ -6,10 +6,7 @@
 	<array>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string></string>
-			</dict>
+			<string></string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -76,10 +73,7 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string></string>
-			</dict>
+			<string></string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -95,10 +89,7 @@
 	<array>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string>Category A</string>
-			</dict>
+			<string>Category A</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -189,10 +180,7 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string></string>
-			</dict>
+			<string></string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -205,10 +193,7 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string>Editor,s Choice</string>
-			</dict>
+			<string>Editor,s Choice</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -227,10 +212,7 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<dict>
-				<key>title</key>
-				<string>Festivals</string>
-			</dict>
+			<string>Festivals</string>
 			<key>images</key>
 			<array>
 				<dict>

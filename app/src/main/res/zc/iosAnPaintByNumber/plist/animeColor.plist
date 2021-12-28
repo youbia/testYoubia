@@ -14,61 +14,61 @@
 			<array>
 				<dict>
 					<key>name</key>
-					<string>people</string>
+					<string>home_people</string>
 					<key>title</key>
 					<string>People</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>nature</string>
+					<string>home_nature</string>
 					<key>title</key>
 					<string>Nature</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>animals</string>
+					<string>home_animals</string>
 					<key>title</key>
 					<string>Animals</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>fantasy</string>
+					<string>home_fantasy</string>
 					<key>title</key>
 					<string>Fantasy</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>rare</string>
+					<string>home_rare</string>
 					<key>title</key>
 					<string>Rare</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>oil</string>
+					<string>home_oil</string>
 					<key>title</key>
 					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>anime</string>
+					<string>home_anime</string>
 					<key>title</key>
 					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>glitter</string>
+					<string>home_glitter</string>
 					<key>title</key>
 					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>puzzle</string>
+					<string>home_puzzle</string>
 					<key>title</key>
 					<string>Puzzle</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>easy</string>
+					<string>home_easy</string>
 					<key>title</key>
 					<string>Easy</string>
 				</dict>

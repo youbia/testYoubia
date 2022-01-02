@@ -3002,6 +3002,34 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>boy_31</string>
+			<key>category</key>
+			<string>Boy</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_32</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_15</string>
+			<key>category</key>
+			<string>Fashions</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fashions_16</string>
+			<key>category</key>
+			<string>Fashions</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>puzzleArt</string>
 			<key>url</key>
 			<string>itms-apps://itunes.apple.com/app/id1567525567</string>

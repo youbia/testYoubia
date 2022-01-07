@@ -241,7 +241,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_3_Group_4.png",
+	"filename": "Line_3_Group_5.png",
 	"frame": {"x":1048,"y":1668,"w":998,"h":240},
 	"rotated": false,
 	"trimmed": true,
@@ -280,6 +280,6 @@
 	"size": {"w":2047,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_211_0.json", "puzzle_211_2.json", "puzzle_211_3.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:13e78de5885a6f865d50d673303f5ff4:c89df766f3aeb9f04575441b47d106ec:8173fad6e0b87db5c65c903c79a16591$"
+	"smartupdate": "$TexturePacker:SmartUpdate:b7a3cc8682b87f661aa67fe959f4c48c:c89df766f3aeb9f04575441b47d106ec:8173fad6e0b87db5c65c903c79a16591$"
 }
 }

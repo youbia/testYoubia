@@ -14,35 +14,47 @@
 					<string>home_people</string>
 					<key>title</key>
 					<string>People</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_nature</string>
 					<key>title</key>
 					<string>Nature</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_animals</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_fantasy</string>
 					<key>title</key>
 					<string>Fantasy</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_rare</string>
 					<key>title</key>
 					<string>Rare</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_oil</string>
 					<key>title</key>
+					<string>Oil</string>
+					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
 				<dict>
@@ -50,11 +62,15 @@
 					<string>home_anime</string>
 					<key>title</key>
 					<string>Anime</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_glitter</string>
 					<key>title</key>
+					<string>Glitter</string>
+					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
 				<dict>
@@ -62,12 +78,16 @@
 					<string>home_puzzle</string>
 					<key>title</key>
 					<string>Puzzle</string>
+					<key>categoryMiddle</key>
+					<string>Puzzle</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>home_easy</string>
 					<key>title</key>
 					<string>Easy</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 			</array>
 		</dict>
@@ -97,35 +117,47 @@
 					<string>category_people</string>
 					<key>title</key>
 					<string>People</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_nature</string>
 					<key>title</key>
 					<string>Nature</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_animals</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_fantasy</string>
 					<key>title</key>
 					<string>Fantasy</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_rare</string>
 					<key>title</key>
 					<string>Rare</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_oil</string>
 					<key>title</key>
+					<string>Oil</string>
+					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
 				<dict>
@@ -133,11 +165,15 @@
 					<string>category_anime</string>
 					<key>title</key>
 					<string>Anime</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_glitter</string>
 					<key>title</key>
+					<string>Glitter</string>
+					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
 				<dict>
@@ -145,17 +181,23 @@
 					<string>category_puzzle</string>
 					<key>title</key>
 					<string>Puzzle</string>
+					<key>categoryMiddle</key>
+					<string>Puzzle</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_food</string>
 					<key>title</key>
 					<string>Food</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_watercolor</string>
 					<key>title</key>
+					<string>Watercolor</string>
+					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
 				<dict>
@@ -163,18 +205,24 @@
 					<string>category_holidays</string>
 					<key>title</key>
 					<string>Holidays</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_constellation</string>
 					<key>title</key>
 					<string>Constellation</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>category_flower</string>
 					<key>title</key>
 					<string>Flower</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 			</array>
 		</dict>
@@ -251,36 +299,48 @@
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Travel</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Landscapes</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Flower</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>People</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Holiday</string>
+					<key>categoryMiddle</key>
+					<string>Oil</string>
 				</dict>
 			</array>
 		</dict>
@@ -294,36 +354,48 @@
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Girl</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Cute</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Costume</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Fashions</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Scenery</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Boy</string>
+					<key>categoryMiddle</key>
+					<string>Anime</string>
 				</dict>
 			</array>
 		</dict>
@@ -337,42 +409,56 @@
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Beauty</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Fashion</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Food</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Living</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Material</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Nature</string>
+					<key>categoryMiddle</key>
+					<string>Glitter</string>
 				</dict>
 			</array>
 		</dict>
@@ -386,42 +472,56 @@
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Travel</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>People</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Landscapes</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Wallpaper</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Flower</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Ocean</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
 				</dict>
 			</array>
 		</dict>
@@ -435,72 +535,96 @@
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Animals</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Basic</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Bible</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Florals</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Scenery</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Food</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>People</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Heart</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Mandala</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Letter</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Holiday</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>name</key>
 					<string>leibie_1</string>
 					<key>title</key>
 					<string>Zodiac</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
 				</dict>
 			</array>
 		</dict>

@@ -292,6 +292,8 @@
 		<dict>
 			<key>category</key>
 			<string>Oil</string>
+			<key>headImageName</key>
+			<string>category_head_oil</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -347,6 +349,8 @@
 		<dict>
 			<key>category</key>
 			<string>Anime</string>
+			<key>headImageName</key>
+			<string>category_head_anime</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -402,6 +406,8 @@
 		<dict>
 			<key>category</key>
 			<string>Glitter</string>
+			<key>headImageName</key>
+			<string>category_head_glitter</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -457,6 +463,8 @@
 		<dict>
 			<key>category</key>
 			<string>Watercolor</string>
+			<key>headImageName</key>
+			<string>category_head_watercolor</string>
 			<key>images</key>
 			<array>
 				<dict>
@@ -520,6 +528,8 @@
 		<dict>
 			<key>category</key>
 			<string>Classic</string>
+			<key>headImageName</key>
+			<string>category_head_classic</string>
 			<key>images</key>
 			<array>
 				<dict>

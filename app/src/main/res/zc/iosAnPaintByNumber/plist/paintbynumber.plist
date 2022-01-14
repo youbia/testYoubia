@@ -8445,16 +8445,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>glitter_nature_39</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>glitter_nature_40</string>
 			<key>category_1</key>
 			<string>Glitter</string>
@@ -8496,16 +8486,6 @@
 		<dict>
 			<key>name</key>
 			<string>glitter_nature_44</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_nature_45</string>
 			<key>category_1</key>
 			<string>Glitter</string>
 			<key>category_2</key>

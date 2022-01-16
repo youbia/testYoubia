@@ -462,19 +462,6 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<string></string>
-			<key>images</key>
-			<array>
-				<dict>
-					<key>name</key>
-					<string>vip</string>
-					<key>title</key>
-					<string></string>
-				</dict>
-			</array>
-		</dict>
-		<dict>
-			<key>category</key>
 			<string>Watercolor</string>
 			<key>headImageName</key>
 			<string>category_head_watercolor</string>

@@ -19439,7 +19439,9 @@
 			<key>category_1</key>
 			<string>Live</string>
 			<key>category_2</key>
-			<string>People</string>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
 			<key>ads</key>
 			<string>no</string>
 		</dict>
@@ -19449,7 +19451,9 @@
 			<key>category_1</key>
 			<string>Live</string>
 			<key>category_2</key>
-			<string>People</string>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

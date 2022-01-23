@@ -19435,25 +19435,99 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>aaa</string>
+			<string>live00</string>
 			<key>category_1</key>
 			<string>Live</string>
 			<key>category_2</key>
 			<string>People|Animals|Nature</string>
 			<key>bian</key>
-			<string>no</string>
+			<string>yes</string>
 			<key>ads</key>
 			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>111</string>
+			<string>live01</string>
 			<key>category_1</key>
 			<string>Live</string>
 			<key>category_2</key>
 			<string>People|Animals|Nature</string>
 			<key>bian</key>
 			<string>no</string>
+			<key>animation</key>
+			<array>
+				<string>live01m1</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live_02</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>animation</key>
+			<array>
+				<string>live02m1</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live03</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>animation</key>
+			<array>
+				<string>live03m1</string>
+				<string>live03m2</string>
+				<string>live03m3</string>
+				<string>live03m4</string>
+				<string>live03m5</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live04</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>animation</key>
+			<array>
+				<string>live04m1</string>
+				<string>live04m2</string>
+				<string>live04m3</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live05</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>People|Animals|Nature</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>animation</key>
+			<array>
+				<string>live05m1</string>
+			</array>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

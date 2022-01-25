@@ -19600,7 +19600,7 @@
 			<key>category_2</key>
 			<string>People|Animals|Nature</string>
 			<key>bian</key>
-			<string>no</string>
+			<string>yes</string>
 			<key>animation</key>
 			<array>
 				<string>live10m1</string>
@@ -19617,23 +19617,7 @@
 			<key>category_2</key>
 			<string>People|Animals|Nature</string>
 			<key>bian</key>
-			<string>no</string>
-			<key>animation</key>
-			<array>
-				<string>live11m1</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live11</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>People|Animals|Nature</string>
-			<key>bian</key>
-			<string>no</string>
+			<string>yes</string>
 			<key>animation</key>
 			<array>
 				<string>live11m1</string>

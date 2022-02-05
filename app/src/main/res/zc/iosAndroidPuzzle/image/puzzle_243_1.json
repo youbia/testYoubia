@@ -1,0 +1,149 @@
+{"frames": [
+
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1,"y":1054,"w":966,"h":725},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":231,"w":966,"h":725},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1622,"y":1788,"w":181,"h":222},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":577,"w":181,"h":222},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_4.png",
+	"frame": {"x":1755,"y":351,"w":234,"h":194},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":614,"y":250,"w":234,"h":194},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_4.png",
+	"frame": {"x":1775,"y":1072,"w":76,"h":125},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":59,"y":692,"w":76,"h":125},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_6.png",
+	"frame": {"x":728,"y":1968,"w":118,"h":51},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":790,"w":118,"h":51},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_7.png",
+	"frame": {"x":781,"y":738,"w":992,"h":430},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":711,"w":992,"h":430},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_9.png",
+	"frame": {"x":1622,"y":1170,"w":318,"h":316},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":133,"w":318,"h":316},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_10.png",
+	"frame": {"x":1775,"y":702,"w":198,"h":157},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":519,"w":198,"h":157},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_12.png",
+	"frame": {"x":1846,"y":1929,"w":75,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":262,"y":589,"w":75,"h":70},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_13.png",
+	"frame": {"x":1755,"y":1,"w":348,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":164,"y":622,"w":348,"h":195},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_16.png",
+	"frame": {"x":1622,"y":1490,"w":315,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":492,"y":547,"w":315,"h":296},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_1.png",
+	"frame": {"x":1775,"y":902,"w":168,"h":167},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":549,"y":652,"w":168,"h":167},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_5.png",
+	"frame": {"x":1846,"y":1788,"w":139,"h":86},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":814,"y":138,"w":139,"h":86},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1,"y":1,"w":778,"h":1051},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":221,"y":5,"w":778,"h":1051},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_1.png",
+	"frame": {"x":781,"y":1,"w":972,"h":735},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":226,"w":972,"h":735},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_2.png",
+	"frame": {"x":728,"y":1170,"w":892,"h":796},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":168,"w":892,"h":796},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_3.png",
+	"frame": {"x":1755,"y":587,"w":135,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":372,"y":721,"w":135,"h":113},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_243_1.png",
+	"format": "RGBA8888",
+	"size": {"w":1951,"h":2021},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_243_0.json", "puzzle_243_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:eb1a031e93083a86eb79b32733327c3e:532299806197945e75ff49cc104803f4:213618df02e4f22b8638570bbeaff7f4$"
+}
+}

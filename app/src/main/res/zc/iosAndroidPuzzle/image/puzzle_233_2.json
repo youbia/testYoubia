@@ -1,0 +1,29 @@
+{"frames": [
+
+{
+	"filename": "Group_2_3.png",
+	"frame": {"x":1,"y":959,"w":960,"h":1066},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":281,"w":960,"h":1066},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1,"y":1,"w":962,"h":956},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":277,"w":962,"h":956},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_233_2.png",
+	"format": "RGBA8888",
+	"size": {"w":964,"h":2026},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_233_0.json", "puzzle_233_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:6278a9f658f1cf754468227ec2e9fa21:33d1a60cfcae5bb8f8f0d9c8c53637ea:258287f9773e6085642519e7aabe79a4$"
+}
+}

@@ -1,0 +1,85 @@
+{"frames": [
+
+{
+	"filename": "Group_1_8.png",
+	"frame": {"x":1,"y":1120,"w":403,"h":243},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":269,"w":403,"h":243},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":463,"y":872,"w":585,"h":859},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":367,"w":585,"h":859},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_7.png",
+	"frame": {"x":1057,"y":1,"w":627,"h":682},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":360,"y":582,"w":627,"h":682},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":1421,"y":1049,"w":136,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":545,"y":1154,"w":136,"h":147},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_3.png",
+	"frame": {"x":1324,"y":630,"w":363,"h":417},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":637,"y":891,"w":363,"h":417},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_8.png",
+	"frame": {"x":1057,"y":630,"w":253,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":169,"y":1235,"w":253,"h":112},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_10.png",
+	"frame": {"x":1324,"y":1049,"w":95,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":905,"y":1141,"w":95,"h":207},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":463,"y":1,"w":592,"h":869},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":362,"w":592,"h":869},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1,"y":1,"w":460,"h":1117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":540,"y":196,"w":460,"h":1117},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_237_1.png",
+	"format": "RGBA8888",
+	"size": {"w":1740,"h":1458},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_237_0.json", "puzzle_237_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e7474fc98550d9885f03bc123ceeace8:22dd720b126ae1cf7569eb5e61b79ae2:30cb5cf799c0ccb54d89991fb2b54c3e$"
+}
+}

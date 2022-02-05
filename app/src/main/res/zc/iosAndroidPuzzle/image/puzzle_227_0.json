@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_1.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1297},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1,"y":1351,"w":1000,"h":659},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":298,"w":1000,"h":659},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1003,"y":1869,"w":1000,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1259,"w":1000,"h":89},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_7.png",
+	"frame": {"x":1337,"y":1960,"w":67,"h":122},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":179,"w":67,"h":122},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_1.png",
+	"frame": {"x":1118,"y":1960,"w":217,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":291,"y":892,"w":217,"h":68},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_8.png",
+	"frame": {"x":1003,"y":1960,"w":69,"h":113},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":261,"y":793,"w":69,"h":113},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1003,"y":1300,"w":1000,"h":567},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":744,"w":1000,"h":567},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_227_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2004,"h":2030},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_227_1.json", "puzzle_227_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d25710c0ea712b550614eb910dc01cfa:fa1ef505e479cd3f46351286a5c0bdba:b4928ca009129ed99c81f11c2bbce273$"
+}
+}

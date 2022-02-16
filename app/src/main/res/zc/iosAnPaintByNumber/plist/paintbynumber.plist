@@ -100,7 +100,9 @@
 					<key>name</key>
 					<string>live_Icon</string>
 					<key>title</key>
-					<string></string>
+					<string>Live Color by Number</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
 				</dict>
 			</array>
 		</dict>

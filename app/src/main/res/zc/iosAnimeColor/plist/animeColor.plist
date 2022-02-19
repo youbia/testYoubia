@@ -3168,6 +3168,34 @@
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>boy_36</string>
+			<key>category</key>
+			<string>Boy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_239</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_238</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_240</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

@@ -1,0 +1,93 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":1346},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":1,"y":1349,"w":835,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":607,"w":835,"h":379},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1,"y":1730,"w":999,"h":258},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":951,"w":999,"h":258},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_6.png",
+	"frame": {"x":1,"y":1990,"w":17,"h":107},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":831,"w":17,"h":107},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_8.png",
+	"frame": {"x":968,"y":1498,"w":21,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":229,"y":807,"w":21,"h":131},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_10.png",
+	"frame": {"x":968,"y":1349,"w":22,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":314,"y":791,"w":22,"h":147},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":1002,"y":1772,"w":1000,"h":242},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1105,"w":1000,"h":242},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_12.png",
+	"frame": {"x":838,"y":1349,"w":368,"h":128},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":524,"y":373,"w":368,"h":128},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1003,"y":1328,"w":999,"h":442},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":904,"w":999,"h":442},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":991,"h":1325},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":22,"w":991,"h":1325},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_268_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2003,"h":2015},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_268_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:cb983aafcc8a8040d07a12eb93dc1bea:bb8fed34279c1c6afffc15366a1a9d39:caedd6c424765680306afd02754bf5ea$"
+}
+}

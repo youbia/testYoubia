@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Group_1_1.png",
+	"frame": {"x":643,"y":924,"w":295,"h":212},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":705,"y":332,"w":295,"h":212},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_2.png",
+	"frame": {"x":643,"y":676,"w":339,"h":246},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":357,"w":339,"h":246},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":396},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":453,"w":1000,"h":396},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_4.png",
+	"frame": {"x":409,"y":786,"w":453,"h":232},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1051,"w":453,"h":232},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_7.png",
+	"frame": {"x":306,"y":399,"w":385,"h":315},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":425,"y":835,"w":385,"h":315},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_9.png",
+	"frame": {"x":1,"y":399,"w":481,"h":303},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":443,"y":1044,"w":481,"h":303},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_10.png",
+	"frame": {"x":623,"y":399,"w":320,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":409,"y":1072,"w":320,"h":275},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_12.png",
+	"frame": {"x":1,"y":882,"w":406,"h":310},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1037,"w":406,"h":310},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_274_2.png",
+	"format": "RGBA8888",
+	"size": {"w":1002,"h":1240},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_274_0.json", "puzzle_274_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:df5a3bfe88487695b403a35dffccc2c2:c34f745377ace1043d1d28638ab2efcc:7b8ba44f0dbc72f292ec190026955819$"
+}
+}

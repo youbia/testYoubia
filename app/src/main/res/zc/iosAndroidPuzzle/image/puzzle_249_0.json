@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1346},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":1000,"h":1346},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":2005,"y":1,"w":40,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":960,"y":155,"w":40,"h":332},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_5.png",
+	"frame": {"x":2005,"y":335,"w":40,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":960,"y":343,"w":40,"h":162},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_10.png",
+	"frame": {"x":1003,"y":1461,"w":1000,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":779,"w":1000,"h":568},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_11.png",
+	"frame": {"x":1,"y":1349,"w":1000,"h":679},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":608,"w":1000,"h":679},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_11.png",
+	"frame": {"x":2005,"y":499,"w":99,"h":25},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":467,"y":1322,"w":99,"h":25},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_2.png",
+	"frame": {"x":1003,"y":823,"w":1000,"h":636},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":188,"w":1000,"h":636},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_3_Group_3.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":820},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":515,"w":1000,"h":820},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_249_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2046,"h":2030},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_249_1.json", "puzzle_249_2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ba92959e5c75ff436ac82e74beac925f:5446b59d50dea959b27b918fa3e7df9e:6a51d96592421347dc4dc620ac49e520$"
+}
+}

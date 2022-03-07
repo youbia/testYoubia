@@ -9,32 +9,40 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
+	"filename": "Group_3_1.png",
+	"frame": {"x":908,"y":1643,"w":99,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":383,"y":676,"w":99,"h":90},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
 	"filename": "Group_3_3.png",
-	"frame": {"x":971,"y":1851,"w":62,"h":28},
+	"frame": {"x":2004,"y":1,"w":62,"h":28},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":741,"y":759,"w":62,"h":28},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_4_2.png",
-	"frame": {"x":908,"y":1643,"w":82,"h":206},
-	"rotated": false,
+	"filename": "Group_3_5.png",
+	"frame": {"x":908,"y":1744,"w":99,"h":90},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":215,"y":611,"w":82,"h":206},
+	"spriteSourceSize": {"x":421,"y":723,"w":99,"h":90},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_4_3.png",
-	"frame": {"x":908,"y":1851,"w":61,"h":149},
-	"rotated": false,
+	"filename": "Group_3_7.png",
+	"frame": {"x":908,"y":1845,"w":99,"h":90},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":186,"y":674,"w":61,"h":149},
+	"spriteSourceSize": {"x":573,"y":742,"w":99,"h":90},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_4_11.png",
-	"frame": {"x":908,"y":2002,"w":40,"h":45},
+	"frame": {"x":2004,"y":65,"w":40,"h":45},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":478,"y":934,"w":40,"h":45},
@@ -71,15 +79,23 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":35,"w":999,"h":1306},
 	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_4_Group_3.png",
+	"frame": {"x":908,"y":1946,"w":90,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":300,"y":711,"w":90,"h":85},
+	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "puzzle_263_0.png",
 	"format": "RGBA8888",
-	"size": {"w":2004,"h":2048},
+	"size": {"w":2045,"h":2045},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_263_1.json", "puzzle_263_2.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:8d5ea50a479aec23917bb9d201a843a6:be921e23906037e1e5e9ffc43b810351:228fd66e2a8afd451f7a54e22a786b69$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f89cf3cca20eb9915cd032a2eff3789a:c2f88ff05176737e3a1e1f60f2776b03:228fd66e2a8afd451f7a54e22a786b69$"
 }
 }

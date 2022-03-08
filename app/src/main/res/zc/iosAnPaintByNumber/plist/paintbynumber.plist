@@ -230,14 +230,14 @@
 		</dict>
 		<dict>
 			<key>category</key>
-			<string></string>
+			<string>VIP</string>
 			<key>images</key>
 			<array>
 				<dict>
 					<key>name</key>
 					<string>vip</string>
 					<key>title</key>
-					<string>VIP</string>
+					<string></string>
 				</dict>
 			</array>
 		</dict>

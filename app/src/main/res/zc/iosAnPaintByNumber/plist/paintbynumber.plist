@@ -20303,10 +20303,6 @@
 			<string>glow_5</string>
 			<key>background</key>
 			<string>Gif_Di_3</string>
-			<key>animation</key>
-			<array>
-				<string>live44m1</string>
-			</array>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

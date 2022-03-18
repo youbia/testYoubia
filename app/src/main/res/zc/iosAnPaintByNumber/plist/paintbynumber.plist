@@ -20891,28 +20891,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live74</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>People|Animals|Nature</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_1</string>
-			<key>background</key>
-			<string>Gif_Di_1</string>
-			<key>animation</key>
-			<array>
-				<string>live74m1</string>
-				<string>live74m2</string>
-				<string>live74m3</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live75</string>
 			<key>category_1</key>
 			<string>Live</string>

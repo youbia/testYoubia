@@ -85,7 +85,7 @@
 					<key>name</key>
 					<string>home_easy</string>
 					<key>title</key>
-					<string>Easy</string>
+					<string>Constellation</string>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -93,15 +93,31 @@
 					<key>name</key>
 					<string>home_easy</string>
 					<key>title</key>
-					<string>Easy</string>
+					<string>Classic</string>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>home_watercolor</string>
+					<key>title</key>
+					<string>Watercolor</string>
+					<key>categoryMiddle</key>
+					<string>Watercolor</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>home_holidays</string>
+					<key>title</key>
+					<string>Holidays</string>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>home_easy</string>
+					<string>home_flower</string>
 					<key>title</key>
-					<string>Easy</string>
+					<string>Flower</string>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>

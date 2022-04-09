@@ -83,7 +83,7 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>home_easy</string>
+					<string>home_constellation</string>
 					<key>title</key>
 					<string>Constellation</string>
 					<key>categoryMiddle</key>
@@ -91,7 +91,7 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>home_easy</string>
+					<string>home_classic</string>
 					<key>title</key>
 					<string>Classic</string>
 					<key>categoryMiddle</key>

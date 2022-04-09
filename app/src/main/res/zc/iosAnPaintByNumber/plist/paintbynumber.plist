@@ -89,6 +89,22 @@
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
+				<dict>
+					<key>name</key>
+					<string>home_easy</string>
+					<key>title</key>
+					<string>Easy</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>home_easy</string>
+					<key>title</key>
+					<string>Easy</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
 			</array>
 		</dict>
 		<dict>

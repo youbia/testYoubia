@@ -276,11 +276,29 @@
 		<dict>
 			<key>category</key>
 			<string>Editor,s Choice</string>
+			<key>headImageName</key>
+			<string>category_head_editor</string>
 			<key>images</key>
 			<array>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_editor_mostpopular</string>
+					<key>title</key>
+					<string>Most Popular</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>category_editor_fairytales</string>
+					<key>title</key>
+					<string>Fairy Tales</string>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>name</key>
+					<string>category_editor_Constellation</string>
 					<key>title</key>
 					<string>Constellation</string>
 					<key>categoryMiddle</key>
@@ -288,9 +306,9 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_editor_Living</string>
 					<key>title</key>
-					<string>Constellation</string>
+					<string>Living</string>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -299,11 +317,13 @@
 		<dict>
 			<key>category</key>
 			<string>Festivals</string>
+			<key>headImageName</key>
+			<string>category_head_holidays</string>
 			<key>images</key>
 			<array>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_festivals_MerryChristmas</string>
 					<key>title</key>
 					<string>Merry Christmas</string>
 					<key>categoryMiddle</key>
@@ -311,7 +331,7 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_festivals_Halloween</string>
 					<key>title</key>
 					<string>Halloween</string>
 					<key>categoryMiddle</key>
@@ -319,7 +339,7 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_festivals_Easter</string>
 					<key>title</key>
 					<string>Happy Easter</string>
 					<key>categoryMiddle</key>
@@ -327,7 +347,7 @@
 				</dict>
 				<dict>
 					<key>name</key>
-					<string>leibie_1</string>
+					<string>category_festivals_NewYear</string>
 					<key>title</key>
 					<string>New Year</string>
 					<key>categoryMiddle</key>

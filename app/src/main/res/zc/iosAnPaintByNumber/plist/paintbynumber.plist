@@ -548,7 +548,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_live</string>
 					<key>title</key>
-					<string>Live</string>
+					<dict>
+						<key>en</key>
+						<string>Live</string>
+						<key>zh-Hans</key>
+						<string>Live</string>
+						<key>zh-Hant-HK</key>
+						<string>Live</string>
+						<key>ja</key>
+						<string>Live</string>
+						<key>ko</key>
+						<string>Live</string>
+						<key>de</key>
+						<string>Live</string>
+						<key>ru</key>
+						<string>Live</string>
+						<key>fr</key>
+						<string>Live</string>
+						<key>es</key>
+						<string>Live</string>
+						<key>pt</key>
+						<string>Live</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>

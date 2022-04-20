@@ -15,7 +15,28 @@
 					<key>name</key>
 					<string>home_people</string>
 					<key>title</key>
-					<string>People</string>
+					<dict>
+						<key>en</key>
+						<string>People</string>
+						<key>zh-Hans</key>
+						<string> 人物</string>
+						<key>zh-Hant-HK</key>
+						<string> 人物</string>
+						<key>ja</key>
+						<string>人々</string>
+						<key>ko</key>
+						<string>사람들</string>
+						<key>de</key>
+						<string>Menschen</string>
+						<key>ru</key>
+						<string>Люди</string>
+						<key>fr</key>
+						<string>Personnes</string>
+						<key>es</key>
+						<string>Gente</string>
+						<key>pt</key>
+						<string>Pessoas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -25,7 +46,28 @@
 					<key>name</key>
 					<string>home_nature</string>
 					<key>title</key>
-					<string>Nature</string>
+					<dict>
+						<key>en</key>
+						<string>Nature</string>
+						<key>zh-Hans</key>
+						<string>自然</string>
+						<key>zh-Hant-HK</key>
+						<string>自然</string>
+						<key>ja</key>
+						<string>自然</string>
+						<key>ko</key>
+						<string>자연</string>
+						<key>de</key>
+						<string>Natur</string>
+						<key>ru</key>
+						<string>Природа</string>
+						<key>fr</key>
+						<string>Nature</string>
+						<key>es</key>
+						<string>Naturaleza</string>
+						<key>pt</key>
+						<string>Natureza</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -35,7 +77,28 @@
 					<key>name</key>
 					<string>home_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -46,7 +109,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_fantasy</string>
 					<key>title</key>
-					<string>Fantasy</string>
+					<dict>
+						<key>en</key>
+						<string>Fantasy</string>
+						<key>zh-Hans</key>
+						<string>幻想</string>
+						<key>zh-Hant-HK</key>
+						<string>幻想</string>
+						<key>ja</key>
+						<string>ファンタジー</string>
+						<key>ko</key>
+						<string>공상</string>
+						<key>de</key>
+						<string>Fantasie</string>
+						<key>ru</key>
+						<string>Фантазия</string>
+						<key>fr</key>
+						<string>Fantaisie</string>
+						<key>es</key>
+						<string>Fantasía</string>
+						<key>pt</key>
+						<string>Fantasia</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -56,7 +140,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_rare</string>
 					<key>title</key>
-					<string>Rare</string>
+					<dict>
+						<key>en</key>
+						<string>Rare</string>
+						<key>zh-Hans</key>
+						<string>稀有</string>
+						<key>zh-Hant-HK</key>
+						<string>稀有</string>
+						<key>ja</key>
+						<string>レア</string>
+						<key>ko</key>
+						<string>희귀한</string>
+						<key>de</key>
+						<string>Selten</string>
+						<key>ru</key>
+						<string>Редкий</string>
+						<key>fr</key>
+						<string>Rare</string>
+						<key>es</key>
+						<string>Extraño</string>
+						<key>pt</key>
+						<string>Cru</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -66,7 +171,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_oil</string>
 					<key>title</key>
-					<string>Oil</string>
+					<dict>
+						<key>en</key>
+						<string>Oil</string>
+						<key>zh-Hans</key>
+						<string>油画</string>
+						<key>zh-Hant-HK</key>
+						<string>油畫</string>
+						<key>ja</key>
+						<string>油絵</string>
+						<key>ko</key>
+						<string>오일 페인팅</string>
+						<key>de</key>
+						<string>Ölgemälde</string>
+						<key>ru</key>
+						<string>Картина маслом</string>
+						<key>fr</key>
+						<string>Peinture à l&apos;huile</string>
+						<key>es</key>
+						<string>Pintura al óleo</string>
+						<key>pt</key>
+						<string>Pintura a óleo</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -76,7 +202,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_anime</string>
 					<key>title</key>
-					<string>Anime</string>
+					<dict>
+						<key>en</key>
+						<string>Anime</string>
+						<key>zh-Hans</key>
+						<string>动漫</string>
+						<key>zh-Hant-HK</key>
+						<string>動漫</string>
+						<key>ja</key>
+						<string>アニメ</string>
+						<key>ko</key>
+						<string>일본 만화 영화</string>
+						<key>de</key>
+						<string>Animes</string>
+						<key>ru</key>
+						<string>Аниме</string>
+						<key>fr</key>
+						<string>Animé</string>
+						<key>es</key>
+						<string>animado</string>
+						<key>pt</key>
+						<string>Anime</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -86,7 +233,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_glitter</string>
 					<key>title</key>
-					<string>Glitter</string>
+					<dict>
+						<key>en</key>
+						<string>Glitter</string>
+						<key>zh-Hans</key>
+						<string>闪光</string>
+						<key>zh-Hant-HK</key>
+						<string>閃光</string>
+						<key>ja</key>
+						<string>キラキラ</string>
+						<key>ko</key>
+						<string>반짝임</string>
+						<key>de</key>
+						<string>Funkeln</string>
+						<key>ru</key>
+						<string>Блеск</string>
+						<key>fr</key>
+						<string>Briller</string>
+						<key>es</key>
+						<string>Brillantina</string>
+						<key>pt</key>
+						<string>Glitter</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -94,7 +262,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_puzzle</string>
 					<key>title</key>
-					<string>Puzzle</string>
+					<dict>
+						<key>en</key>
+						<string>Puzzle</string>
+						<key>zh-Hans</key>
+						<string>拼图</string>
+						<key>zh-Hant-HK</key>
+						<string>拼圖</string>
+						<key>ja</key>
+						<string>パズル</string>
+						<key>ko</key>
+						<string>퍼즐</string>
+						<key>de</key>
+						<string>Puzzle</string>
+						<key>ru</key>
+						<string>Puzzle</string>
+						<key>fr</key>
+						<string>Puzzle</string>
+						<key>es</key>
+						<string>Puzzle</string>
+						<key>pt</key>
+						<string>Puzzle</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Puzzle</string>
 				</dict>
@@ -104,7 +293,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_constellation</string>
 					<key>title</key>
-					<string>Constellation</string>
+					<dict>
+						<key>en</key>
+						<string>Constellation</string>
+						<key>zh-Hans</key>
+						<string>星座</string>
+						<key>zh-Hant-HK</key>
+						<string>星座</string>
+						<key>ja</key>
+						<string>星座</string>
+						<key>ko</key>
+						<string>별자리</string>
+						<key>de</key>
+						<string>Konstellation</string>
+						<key>ru</key>
+						<string>Созвездие</string>
+						<key>fr</key>
+						<string>Constellation</string>
+						<key>es</key>
+						<string>Constelación</string>
+						<key>pt</key>
+						<string>constelação</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -114,7 +324,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_classic</string>
 					<key>title</key>
-					<string>Classic</string>
+					<dict>
+						<key>en</key>
+						<string>Classic</string>
+						<key>zh-Hans</key>
+						<string>经典</string>
+						<key>zh-Hant-HK</key>
+						<string>經典</string>
+						<key>ja</key>
+						<string>クラシック</string>
+						<key>ko</key>
+						<string>권위 있는</string>
+						<key>de</key>
+						<string>Klassisch</string>
+						<key>ru</key>
+						<string>Классический</string>
+						<key>fr</key>
+						<string>Classique</string>
+						<key>es</key>
+						<string>Clásico</string>
+						<key>pt</key>
+						<string>Clássico</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -124,7 +355,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_watercolor</string>
 					<key>title</key>
-					<string>Watercolor</string>
+					<dict>
+						<key>en</key>
+						<string>Watercolor</string>
+						<key>zh-Hans</key>
+						<string>水彩</string>
+						<key>zh-Hant-HK</key>
+						<string>水彩</string>
+						<key>ja</key>
+						<string>水彩</string>
+						<key>ko</key>
+						<string>수채화</string>
+						<key>de</key>
+						<string>Aquarell</string>
+						<key>ru</key>
+						<string>Акварель</string>
+						<key>fr</key>
+						<string>Aquarelle</string>
+						<key>es</key>
+						<string>Acuarela</string>
+						<key>pt</key>
+						<string>Aquarela</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -134,7 +386,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_holidays</string>
 					<key>title</key>
-					<string>Holidays</string>
+					<dict>
+						<key>en</key>
+						<string>Holidays</string>
+						<key>zh-Hans</key>
+						<string>节日</string>
+						<key>zh-Hant-HK</key>
+						<string>節日</string>
+						<key>ja</key>
+						<string>休日</string>
+						<key>ko</key>
+						<string>휴가</string>
+						<key>de</key>
+						<string>Feiertage</string>
+						<key>ru</key>
+						<string>каникулы</string>
+						<key>fr</key>
+						<string>Vacances</string>
+						<key>es</key>
+						<string>Vacaciones</string>
+						<key>pt</key>
+						<string>Feriados</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -144,7 +417,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_bible</string>
 					<key>title</key>
-					<string>Bible</string>
+					<dict>
+						<key>en</key>
+						<string>Bible</string>
+						<key>zh-Hans</key>
+						<string>圣经</string>
+						<key>zh-Hant-HK</key>
+						<string>聖經</string>
+						<key>ja</key>
+						<string>聖書</string>
+						<key>ko</key>
+						<string>성경</string>
+						<key>de</key>
+						<string>Bible</string>
+						<key>ru</key>
+						<string>Библия</string>
+						<key>fr</key>
+						<string>Bible</string>
+						<key>es</key>
+						<string>Biblia</string>
+						<key>pt</key>
+						<string>Bíblia</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -154,7 +448,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_mandala</string>
 					<key>title</key>
-					<string>Mandala</string>
+					<dict>
+						<key>en</key>
+						<string>Mandala</string>
+						<key>zh-Hans</key>
+						<string>曼陀罗</string>
+						<key>zh-Hant-HK</key>
+						<string>曼陀羅</string>
+						<key>ja</key>
+						<string>マンダラ</string>
+						<key>ko</key>
+						<string>만다라</string>
+						<key>de</key>
+						<string>Mandala</string>
+						<key>ru</key>
+						<string>Мандала</string>
+						<key>fr</key>
+						<string>Mandala</string>
+						<key>es</key>
+						<string>mándala</string>
+						<key>pt</key>
+						<string>Mandala</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -164,7 +479,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_love</string>
 					<key>title</key>
-					<string>Love</string>
+					<dict>
+						<key>en</key>
+						<string>Love</string>
+						<key>zh-Hans</key>
+						<string>浪漫</string>
+						<key>zh-Hant-HK</key>
+						<string>浪漫</string>
+						<key>ja</key>
+						<string>愛する</string>
+						<key>ko</key>
+						<string>사랑</string>
+						<key>de</key>
+						<string>Liebe</string>
+						<key>ru</key>
+						<string>Люблю</string>
+						<key>fr</key>
+						<string>Amour</string>
+						<key>es</key>
+						<string>Amar</string>
+						<key>pt</key>
+						<string>Amar</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -174,7 +510,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>home_flower</string>
 					<key>title</key>
-					<string>Flower</string>
+					<dict>
+						<key>en</key>
+						<string>Flower</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -202,7 +559,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 	<array>
 		<dict>
 			<key>category</key>
-			<string>Category</string>
+			<dict>
+				<key>en</key>
+				<string>Category</string>
+				<key>zh-Hans</key>
+				<string>类别</string>
+				<key>zh-Hant-HK</key>
+				<string>類別</string>
+				<key>ja</key>
+				<string>カテゴリー</string>
+				<key>ko</key>
+				<string>범주</string>
+				<key>de</key>
+				<string>Kategorie</string>
+				<key>ru</key>
+				<string>Категория</string>
+				<key>fr</key>
+				<string>Catégorie</string>
+				<key>es</key>
+				<string>Categoría</string>
+				<key>pt</key>
+				<string>Categoria</string>
+			</dict>
 			<key>images</key>
 			<array>
 				<dict>
@@ -211,7 +589,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_people</string>
 					<key>title</key>
-					<string>People</string>
+					<dict>
+						<key>en</key>
+						<string>People</string>
+						<key>zh-Hans</key>
+						<string> 人物</string>
+						<key>zh-Hant-HK</key>
+						<string> 人物</string>
+						<key>ja</key>
+						<string>人々</string>
+						<key>ko</key>
+						<string>사람들</string>
+						<key>de</key>
+						<string>Menschen</string>
+						<key>ru</key>
+						<string>Люди</string>
+						<key>fr</key>
+						<string>Personnes</string>
+						<key>es</key>
+						<string>Gente</string>
+						<key>pt</key>
+						<string>Pessoas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -221,7 +620,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_nature</string>
 					<key>title</key>
-					<string>Nature</string>
+					<dict>
+						<key>en</key>
+						<string>Nature</string>
+						<key>zh-Hans</key>
+						<string>自然</string>
+						<key>zh-Hant-HK</key>
+						<string>自然</string>
+						<key>ja</key>
+						<string>自然</string>
+						<key>ko</key>
+						<string>자연</string>
+						<key>de</key>
+						<string>Natur</string>
+						<key>ru</key>
+						<string>Природа</string>
+						<key>fr</key>
+						<string>Nature</string>
+						<key>es</key>
+						<string>Naturaleza</string>
+						<key>pt</key>
+						<string>Natureza</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -231,7 +651,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -242,7 +683,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_fantasy</string>
 					<key>title</key>
-					<string>Fantasy</string>
+					<dict>
+						<key>en</key>
+						<string>Fantasy</string>
+						<key>zh-Hans</key>
+						<string>幻想</string>
+						<key>zh-Hant-HK</key>
+						<string>幻想</string>
+						<key>ja</key>
+						<string>ファンタジー</string>
+						<key>ko</key>
+						<string>공상</string>
+						<key>de</key>
+						<string>Fantasie</string>
+						<key>ru</key>
+						<string>Фантазия</string>
+						<key>fr</key>
+						<string>Fantaisie</string>
+						<key>es</key>
+						<string>Fantasía</string>
+						<key>pt</key>
+						<string>Fantasia</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -252,7 +714,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_rare</string>
 					<key>title</key>
-					<string>Rare</string>
+					<dict>
+						<key>en</key>
+						<string>Rare</string>
+						<key>zh-Hans</key>
+						<string>稀有</string>
+						<key>zh-Hant-HK</key>
+						<string>稀有</string>
+						<key>ja</key>
+						<string>レア</string>
+						<key>ko</key>
+						<string>희귀한</string>
+						<key>de</key>
+						<string>Selten</string>
+						<key>ru</key>
+						<string>Редкий</string>
+						<key>fr</key>
+						<string>Rare</string>
+						<key>es</key>
+						<string>Extraño</string>
+						<key>pt</key>
+						<string>Cru</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -262,7 +745,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_oil</string>
 					<key>title</key>
-					<string>Oil</string>
+					<dict>
+						<key>en</key>
+						<string>Oil</string>
+						<key>zh-Hans</key>
+						<string>油画</string>
+						<key>zh-Hant-HK</key>
+						<string>油畫</string>
+						<key>ja</key>
+						<string>油絵</string>
+						<key>ko</key>
+						<string>오일 페인팅</string>
+						<key>de</key>
+						<string>Ölgemälde</string>
+						<key>ru</key>
+						<string>Картина маслом</string>
+						<key>fr</key>
+						<string>Peinture à l&apos;huile</string>
+						<key>es</key>
+						<string>Pintura al óleo</string>
+						<key>pt</key>
+						<string>Pintura a óleo</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -272,7 +776,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_anime</string>
 					<key>title</key>
-					<string>Anime</string>
+					<dict>
+						<key>en</key>
+						<string>Anime</string>
+						<key>zh-Hans</key>
+						<string>动漫</string>
+						<key>zh-Hant-HK</key>
+						<string>動漫</string>
+						<key>ja</key>
+						<string>アニメ</string>
+						<key>ko</key>
+						<string>일본 만화 영화</string>
+						<key>de</key>
+						<string>Animes</string>
+						<key>ru</key>
+						<string>Аниме</string>
+						<key>fr</key>
+						<string>Animé</string>
+						<key>es</key>
+						<string>animado</string>
+						<key>pt</key>
+						<string>Anime</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -282,7 +807,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_glitter</string>
 					<key>title</key>
-					<string>Glitter</string>
+					<dict>
+						<key>en</key>
+						<string>Glitter</string>
+						<key>zh-Hans</key>
+						<string>闪光</string>
+						<key>zh-Hant-HK</key>
+						<string>閃光</string>
+						<key>ja</key>
+						<string>キラキラ</string>
+						<key>ko</key>
+						<string>반짝임</string>
+						<key>de</key>
+						<string>Funkeln</string>
+						<key>ru</key>
+						<string>Блеск</string>
+						<key>fr</key>
+						<string>Briller</string>
+						<key>es</key>
+						<string>Brillantina</string>
+						<key>pt</key>
+						<string>Glitter</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -290,7 +836,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_puzzle</string>
 					<key>title</key>
-					<string>Puzzle</string>
+					<dict>
+						<key>en</key>
+						<string>Puzzle</string>
+						<key>zh-Hans</key>
+						<string>拼图</string>
+						<key>zh-Hant-HK</key>
+						<string>拼圖</string>
+						<key>ja</key>
+						<string>パズル</string>
+						<key>ko</key>
+						<string>퍼즐</string>
+						<key>de</key>
+						<string>Puzzle</string>
+						<key>ru</key>
+						<string>Puzzle</string>
+						<key>fr</key>
+						<string>Puzzle</string>
+						<key>es</key>
+						<string>Puzzle</string>
+						<key>pt</key>
+						<string>Puzzle</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Puzzle</string>
 				</dict>
@@ -300,7 +867,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_constellation</string>
 					<key>title</key>
-					<string>Constellation</string>
+					<dict>
+						<key>en</key>
+						<string>Constellation</string>
+						<key>zh-Hans</key>
+						<string>星座</string>
+						<key>zh-Hant-HK</key>
+						<string>星座</string>
+						<key>ja</key>
+						<string>星座</string>
+						<key>ko</key>
+						<string>별자리</string>
+						<key>de</key>
+						<string>Konstellation</string>
+						<key>ru</key>
+						<string>Созвездие</string>
+						<key>fr</key>
+						<string>Constellation</string>
+						<key>es</key>
+						<string>Constelación</string>
+						<key>pt</key>
+						<string>constelação</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -310,7 +898,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_classic</string>
 					<key>title</key>
-					<string>Classic</string>
+					<dict>
+						<key>en</key>
+						<string>Classic</string>
+						<key>zh-Hans</key>
+						<string>经典</string>
+						<key>zh-Hant-HK</key>
+						<string>經典</string>
+						<key>ja</key>
+						<string>クラシック</string>
+						<key>ko</key>
+						<string>권위 있는</string>
+						<key>de</key>
+						<string>Klassisch</string>
+						<key>ru</key>
+						<string>Классический</string>
+						<key>fr</key>
+						<string>Classique</string>
+						<key>es</key>
+						<string>Clásico</string>
+						<key>pt</key>
+						<string>Clássico</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -320,7 +929,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_watercolor</string>
 					<key>title</key>
-					<string>Watercolor</string>
+					<dict>
+						<key>en</key>
+						<string>Watercolor</string>
+						<key>zh-Hans</key>
+						<string>水彩</string>
+						<key>zh-Hant-HK</key>
+						<string>水彩</string>
+						<key>ja</key>
+						<string>水彩</string>
+						<key>ko</key>
+						<string>수채화</string>
+						<key>de</key>
+						<string>Aquarell</string>
+						<key>ru</key>
+						<string>Акварель</string>
+						<key>fr</key>
+						<string>Aquarelle</string>
+						<key>es</key>
+						<string>Acuarela</string>
+						<key>pt</key>
+						<string>Aquarela</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -330,7 +960,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_holidays</string>
 					<key>title</key>
-					<string>Holidays</string>
+					<dict>
+						<key>en</key>
+						<string>Holidays</string>
+						<key>zh-Hans</key>
+						<string>节日</string>
+						<key>zh-Hant-HK</key>
+						<string>節日</string>
+						<key>ja</key>
+						<string>休日</string>
+						<key>ko</key>
+						<string>휴가</string>
+						<key>de</key>
+						<string>Feiertage</string>
+						<key>ru</key>
+						<string>каникулы</string>
+						<key>fr</key>
+						<string>Vacances</string>
+						<key>es</key>
+						<string>Vacaciones</string>
+						<key>pt</key>
+						<string>Feriados</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -340,7 +991,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_bible</string>
 					<key>title</key>
-					<string>Bible</string>
+					<dict>
+						<key>en</key>
+						<string>Bible</string>
+						<key>zh-Hans</key>
+						<string>圣经</string>
+						<key>zh-Hant-HK</key>
+						<string>聖經</string>
+						<key>ja</key>
+						<string>聖書</string>
+						<key>ko</key>
+						<string>성경</string>
+						<key>de</key>
+						<string>Bible</string>
+						<key>ru</key>
+						<string>Библия</string>
+						<key>fr</key>
+						<string>Bible</string>
+						<key>es</key>
+						<string>Biblia</string>
+						<key>pt</key>
+						<string>Bíblia</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -350,7 +1022,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_mandala</string>
 					<key>title</key>
-					<string>Mandala</string>
+					<dict>
+						<key>en</key>
+						<string>Mandala</string>
+						<key>zh-Hans</key>
+						<string>曼陀罗</string>
+						<key>zh-Hant-HK</key>
+						<string>曼陀羅</string>
+						<key>ja</key>
+						<string>マンダラ</string>
+						<key>ko</key>
+						<string>만다라</string>
+						<key>de</key>
+						<string>Mandala</string>
+						<key>ru</key>
+						<string>Мандала</string>
+						<key>fr</key>
+						<string>Mandala</string>
+						<key>es</key>
+						<string>mándala</string>
+						<key>pt</key>
+						<string>Mandala</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -360,7 +1053,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_love</string>
 					<key>title</key>
-					<string>Love</string>
+					<dict>
+						<key>en</key>
+						<string>Love</string>
+						<key>zh-Hans</key>
+						<string>浪漫</string>
+						<key>zh-Hant-HK</key>
+						<string>浪漫</string>
+						<key>ja</key>
+						<string>愛する</string>
+						<key>ko</key>
+						<string>사랑</string>
+						<key>de</key>
+						<string>Liebe</string>
+						<key>ru</key>
+						<string>Люблю</string>
+						<key>fr</key>
+						<string>Amour</string>
+						<key>es</key>
+						<string>Amar</string>
+						<key>pt</key>
+						<string>Amar</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -370,7 +1084,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_head_flower</string>
 					<key>title</key>
-					<string>Flower</string>
+					<dict>
+						<key>en</key>
+						<string>Flower</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -378,7 +1113,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 		</dict>
 		<dict>
 			<key>category</key>
-			<string>VIP</string>
+			<dict>
+				<key>en</key>
+				<string>VIP</string>
+				<key>zh-Hans</key>
+				<string>VIP</string>
+				<key>zh-Hant-HK</key>
+				<string>VIP</string>
+				<key>ja</key>
+				<string>VIP</string>
+				<key>ko</key>
+				<string>VIP</string>
+				<key>de</key>
+				<string>VIP</string>
+				<key>ru</key>
+				<string>VIP</string>
+				<key>fr</key>
+				<string>VIP</string>
+				<key>es</key>
+				<string>VIP</string>
+				<key>pt</key>
+				<string>VIP</string>
+			</dict>
 			<key>images</key>
 			<array>
 				<dict>
@@ -393,7 +1149,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>Take you into the wonderful world of coloring</string>
 			<key>category</key>
-			<string>Editor,s Choice</string>
+			<dict>
+				<key>en</key>
+				<string>Editor,s Choice</string>
+				<key>zh-Hans</key>
+				<string>编辑精选</string>
+				<key>zh-Hant-HK</key>
+				<string>編輯精選</string>
+				<key>ja</key>
+				<string>編集者の選択</string>
+				<key>ko</key>
+				<string>편집자의 선택</string>
+				<key>de</key>
+				<string>Die Wahl des Herausgebers</string>
+				<key>ru</key>
+				<string>Выбор редактора</string>
+				<key>fr</key>
+				<string>Le choix des éditeurs</string>
+				<key>es</key>
+				<string>Selección del editor</string>
+				<key>pt</key>
+				<string>Escolha dos editores</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_editor</string>
 			<key>images</key>
@@ -404,7 +1181,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_editor_mostpopular</string>
 					<key>title</key>
-					<string>Most Popular</string>
+					<dict>
+						<key>en</key>
+						<string>Most Popular</string>
+						<key>zh-Hans</key>
+						<string>最受欢迎</string>
+						<key>zh-Hant-HK</key>
+						<string>最受歡迎</string>
+						<key>ja</key>
+						<string>最も人気のある</string>
+						<key>ko</key>
+						<string>가장 인기있는</string>
+						<key>de</key>
+						<string>Am beliebtesten</string>
+						<key>ru</key>
+						<string>Самый популярный</string>
+						<key>fr</key>
+						<string>Le plus populaire</string>
+						<key>es</key>
+						<string>Más popular</string>
+						<key>pt</key>
+						<string>Mais popular</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -414,7 +1212,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_editor_fairytales</string>
 					<key>title</key>
-					<string>Fairy Tales</string>
+					<dict>
+						<key>en</key>
+						<string>Fairy Tales</string>
+						<key>zh-Hans</key>
+						<string>童话故事</string>
+						<key>zh-Hant-HK</key>
+						<string>童話故事</string>
+						<key>ja</key>
+						<string>おとぎ話</string>
+						<key>ko</key>
+						<string>전래 동화</string>
+						<key>de</key>
+						<string>Märchen</string>
+						<key>ru</key>
+						<string>Сказки</string>
+						<key>fr</key>
+						<string>Contes de fées</string>
+						<key>es</key>
+						<string>Cuentos de hadas</string>
+						<key>pt</key>
+						<string>Contos de fadas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -424,7 +1243,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_editor_Constellation</string>
 					<key>title</key>
-					<string>Constellation</string>
+					<dict>
+						<key>en</key>
+						<string>Constellation</string>
+						<key>zh-Hans</key>
+						<string>星座</string>
+						<key>zh-Hant-HK</key>
+						<string>星座</string>
+						<key>ja</key>
+						<string>星座</string>
+						<key>ko</key>
+						<string>별자리</string>
+						<key>de</key>
+						<string>Konstellation</string>
+						<key>ru</key>
+						<string>Созвездие</string>
+						<key>fr</key>
+						<string>Constellation</string>
+						<key>es</key>
+						<string>Constelación</string>
+						<key>pt</key>
+						<string>constelação</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -434,7 +1274,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_editor_Living</string>
 					<key>title</key>
-					<string>Living</string>
+					<dict>
+						<key>en</key>
+						<string>Living</string>
+						<key>zh-Hans</key>
+						<string>生活</string>
+						<key>zh-Hant-HK</key>
+						<string>生活</string>
+						<key>ja</key>
+						<string>生活</string>
+						<key>ko</key>
+						<string>생활</string>
+						<key>de</key>
+						<string>Leben</string>
+						<key>ru</key>
+						<string>Жизнь</string>
+						<key>fr</key>
+						<string>Vivant</string>
+						<key>es</key>
+						<string>Viviendo</string>
+						<key>pt</key>
+						<string>Vivendo</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -444,7 +1305,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>Take you into the wonderful world of coloring</string>
 			<key>category</key>
-			<string>Festivals</string>
+			<dict>
+				<key>en</key>
+				<string>Festivals</string>
+				<key>zh-Hans</key>
+				<string>节日</string>
+				<key>zh-Hant-HK</key>
+				<string>節日</string>
+				<key>ja</key>
+				<string>お祭り</string>
+				<key>ko</key>
+				<string>축제</string>
+				<key>de</key>
+				<string>Feste</string>
+				<key>ru</key>
+				<string>Фестивали</string>
+				<key>fr</key>
+				<string>Festivals</string>
+				<key>es</key>
+				<string>festivales</string>
+				<key>pt</key>
+				<string>Festivais</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_holidays</string>
 			<key>images</key>
@@ -455,7 +1337,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_festivals_MerryChristmas</string>
 					<key>title</key>
-					<string>Merry Christmas</string>
+					<dict>
+						<key>en</key>
+						<string>Merry Christmas</string>
+						<key>zh-Hans</key>
+						<string>圣诞节</string>
+						<key>zh-Hant-HK</key>
+						<string>聖誕節</string>
+						<key>ja</key>
+						<string>メリークリスマス</string>
+						<key>ko</key>
+						<string>메리 크리스마스</string>
+						<key>de</key>
+						<string>Frohe Weihnachten</string>
+						<key>ru</key>
+						<string>счастливого Рождества</string>
+						<key>fr</key>
+						<string>Joyeux noël</string>
+						<key>es</key>
+						<string>Feliz navidad</string>
+						<key>pt</key>
+						<string>feliz Natal</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -465,7 +1368,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_festivals_Halloween</string>
 					<key>title</key>
-					<string>Halloween</string>
+					<dict>
+						<key>en</key>
+						<string>Halloween</string>
+						<key>zh-Hans</key>
+						<string>万圣节</string>
+						<key>zh-Hant-HK</key>
+						<string>萬聖節</string>
+						<key>ja</key>
+						<string>ハロウィーン</string>
+						<key>ko</key>
+						<string>할로윈</string>
+						<key>de</key>
+						<string>Halloween</string>
+						<key>ru</key>
+						<string>Хэллоуин</string>
+						<key>fr</key>
+						<string>Halloween</string>
+						<key>es</key>
+						<string>Víspera de Todos los Santos</string>
+						<key>pt</key>
+						<string>dia das Bruxas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -475,7 +1399,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_festivals_Easter</string>
 					<key>title</key>
-					<string>Happy Easter</string>
+					<dict>
+						<key>en</key>
+						<string>Happy Easter</string>
+						<key>zh-Hans</key>
+						<string>复活节</string>
+						<key>zh-Hant-HK</key>
+						<string>復活節</string>
+						<key>ja</key>
+						<string>イースター</string>
+						<key>ko</key>
+						<string>부활절</string>
+						<key>de</key>
+						<string>Ostern</string>
+						<key>ru</key>
+						<string>Пасха</string>
+						<key>fr</key>
+						<string>Pâques</string>
+						<key>es</key>
+						<string>Pascua de Resurrección</string>
+						<key>pt</key>
+						<string>Páscoa</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -485,7 +1430,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_festivals_NewYear</string>
 					<key>title</key>
-					<string>New Year</string>
+					<dict>
+						<key>en</key>
+						<string>New Year</string>
+						<key>zh-Hans</key>
+						<string>新年</string>
+						<key>zh-Hant-HK</key>
+						<string>新年</string>
+						<key>ja</key>
+						<string>新年</string>
+						<key>ko</key>
+						<string>새해</string>
+						<key>de</key>
+						<string>Neujahr</string>
+						<key>ru</key>
+						<string>Новый год</string>
+						<key>fr</key>
+						<string>Nouvel An</string>
+						<key>es</key>
+						<string>Año Nuevo</string>
+						<key>pt</key>
+						<string>Ano Novo</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
@@ -495,7 +1461,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>colorful colors, solidified beauty</string>
 			<key>category</key>
-			<string>Oil</string>
+			<dict>
+				<key>en</key>
+				<string>Oil Painting　</string>
+				<key>zh-Hans</key>
+				<string>油画</string>
+				<key>zh-Hant-HK</key>
+				<string>油畫</string>
+				<key>ja</key>
+				<string>油絵</string>
+				<key>ko</key>
+				<string>오일 페인팅</string>
+				<key>de</key>
+				<string>Ölgemälde</string>
+				<key>ru</key>
+				<string>Картина маслом</string>
+				<key>fr</key>
+				<string>Peinture à l&apos;huile</string>
+				<key>es</key>
+				<string>Pintura al óleo</string>
+				<key>pt</key>
+				<string>Pintura a óleo</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_oil</string>
 			<key>images</key>
@@ -506,7 +1493,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_travel</string>
 					<key>title</key>
-					<string>Travel</string>
+					<dict>
+						<key>en</key>
+						<string>Travel</string>
+						<key>zh-Hans</key>
+						<string>旅行</string>
+						<key>zh-Hant-HK</key>
+						<string>旅行</string>
+						<key>ja</key>
+						<string>旅行</string>
+						<key>ko</key>
+						<string>여행하다</string>
+						<key>de</key>
+						<string>Reisen</string>
+						<key>ru</key>
+						<string>Путешествовать</string>
+						<key>fr</key>
+						<string>Voyage</string>
+						<key>es</key>
+						<string>Viaje</string>
+						<key>pt</key>
+						<string>Viajar por</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -516,7 +1524,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -526,7 +1555,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_landscapes</string>
 					<key>title</key>
-					<string>Landscapes</string>
+					<dict>
+						<key>en</key>
+						<string>Landscapes</string>
+						<key>zh-Hans</key>
+						<string>风景</string>
+						<key>zh-Hant-HK</key>
+						<string>風景</string>
+						<key>ja</key>
+						<string>風景</string>
+						<key>ko</key>
+						<string>풍경</string>
+						<key>de</key>
+						<string>Landschaften</string>
+						<key>ru</key>
+						<string>Пейзажи</string>
+						<key>fr</key>
+						<string>Paysages</string>
+						<key>es</key>
+						<string>paisajes</string>
+						<key>pt</key>
+						<string>Paisagens</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -536,7 +1586,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_flower</string>
 					<key>title</key>
-					<string>Flower</string>
+					<dict>
+						<key>en</key>
+						<string>Flower</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -546,7 +1617,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_people</string>
 					<key>title</key>
-					<string>People</string>
+					<dict>
+						<key>en</key>
+						<string>People</string>
+						<key>zh-Hans</key>
+						<string> 人物</string>
+						<key>zh-Hant-HK</key>
+						<string> 人物</string>
+						<key>ja</key>
+						<string>人々</string>
+						<key>ko</key>
+						<string>사람들</string>
+						<key>de</key>
+						<string>Menschen</string>
+						<key>ru</key>
+						<string>Люди</string>
+						<key>fr</key>
+						<string>Personnes</string>
+						<key>es</key>
+						<string>Gente</string>
+						<key>pt</key>
+						<string>Pessoas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -556,7 +1648,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_oil_holiday</string>
 					<key>title</key>
-					<string>Holiday</string>
+					<dict>
+						<key>en</key>
+						<string>Holidays</string>
+						<key>zh-Hans</key>
+						<string>节日</string>
+						<key>zh-Hant-HK</key>
+						<string>節日</string>
+						<key>ja</key>
+						<string>休日</string>
+						<key>ko</key>
+						<string>휴가</string>
+						<key>de</key>
+						<string>Feiertage</string>
+						<key>ru</key>
+						<string>каникулы</string>
+						<key>fr</key>
+						<string>Vacances</string>
+						<key>es</key>
+						<string>Vacaciones</string>
+						<key>pt</key>
+						<string>Feriados</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Oil</string>
 				</dict>
@@ -566,7 +1679,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>The most beautiful anime is here</string>
 			<key>category</key>
-			<string>Anime</string>
+			<dict>
+				<key>en</key>
+				<string>Anime</string>
+				<key>zh-Hans</key>
+				<string>动漫</string>
+				<key>zh-Hant-HK</key>
+				<string>動漫</string>
+				<key>ja</key>
+				<string>アニメ</string>
+				<key>ko</key>
+				<string>일본 만화 영화</string>
+				<key>de</key>
+				<string>Animes</string>
+				<key>ru</key>
+				<string>Аниме</string>
+				<key>fr</key>
+				<string>Animé</string>
+				<key>es</key>
+				<string>animado</string>
+				<key>pt</key>
+				<string>Anime</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_anime</string>
 			<key>images</key>
@@ -577,7 +1711,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_girl</string>
 					<key>title</key>
-					<string>Girl</string>
+					<dict>
+						<key>en</key>
+						<string>Girl</string>
+						<key>zh-Hans</key>
+						<string>女孩</string>
+						<key>zh-Hant-HK</key>
+						<string>女孩</string>
+						<key>ja</key>
+						<string>女の子</string>
+						<key>ko</key>
+						<string>소녀</string>
+						<key>de</key>
+						<string>Mädchen</string>
+						<key>ru</key>
+						<string>Девочка</string>
+						<key>fr</key>
+						<string>Fille</string>
+						<key>es</key>
+						<string>Muchacha</string>
+						<key>pt</key>
+						<string>Menina</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -587,7 +1742,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_cute</string>
 					<key>title</key>
-					<string>Cute</string>
+					<dict>
+						<key>en</key>
+						<string>Cute</string>
+						<key>zh-Hans</key>
+						<string>可爱</string>
+						<key>zh-Hant-HK</key>
+						<string>可愛</string>
+						<key>ja</key>
+						<string>かわいい</string>
+						<key>ko</key>
+						<string>귀여운</string>
+						<key>de</key>
+						<string>Süß</string>
+						<key>ru</key>
+						<string>Милый</string>
+						<key>fr</key>
+						<string>Mignon</string>
+						<key>es</key>
+						<string>Linda</string>
+						<key>pt</key>
+						<string>Fofa</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -597,7 +1773,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_costume</string>
 					<key>title</key>
-					<string>Costume</string>
+					<dict>
+						<key>en</key>
+						<string>Costume</string>
+						<key>zh-Hans</key>
+						<string>服装</string>
+						<key>zh-Hant-HK</key>
+						<string>服裝</string>
+						<key>ja</key>
+						<string>コスチューム</string>
+						<key>ko</key>
+						<string>복장</string>
+						<key>de</key>
+						<string>Kostüm</string>
+						<key>ru</key>
+						<string>Костюм</string>
+						<key>fr</key>
+						<string>Costume</string>
+						<key>es</key>
+						<string>Traje</string>
+						<key>pt</key>
+						<string>Traje</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -607,7 +1804,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_fashions</string>
 					<key>title</key>
-					<string>Fashions</string>
+					<dict>
+						<key>en</key>
+						<string>Fashions</string>
+						<key>zh-Hans</key>
+						<string>时尚</string>
+						<key>zh-Hant-HK</key>
+						<string>時尚</string>
+						<key>ja</key>
+						<string>ファッション</string>
+						<key>ko</key>
+						<string>패션</string>
+						<key>de</key>
+						<string>Moden</string>
+						<key>ru</key>
+						<string>Мода</string>
+						<key>fr</key>
+						<string>Modes</string>
+						<key>es</key>
+						<string>modas</string>
+						<key>pt</key>
+						<string>Modas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -617,7 +1835,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_scenery</string>
 					<key>title</key>
-					<string>Scenery</string>
+					<dict>
+						<key>en</key>
+						<string>Scenery</string>
+						<key>zh-Hans</key>
+						<string>风景</string>
+						<key>zh-Hant-HK</key>
+						<string>風景</string>
+						<key>ja</key>
+						<string>景色</string>
+						<key>ko</key>
+						<string>경치</string>
+						<key>de</key>
+						<string>Landschaft</string>
+						<key>ru</key>
+						<string>Пейзаж</string>
+						<key>fr</key>
+						<string>Paysage</string>
+						<key>es</key>
+						<string>Escenario</string>
+						<key>pt</key>
+						<string>Cenário</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -627,7 +1866,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_anime_boy</string>
 					<key>title</key>
-					<string>Boy</string>
+					<dict>
+						<key>en</key>
+						<string>Boy</string>
+						<key>zh-Hans</key>
+						<string>男生</string>
+						<key>zh-Hant-HK</key>
+						<string>男生</string>
+						<key>ja</key>
+						<string>男の子</string>
+						<key>ko</key>
+						<string>소년</string>
+						<key>de</key>
+						<string>Junge</string>
+						<key>ru</key>
+						<string>Мальчик</string>
+						<key>fr</key>
+						<string>Garçon</string>
+						<key>es</key>
+						<string>Chico</string>
+						<key>pt</key>
+						<string>Garoto</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Anime</string>
 				</dict>
@@ -637,7 +1897,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>Take you into the world of sparkle</string>
 			<key>category</key>
-			<string>Glitter</string>
+			<dict>
+				<key>en</key>
+				<string>Glitter</string>
+				<key>zh-Hans</key>
+				<string>闪光</string>
+				<key>zh-Hant-HK</key>
+				<string>閃光</string>
+				<key>ja</key>
+				<string>キラキラ</string>
+				<key>ko</key>
+				<string>반짝임</string>
+				<key>de</key>
+				<string>Funkeln</string>
+				<key>ru</key>
+				<string>Блеск</string>
+				<key>fr</key>
+				<string>Briller</string>
+				<key>es</key>
+				<string>Brillantina</string>
+				<key>pt</key>
+				<string>Glitter</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_glitter</string>
 			<key>images</key>
@@ -648,7 +1929,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -658,7 +1960,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_beauty</string>
 					<key>title</key>
-					<string>Beauty</string>
+					<dict>
+						<key>en</key>
+						<string>Beauty</string>
+						<key>zh-Hans</key>
+						<string>美妆</string>
+						<key>zh-Hant-HK</key>
+						<string>美妆</string>
+						<key>ja</key>
+						<string>美しさ</string>
+						<key>ko</key>
+						<string>아름다움</string>
+						<key>de</key>
+						<string>Schönheit</string>
+						<key>ru</key>
+						<string>Красота</string>
+						<key>fr</key>
+						<string>Beauté</string>
+						<key>es</key>
+						<string>Belleza</string>
+						<key>pt</key>
+						<string>Beleza</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -668,7 +1991,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_fashion</string>
 					<key>title</key>
-					<string>Fashion</string>
+					<dict>
+						<key>en</key>
+						<string>Fashion</string>
+						<key>zh-Hans</key>
+						<string>时尚</string>
+						<key>zh-Hant-HK</key>
+						<string>時尚</string>
+						<key>ja</key>
+						<string>ファッション</string>
+						<key>ko</key>
+						<string>패션</string>
+						<key>de</key>
+						<string>Mode</string>
+						<key>ru</key>
+						<string>Мода</string>
+						<key>fr</key>
+						<string>Mode</string>
+						<key>es</key>
+						<string>Moda</string>
+						<key>pt</key>
+						<string>Moda</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -678,7 +2022,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_food</string>
 					<key>title</key>
-					<string>Food</string>
+					<dict>
+						<key>en</key>
+						<string>Food</string>
+						<key>zh-Hans</key>
+						<string>食物</string>
+						<key>zh-Hant-HK</key>
+						<string>食物</string>
+						<key>ja</key>
+						<string>食べ物</string>
+						<key>ko</key>
+						<string>음식</string>
+						<key>de</key>
+						<string>Essen</string>
+						<key>ru</key>
+						<string>Еда</string>
+						<key>fr</key>
+						<string>Aliments</string>
+						<key>es</key>
+						<string>Alimento</string>
+						<key>pt</key>
+						<string>Comida</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -688,7 +2053,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_living</string>
 					<key>title</key>
-					<string>Living</string>
+					<dict>
+						<key>en</key>
+						<string>Living</string>
+						<key>zh-Hans</key>
+						<string>生活</string>
+						<key>zh-Hant-HK</key>
+						<string>生活</string>
+						<key>ja</key>
+						<string>生活</string>
+						<key>ko</key>
+						<string>생활</string>
+						<key>de</key>
+						<string>Leben</string>
+						<key>ru</key>
+						<string>Жизнь</string>
+						<key>fr</key>
+						<string>Vivant</string>
+						<key>es</key>
+						<string>Viviendo</string>
+						<key>pt</key>
+						<string>Vivendo</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -698,7 +2084,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_glitter_nature</string>
 					<key>title</key>
-					<string>Nature</string>
+					<dict>
+						<key>en</key>
+						<string>Nature</string>
+						<key>zh-Hans</key>
+						<string>自然</string>
+						<key>zh-Hant-HK</key>
+						<string>自然</string>
+						<key>ja</key>
+						<string>自然</string>
+						<key>ko</key>
+						<string>자연</string>
+						<key>de</key>
+						<string>Natur</string>
+						<key>ru</key>
+						<string>Природа</string>
+						<key>fr</key>
+						<string>Nature</string>
+						<key>es</key>
+						<string>Naturaleza</string>
+						<key>pt</key>
+						<string>Natureza</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Glitter</string>
 				</dict>
@@ -708,7 +2115,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>Art Healing Life</string>
 			<key>category</key>
-			<string>Watercolor</string>
+			<dict>
+				<key>en</key>
+				<string>Watercolor</string>
+				<key>zh-Hans</key>
+				<string>水彩</string>
+				<key>zh-Hant-HK</key>
+				<string>水彩</string>
+				<key>ja</key>
+				<string>水彩</string>
+				<key>ko</key>
+				<string>수채화</string>
+				<key>de</key>
+				<string>Aquarell</string>
+				<key>ru</key>
+				<string>Акварель</string>
+				<key>fr</key>
+				<string>Aquarelle</string>
+				<key>es</key>
+				<string>Acuarela</string>
+				<key>pt</key>
+				<string>Aquarela</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_watercolor</string>
 			<key>images</key>
@@ -719,7 +2147,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_travel</string>
 					<key>title</key>
-					<string>Travel</string>
+					<dict>
+						<key>en</key>
+						<string>Travel</string>
+						<key>zh-Hans</key>
+						<string>旅行</string>
+						<key>zh-Hant-HK</key>
+						<string>旅行</string>
+						<key>ja</key>
+						<string>旅行</string>
+						<key>ko</key>
+						<string>여행하다</string>
+						<key>de</key>
+						<string>Reisen</string>
+						<key>ru</key>
+						<string>Путешествовать</string>
+						<key>fr</key>
+						<string>Voyage</string>
+						<key>es</key>
+						<string>Viaje</string>
+						<key>pt</key>
+						<string>Viajar por</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -729,7 +2178,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_people</string>
 					<key>title</key>
-					<string>People</string>
+					<dict>
+						<key>en</key>
+						<string>People</string>
+						<key>zh-Hans</key>
+						<string> 人物</string>
+						<key>zh-Hant-HK</key>
+						<string> 人物</string>
+						<key>ja</key>
+						<string>人々</string>
+						<key>ko</key>
+						<string>사람들</string>
+						<key>de</key>
+						<string>Menschen</string>
+						<key>ru</key>
+						<string>Люди</string>
+						<key>fr</key>
+						<string>Personnes</string>
+						<key>es</key>
+						<string>Gente</string>
+						<key>pt</key>
+						<string>Pessoas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -739,7 +2209,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_landscapes</string>
 					<key>title</key>
-					<string>Landscapes</string>
+					<dict>
+						<key>en</key>
+						<string>Landscapes</string>
+						<key>zh-Hans</key>
+						<string>风景</string>
+						<key>zh-Hant-HK</key>
+						<string>風景</string>
+						<key>ja</key>
+						<string>風景</string>
+						<key>ko</key>
+						<string>풍경</string>
+						<key>de</key>
+						<string>Landschaften</string>
+						<key>ru</key>
+						<string>Пейзажи</string>
+						<key>fr</key>
+						<string>Paysages</string>
+						<key>es</key>
+						<string>paisajes</string>
+						<key>pt</key>
+						<string>Paisagens</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -749,7 +2240,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -759,7 +2271,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_wallpaper</string>
 					<key>title</key>
-					<string>Wallpaper</string>
+					<dict>
+						<key>en</key>
+						<string>Wallpaper</string>
+						<key>zh-Hans</key>
+						<string>壁纸</string>
+						<key>zh-Hant-HK</key>
+						<string>壁纸</string>
+						<key>ja</key>
+						<string>壁紙</string>
+						<key>ko</key>
+						<string>벽지</string>
+						<key>de</key>
+						<string>Hintergrund</string>
+						<key>ru</key>
+						<string>Обои на стену</string>
+						<key>fr</key>
+						<string>Fond d&apos;écran</string>
+						<key>es</key>
+						<string>Fondo de pantalla</string>
+						<key>pt</key>
+						<string>Papel de parede</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -769,7 +2302,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_flower</string>
 					<key>title</key>
-					<string>Flower</string>
+					<dict>
+						<key>en</key>
+						<string>Flower</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -779,7 +2333,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_watercolor_ocean</string>
 					<key>title</key>
-					<string>Ocean</string>
+					<dict>
+						<key>en</key>
+						<string>Ocean</string>
+						<key>zh-Hans</key>
+						<string>海洋</string>
+						<key>zh-Hant-HK</key>
+						<string>海洋</string>
+						<key>ja</key>
+						<string>海洋</string>
+						<key>ko</key>
+						<string>대양</string>
+						<key>de</key>
+						<string>Ozean</string>
+						<key>ru</key>
+						<string>Океан</string>
+						<key>fr</key>
+						<string>Océan</string>
+						<key>es</key>
+						<string>Océano</string>
+						<key>pt</key>
+						<string>oceano</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Watercolor</string>
 				</dict>
@@ -789,7 +2364,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>Words</key>
 			<string>only the classic can last forever</string>
 			<key>category</key>
-			<string>Classic</string>
+			<dict>
+				<key>en</key>
+				<string>Classic</string>
+				<key>zh-Hans</key>
+				<string>经典</string>
+				<key>zh-Hant-HK</key>
+				<string>經典</string>
+				<key>ja</key>
+				<string>クラシック</string>
+				<key>ko</key>
+				<string>권위 있는</string>
+				<key>de</key>
+				<string>Klassisch</string>
+				<key>ru</key>
+				<string>Классический</string>
+				<key>fr</key>
+				<string>Classique</string>
+				<key>es</key>
+				<string>Clásico</string>
+				<key>pt</key>
+				<string>Clássico</string>
+			</dict>
 			<key>headImageName</key>
 			<string>category_head_classic</string>
 			<key>images</key>
@@ -800,7 +2396,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_animals</string>
 					<key>title</key>
-					<string>Animals</string>
+					<dict>
+						<key>en</key>
+						<string>Animals</string>
+						<key>zh-Hans</key>
+						<string>动物</string>
+						<key>zh-Hant-HK</key>
+						<string>動物</string>
+						<key>ja</key>
+						<string>動物</string>
+						<key>ko</key>
+						<string>동물</string>
+						<key>de</key>
+						<string>Tiere</string>
+						<key>ru</key>
+						<string>Животные</string>
+						<key>fr</key>
+						<string>Animaux</string>
+						<key>es</key>
+						<string>animales</string>
+						<key>pt</key>
+						<string>Animais</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -810,7 +2427,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_basic</string>
 					<key>title</key>
-					<string>Basic</string>
+					<dict>
+						<key>en</key>
+						<string>Basic</string>
+						<key>zh-Hans</key>
+						<string>基本</string>
+						<key>zh-Hant-HK</key>
+						<string>基本</string>
+						<key>ja</key>
+						<string>基本</string>
+						<key>ko</key>
+						<string>기초적인</string>
+						<key>de</key>
+						<string>Basic</string>
+						<key>ru</key>
+						<string>Базовый</string>
+						<key>fr</key>
+						<string>Basique</string>
+						<key>es</key>
+						<string>Básico</string>
+						<key>pt</key>
+						<string>Básico</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -820,7 +2458,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_bible</string>
 					<key>title</key>
-					<string>Bible</string>
+					<dict>
+						<key>en</key>
+						<string>Bible</string>
+						<key>zh-Hans</key>
+						<string>圣经</string>
+						<key>zh-Hant-HK</key>
+						<string>聖經</string>
+						<key>ja</key>
+						<string>聖書</string>
+						<key>ko</key>
+						<string>성경</string>
+						<key>de</key>
+						<string>Bible</string>
+						<key>ru</key>
+						<string>Библия</string>
+						<key>fr</key>
+						<string>Bible</string>
+						<key>es</key>
+						<string>Biblia</string>
+						<key>pt</key>
+						<string>Bíblia</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -830,7 +2489,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_florals</string>
 					<key>title</key>
-					<string>Florals</string>
+					<dict>
+						<key>en</key>
+						<string>Flower</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -840,7 +2520,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_scenery</string>
 					<key>title</key>
-					<string>Scenery</string>
+					<dict>
+						<key>en</key>
+						<string>Scenery</string>
+						<key>zh-Hans</key>
+						<string>风景</string>
+						<key>zh-Hant-HK</key>
+						<string>風景</string>
+						<key>ja</key>
+						<string>景色</string>
+						<key>ko</key>
+						<string>경치</string>
+						<key>de</key>
+						<string>Landschaft</string>
+						<key>ru</key>
+						<string>Пейзаж</string>
+						<key>fr</key>
+						<string>Paysage</string>
+						<key>es</key>
+						<string>Escenario</string>
+						<key>pt</key>
+						<string>Cenário</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -850,7 +2551,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_food</string>
 					<key>title</key>
-					<string>Food</string>
+					<dict>
+						<key>en</key>
+						<string>Food</string>
+						<key>zh-Hans</key>
+						<string>食物</string>
+						<key>zh-Hant-HK</key>
+						<string>食物</string>
+						<key>ja</key>
+						<string>食べ物</string>
+						<key>ko</key>
+						<string>음식</string>
+						<key>de</key>
+						<string>Essen</string>
+						<key>ru</key>
+						<string>Еда</string>
+						<key>fr</key>
+						<string>Aliments</string>
+						<key>es</key>
+						<string>Alimento</string>
+						<key>pt</key>
+						<string>Comida</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -860,7 +2582,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_people</string>
 					<key>title</key>
-					<string>People</string>
+					<dict>
+						<key>en</key>
+						<string>People</string>
+						<key>zh-Hans</key>
+						<string> 人物</string>
+						<key>zh-Hant-HK</key>
+						<string> 人物</string>
+						<key>ja</key>
+						<string>人々</string>
+						<key>ko</key>
+						<string>사람들</string>
+						<key>de</key>
+						<string>Menschen</string>
+						<key>ru</key>
+						<string>Люди</string>
+						<key>fr</key>
+						<string>Personnes</string>
+						<key>es</key>
+						<string>Gente</string>
+						<key>pt</key>
+						<string>Pessoas</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -870,7 +2613,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_heart</string>
 					<key>title</key>
-					<string>Heart</string>
+					<dict>
+						<key>en</key>
+						<string>Heart</string>
+						<key>zh-Hans</key>
+						<string>心</string>
+						<key>zh-Hant-HK</key>
+						<string>心</string>
+						<key>ja</key>
+						<string>心臓</string>
+						<key>ko</key>
+						<string>마음</string>
+						<key>de</key>
+						<string>Herz</string>
+						<key>ru</key>
+						<string>Сердце</string>
+						<key>fr</key>
+						<string>Cœur</string>
+						<key>es</key>
+						<string>Corazón</string>
+						<key>pt</key>
+						<string>Coração</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -880,7 +2644,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_mandala</string>
 					<key>title</key>
-					<string>Mandala</string>
+					<dict>
+						<key>en</key>
+						<string>Mandala</string>
+						<key>zh-Hans</key>
+						<string>曼陀罗</string>
+						<key>zh-Hant-HK</key>
+						<string>曼陀羅</string>
+						<key>ja</key>
+						<string>マンダラ</string>
+						<key>ko</key>
+						<string>만다라</string>
+						<key>de</key>
+						<string>Mandala</string>
+						<key>ru</key>
+						<string>Мандала</string>
+						<key>fr</key>
+						<string>Mandala</string>
+						<key>es</key>
+						<string>mándala</string>
+						<key>pt</key>
+						<string>Mandala</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -890,7 +2675,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_letter</string>
 					<key>title</key>
-					<string>Letter</string>
+					<dict>
+						<key>en</key>
+						<string>Letter</string>
+						<key>zh-Hans</key>
+						<string>信</string>
+						<key>zh-Hant-HK</key>
+						<string>信</string>
+						<key>ja</key>
+						<string>手紙</string>
+						<key>ko</key>
+						<string>편지</string>
+						<key>de</key>
+						<string>Brief</string>
+						<key>ru</key>
+						<string>Письмо</string>
+						<key>fr</key>
+						<string>Lettre</string>
+						<key>es</key>
+						<string>Carta</string>
+						<key>pt</key>
+						<string>Carta</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -900,7 +2706,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_holiday</string>
 					<key>title</key>
-					<string>Holiday</string>
+					<dict>
+						<key>en</key>
+						<string>Holidays</string>
+						<key>zh-Hans</key>
+						<string>节日</string>
+						<key>zh-Hant-HK</key>
+						<string>節日</string>
+						<key>ja</key>
+						<string>休日</string>
+						<key>ko</key>
+						<string>휴가</string>
+						<key>de</key>
+						<string>Feiertage</string>
+						<key>ru</key>
+						<string>каникулы</string>
+						<key>fr</key>
+						<string>Vacances</string>
+						<key>es</key>
+						<string>Vacaciones</string>
+						<key>pt</key>
+						<string>Feriados</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>
@@ -910,7 +2737,28 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>name</key>
 					<string>category_classic_zodiac</string>
 					<key>title</key>
-					<string>Zodiac</string>
+					<dict>
+						<key>en</key>
+						<string>Zodiac</string>
+						<key>zh-Hans</key>
+						<string>十二生肖</string>
+						<key>zh-Hant-HK</key>
+						<string>十二生肖</string>
+						<key>ja</key>
+						<string>干支</string>
+						<key>ko</key>
+						<string>황도 십이궁</string>
+						<key>de</key>
+						<string>Tierkreis</string>
+						<key>ru</key>
+						<string>Зодиак</string>
+						<key>fr</key>
+						<string>Zodiaque</string>
+						<key>es</key>
+						<string>Zodíaco</string>
+						<key>pt</key>
+						<string>Zodíaco</string>
+					</dict>
 					<key>categoryMiddle</key>
 					<string>Classic</string>
 				</dict>

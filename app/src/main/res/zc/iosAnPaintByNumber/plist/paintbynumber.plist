@@ -24419,6 +24419,13 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<string>Firefly_1</string>
 			<key>background</key>
 			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live140m1</string>
+				<string>live140m2</string>
+				<string>live140m3</string>
+				<string>live140m4</string>
+			</array>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

@@ -1096,26 +1096,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>classic_people_17</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>People</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_people_18</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>People</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>classic_people_19</string>
 			<key>category_1</key>
 			<string>Classic</string>
@@ -1213,16 +1193,6 @@
 			<string>Basic</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_basic_02</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Basic</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1336,16 +1306,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>classic_basic_14</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Basic</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>classic_basic_15</string>
 			<key>category_1</key>
 			<string>Classic</string>
@@ -1437,16 +1397,6 @@
 		<dict>
 			<key>name</key>
 			<string>classic_basic_24</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Basic</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_basic_25</string>
 			<key>category_1</key>
 			<string>Classic</string>
 			<key>category_2</key>
@@ -1597,16 +1547,6 @@
 		<dict>
 			<key>name</key>
 			<string>classic_basic_40</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Basic</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_basic_41</string>
 			<key>category_1</key>
 			<string>Classic</string>
 			<key>category_2</key>
@@ -1773,16 +1713,6 @@
 			<string>Mandala</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_mandala_16</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Mandala</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2316,16 +2246,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>classic_florals_20</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Florals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>classic_florals_21</string>
 			<key>category_1</key>
 			<string>Classic</string>
@@ -2377,16 +2297,6 @@
 		<dict>
 			<key>name</key>
 			<string>classic_florals_26</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Florals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>classic_florals_27</string>
 			<key>category_1</key>
 			<string>Classic</string>
 			<key>category_2</key>
@@ -3756,16 +3666,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>classic_scenery_15</string>
-			<key>category_1</key>
-			<string>Classic</string>
-			<key>category_2</key>
-			<string>Scenery</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>classic_scenery_16</string>
 			<key>category_1</key>
 			<string>Classic</string>
@@ -4526,16 +4426,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>water_flower_05</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Flower</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>water_flower_06</string>
 			<key>category_1</key>
 			<string>Watercolor</string>
@@ -4973,16 +4863,6 @@
 			<string>Wallpaper</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>water_wallpaper_05</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Wallpaper</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -5426,16 +5306,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>water_landscapes_24</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Landscapes</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>water_landscapes_25</string>
 			<key>category_1</key>
 			<string>Watercolor</string>
@@ -5477,16 +5347,6 @@
 		<dict>
 			<key>name</key>
 			<string>water_landscapes_29</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Landscapes</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>water_landscapes_30</string>
 			<key>category_1</key>
 			<string>Watercolor</string>
 			<key>category_2</key>
@@ -5837,16 +5697,6 @@
 		<dict>
 			<key>name</key>
 			<string>water_animals_15</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Animals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>water_animals_16</string>
 			<key>category_1</key>
 			<string>Watercolor</string>
 			<key>category_2</key>
@@ -6816,16 +6666,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>water_travel_32</string>
-			<key>category_1</key>
-			<string>Watercolor</string>
-			<key>category_2</key>
-			<string>Travel</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>water_travel_33</string>
 			<key>category_1</key>
 			<string>Watercolor</string>
@@ -7396,16 +7236,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>glitter_nature_15</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>glitter_nature_16</string>
 			<key>category_1</key>
 			<string>Glitter</string>
@@ -7516,16 +7346,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>glitter_nature_30</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>glitter_nature_31</string>
 			<key>category_1</key>
 			<string>Glitter</string>
@@ -7597,16 +7417,6 @@
 		<dict>
 			<key>name</key>
 			<string>glitter_nature_40</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_nature_41</string>
 			<key>category_1</key>
 			<string>Glitter</string>
 			<key>category_2</key>
@@ -7743,16 +7553,6 @@
 			<string>Nature</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_nature_57</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8306,16 +8106,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>glitter_living_35</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Living</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>glitter_living_36</string>
 			<key>category_1</key>
 			<string>Glitter</string>
@@ -8436,16 +8226,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>glitter_food_07</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Food</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>glitter_food_08</string>
 			<key>category_1</key>
 			<string>Glitter</string>
@@ -8473,16 +8253,6 @@
 			<string>Food</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_food_11</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Food</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -8697,16 +8467,6 @@
 		<dict>
 			<key>name</key>
 			<string>glitter_food_33</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Food</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_food_34</string>
 			<key>category_1</key>
 			<string>Glitter</string>
 			<key>category_2</key>
@@ -8983,16 +8743,6 @@
 			<string>Fashion</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_fashion_21</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Fashion</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -9833,16 +9583,6 @@
 			<string>Beauty</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>glitter_beauty_55</string>
-			<key>category_1</key>
-			<string>Glitter</string>
-			<key>category_2</key>
-			<string>Beauty</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -11706,16 +11446,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime_fashions_35</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Fashions</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime_fashions_10</string>
 			<key>category_1</key>
 			<string>Anime</string>
@@ -11843,16 +11573,6 @@
 			<string>Girl</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_girl_185</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -12796,16 +12516,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime_girl_101</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime_girl_81</string>
 			<key>category_1</key>
 			<string>Anime</string>
@@ -12873,16 +12583,6 @@
 			<string>Costume</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_cute_54</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -13296,16 +12996,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime_girl_130</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime_girl_111</string>
 			<key>category_1</key>
 			<string>Anime</string>
@@ -13323,16 +13013,6 @@
 			<string>Girl</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_girl_149</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -13453,16 +13133,6 @@
 			<string>Cute</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_cute_63</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Cute</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -14196,16 +13866,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime_girl_200</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime_girl_201</string>
 			<key>category_1</key>
 			<string>Anime</string>
@@ -14213,16 +13873,6 @@
 			<string>Girl</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_girl_202</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Girl</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -14336,16 +13986,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>anime_cute_74</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>anime_cute_75</string>
 			<key>category_1</key>
 			<string>Anime</string>
@@ -14423,16 +14063,6 @@
 			<string>Girl</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_fashions_33</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Fashions</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -14583,16 +14213,6 @@
 			<string>Cute</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>anime_cute_79</string>
-			<key>category_1</key>
-			<string>Anime</string>
-			<key>category_2</key>
-			<string>Cute</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -15896,16 +15516,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_landscapes_26</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Landscapes</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_landscapes_28</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -16346,16 +15956,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_flower_20</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Flower</string>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_flower_21</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -16636,16 +16236,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_flower_50</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Flower</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_flower_51</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -16903,16 +16493,6 @@
 			<string>Flower</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_flower_77</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Flower</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -17206,26 +16786,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_animals_24</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Animals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_animals_25</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Animals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_animals_26</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -17306,16 +16866,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_animals_34</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Animals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_animals_35</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -17356,26 +16906,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>oil_animals_41</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Animals</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_travel_00</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Travel</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>oil_travel_01</string>
 			<key>category_1</key>
 			<string>Oil</string>
@@ -17403,16 +16933,6 @@
 			<string>Travel</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_travel_05</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Travel</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -17623,16 +17143,6 @@
 			<string>Travel</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_travel_29</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Travel</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -17903,16 +17413,6 @@
 			<string>Travel</string>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>oil_travel_58</string>
-			<key>category_1</key>
-			<string>Oil</string>
-			<key>category_2</key>
-			<string>Travel</string>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -18736,27 +18236,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live45</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Fantasy</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_2</string>
-			<key>background</key>
-			<string>Gif_Di_3</string>
-			<key>animation</key>
-			<array>
-				<string>live45m1</string>
-				<string>live45m2</string>
-			</array>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live46</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -18810,22 +18289,6 @@
 			<string>Gif_Di_1</string>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live49</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_1</string>
-			<key>background</key>
-			<string>Gif_Di_3</string>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -18940,26 +18403,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live59</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Holidays</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_1</string>
-			<key>background</key>
-			<string>Gif_Di_3</string>
-			<key>animation</key>
-			<array>
-				<string>live59m1</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live60</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -18975,26 +18418,6 @@
 			<array>
 				<string>live60m1</string>
 				<string>live60m2</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live62</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>People</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_4</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live62m1</string>
 			</array>
 			<key>ads</key>
 			<string>no</string>
@@ -19127,27 +18550,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live77</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Holidays|Merry Christmas</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_1</string>
-			<key>background</key>
-			<string>Gif_Di_3</string>
-			<key>animation</key>
-			<array>
-				<string>live77m1</string>
-				<string>live77m2</string>
-			</array>
-			<key>ads</key>
-			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live79</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -19250,26 +18652,6 @@
 			</array>
 			<key>ads</key>
 			<string>yes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live86</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>People</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>Firefly_1</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live86m1</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -19417,26 +18799,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live99</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Constellation</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_2</string>
-			<key>background</key>
-			<string>Gif_Di_1</string>
-			<key>animation</key>
-			<array>
-				<string>live99m1</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live104</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -19519,27 +18881,6 @@
 			</array>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live109</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Flower|Nature</string>
-			<key>bian</key>
-			<string>yes</string>
-			<key>particle</key>
-			<string>glow_4</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live109m1</string>
-				<string>live109m2</string>
-			</array>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -19648,29 +18989,6 @@
 			</array>
 			<key>ads</key>
 			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live117</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Holidays|Halloween|Fairy Tales</string>
-			<key>bian</key>
-			<string>yes</string>
-			<key>particle</key>
-			<string>snow_2</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live117m1</string>
-				<string>live117m2</string>
-				<string>live117m3</string>
-				<string>live117m4</string>
-			</array>
-			<key>ads</key>
-			<string>yes</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -19870,27 +19188,6 @@
 			<key>animation</key>
 			<array>
 				<string>live130m1</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live132</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Holidays|Halloween</string>
-			<key>bian</key>
-			<string>yes</string>
-			<key>particle</key>
-			<string>snow_2</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live132m1</string>
-				<string>live132m2</string>
 			</array>
 			<key>ads</key>
 			<string>no</string>

@@ -2,10 +2,10 @@
 
 {
 	"filename": "Group_1_2.png",
-	"frame": {"x":665,"y":1,"w":1000,"h":504},
+	"frame": {"x":665,"y":1,"w":1000,"h":501},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":846,"w":1000,"h":504},
+	"spriteSourceSize": {"x":0,"y":846,"w":1000,"h":501},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
@@ -34,10 +34,18 @@
 },
 {
 	"filename": "Group_3_7.png",
-	"frame": {"x":1127,"y":1677,"w":364,"h":913},
+	"frame": {"x":1127,"y":1674,"w":364,"h":913},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":33,"y":184,"w":364,"h":913},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_11.png",
+	"frame": {"x":665,"y":997,"w":145,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":398,"y":1049,"w":145,"h":126},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
@@ -46,6 +54,14 @@
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":969,"w":611,"h":267},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_9.png",
+	"frame": {"x":1667,"y":1505,"w":160,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":138,"y":44,"w":160,"h":159},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
@@ -58,7 +74,7 @@
 },
 {
 	"filename": "Line_1_Group_3.png",
-	"frame": {"x":1127,"y":1000,"w":675,"h":538},
+	"frame": {"x":1127,"y":997,"w":675,"h":538},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":112,"y":584,"w":675,"h":538},
@@ -66,7 +82,7 @@
 },
 {
 	"filename": "Line_2_Group_1.png",
-	"frame": {"x":665,"y":507,"w":1000,"h":491},
+	"frame": {"x":665,"y":504,"w":1000,"h":491},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":844,"w":1000,"h":491},
@@ -93,9 +109,9 @@
 	"version": "1.0",
 	"image": "puzzle_284_2.png",
 	"format": "RGBA8888",
-	"size": {"w":2045,"h":2042},
+	"size": {"w":2045,"h":2039},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_284_0.json", "puzzle_284_1.json", "puzzle_284_3.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:f15ebcaa24cefa0dea3603462983bf4f:f1b84801410f43a06e0825e31338f592:a8b7ece6dbe9a490fd25e49b9cd6f661$"
+	"smartupdate": "$TexturePacker:SmartUpdate:a6fd05c88e78711f78ce10ee682ccb47:d864f978959b79306c1c5b0d4aee28ce:a8b7ece6dbe9a490fd25e49b9cd6f661$"
 }
 }

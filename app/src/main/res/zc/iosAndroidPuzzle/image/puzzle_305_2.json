@@ -1,99 +1,59 @@
 {"frames": [
 
 {
-	"filename": "Group_1_1.png",
-	"frame": {"x":297,"y":1,"w":1000,"h":290},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":355,"w":1000,"h":290},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_1_3.png",
-	"frame": {"x":623,"y":1353,"w":80,"h":147},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":587,"y":358,"w":80,"h":147},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_1_4.png",
-	"frame": {"x":623,"y":1502,"w":78,"h":144},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":884,"y":386,"w":78,"h":144},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
 	"filename": "Group_2_4.png",
-	"frame": {"x":589,"y":1,"w":1000,"h":290},
-	"rotated": true,
+	"frame": {"x":1,"y":156,"w":1000,"h":290},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":0,"y":450,"w":1000,"h":290},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
+	"filename": "Group_3_1.png",
+	"frame": {"x":366,"y":1,"w":153,"h":153},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":91,"y":76,"w":153,"h":153},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
 	"filename": "Group_3_6.png",
-	"frame": {"x":1,"y":1003,"w":620,"h":961},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":389,"w":620,"h":961},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_3_9-001.png",
-	"frame": {"x":623,"y":1003,"w":148,"h":193},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":651,"y":1157,"w":148,"h":193},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_4_1.png",
-	"frame": {"x":773,"y":1003,"w":90,"h":100},
+	"frame": {"x":1,"y":1040,"w":620,"h":958},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":613,"y":1250,"w":90,"h":100},
+	"spriteSourceSize": {"x":0,"y":389,"w":620,"h":958},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_4_5.png",
-	"frame": {"x":756,"y":1198,"w":102,"h":89},
+	"filename": "Group_4_2.png",
+	"frame": {"x":156,"y":1,"w":208,"h":145},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":642,"y":44,"w":102,"h":89},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_4_6.png",
-	"frame": {"x":705,"y":1353,"w":103,"h":89},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":678,"y":167,"w":103,"h":89},
-	"sourceSize": {"w":1000,"h":1350}
-},
-{
-	"filename": "Group_5_4.png",
-	"frame": {"x":623,"y":1648,"w":111,"h":93},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":417,"y":593,"w":111,"h":93},
+	"spriteSourceSize": {"x":366,"y":1202,"w":208,"h":145},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Group_5_5.png",
-	"frame": {"x":623,"y":1198,"w":153,"h":131},
-	"rotated": true,
+	"frame": {"x":1,"y":1,"w":153,"h":131},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":326,"y":72,"w":153,"h":131},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_1_Group_2.png",
-	"frame": {"x":1,"y":1,"w":1000,"h":294},
-	"rotated": true,
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1,"y":744,"w":997,"h":294},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":448,"w":1000,"h":294},
+	"spriteSourceSize": {"x":0,"y":353,"w":997,"h":294},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1,"y":448,"w":999,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":448,"w":999,"h":294},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -101,9 +61,9 @@
 	"version": "1.0",
 	"image": "puzzle_305_2.png",
 	"format": "RGBA8888",
-	"size": {"w":880,"h":1965},
+	"size": {"w":1002,"h":1661},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_305_0.json", "puzzle_305_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:5caf35ccebda65016ee9ac052130a331:0c0cb523a21f7c53d7721c934cdda8ae:9c1d7aa2b7985aa2a7ba341d7b1afd4f$"
+	"smartupdate": "$TexturePacker:SmartUpdate:dcb39d765e9f92feca6d4892daab8a05:bb8f189438609315ca7f20009c2b4e5e:9c1d7aa2b7985aa2a7ba341d7b1afd4f$"
 }
 }

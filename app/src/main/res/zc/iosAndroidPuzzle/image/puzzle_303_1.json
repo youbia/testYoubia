@@ -2,18 +2,18 @@
 
 {
 	"filename": "Group_1_8.png",
-	"frame": {"x":1,"y":1,"w":1000,"h":836},
+	"frame": {"x":1,"y":1,"w":998,"h":832},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":836},
+	"spriteSourceSize": {"x":0,"y":4,"w":998,"h":832},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
 	"filename": "Line_1_Group_2.png",
-	"frame": {"x":1,"y":839,"w":946,"h":1102},
+	"frame": {"x":1,"y":835,"w":946,"h":1099},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":248,"w":946,"h":1102},
+	"spriteSourceSize": {"x":0,"y":248,"w":946,"h":1099},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -21,9 +21,9 @@
 	"version": "1.0",
 	"image": "puzzle_303_1.png",
 	"format": "RGBA8888",
-	"size": {"w":1002,"h":1942},
+	"size": {"w":1000,"h":1935},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_303_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:6096bd75b46f214c1928fd699a49a2c7:b96f1f7ed25b006b64297972ef798b04:73304a3a62663844712985c2f6a07527$"
+	"smartupdate": "$TexturePacker:SmartUpdate:637baf1544b7ae0fc2ca82e58d1249dc:9ba430914de3c5e25c8a0717387b931e:73304a3a62663844712985c2f6a07527$"
 }
 }

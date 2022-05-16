@@ -24941,6 +24941,27 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>ads</key>
 			<string>no</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>live166</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>People|Nature</string>
+			<key>bian</key>
+			<string>yes</string>
+			<key>particle</key>
+			<string>snow_3</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live166m1</string>
+				<string>live166m2</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
 	</array>
 	<key>Puzzle</key>
 	<array>

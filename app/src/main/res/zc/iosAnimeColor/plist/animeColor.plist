@@ -3310,9 +3310,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ColorLive</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1613756863</string>
+			<string>cute_91</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_13</string>
+			<key>category</key>
+			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_92</string>
+			<key>category</key>
+			<string>Cute</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_93</string>
+			<key>category</key>
+			<string>Cute</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>cute_94</string>
+			<key>category</key>
+			<string>Cute</string>
 		</dict>
 	</array>
 	<key>Category</key>

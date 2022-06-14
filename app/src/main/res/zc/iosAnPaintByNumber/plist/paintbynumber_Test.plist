@@ -11,6 +11,37 @@
 			<array>
 				<dict>
 					<key>Words</key>
+					<string>MakeupMakeupMakeup</string>
+					<key>name</key>
+					<string>home_flower</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Makeup</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>Words</key>
 					<string>People are the most beautiful scenery</string>
 					<key>name</key>
 					<string>home_people</string>
@@ -604,6 +635,37 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			</dict>
 			<key>images</key>
 			<array>
+				<dict>
+					<key>Words</key>
+					<string>MakeupMakeupMakeup</string>
+					<key>name</key>
+					<string>home_flower</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Makeup</string>
+						<key>zh-Hans</key>
+						<string>花</string>
+						<key>zh-Hant-HK</key>
+						<string>花</string>
+						<key>ja</key>
+						<string>花</string>
+						<key>ko</key>
+						<string>꽃</string>
+						<key>de</key>
+						<string>Blume</string>
+						<key>ru</key>
+						<string>Цветок</string>
+						<key>fr</key>
+						<string>Fleur</string>
+						<key>es</key>
+						<string>Flor</string>
+						<key>pt</key>
+						<string>Flor</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
 				<dict>
 					<key>Words</key>
 					<string>People are the most beautiful scenery</string>

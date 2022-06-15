@@ -11,37 +11,6 @@
 			<array>
 				<dict>
 					<key>Words</key>
-					<string>MakeupMakeupMakeup</string>
-					<key>name</key>
-					<string>home_flower</string>
-					<key>title</key>
-					<dict>
-						<key>en</key>
-						<string>Makeup</string>
-						<key>zh-Hans</key>
-						<string>花</string>
-						<key>zh-Hant-HK</key>
-						<string>花</string>
-						<key>ja</key>
-						<string>花</string>
-						<key>ko</key>
-						<string>꽃</string>
-						<key>de</key>
-						<string>Blume</string>
-						<key>ru</key>
-						<string>Цветок</string>
-						<key>fr</key>
-						<string>Fleur</string>
-						<key>es</key>
-						<string>Flor</string>
-						<key>pt</key>
-						<string>Flor</string>
-					</dict>
-					<key>categoryMiddle</key>
-					<string>Live</string>
-				</dict>
-				<dict>
-					<key>Words</key>
 					<string>People are the most beautiful scenery</string>
 					<key>name</key>
 					<string>home_people</string>
@@ -73,31 +42,62 @@
 				</dict>
 				<dict>
 					<key>Words</key>
-					<string>get close to nature, see mountains and rivers</string>
+					<string>Flowers are the eyes of angels</string>
 					<key>name</key>
-					<string>home_nature</string>
+					<string>home_flower</string>
 					<key>title</key>
 					<dict>
 						<key>en</key>
-						<string>Nature</string>
+						<string>Flower</string>
 						<key>zh-Hans</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>zh-Hant-HK</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>ja</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>ko</key>
-						<string>자연</string>
+						<string>꽃</string>
 						<key>de</key>
-						<string>Natur</string>
+						<string>Blume</string>
 						<key>ru</key>
-						<string>Природа</string>
+						<string>Цветок</string>
 						<key>fr</key>
-						<string>Nature</string>
+						<string>Fleur</string>
 						<key>es</key>
-						<string>Naturaleza</string>
+						<string>Flor</string>
 						<key>pt</key>
-						<string>Natureza</string>
+						<string>Flor</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>Words</key>
+					<string>Beauty comes from within</string>
+					<key>name</key>
+					<string>home_makeup</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Makeup</string>
+						<key>zh-Hans</key>
+						<string>美妝</string>
+						<key>zh-Hant-HK</key>
+						<string>美妝</string>
+						<key>ja</key>
+						<string>化粧</string>
+						<key>ko</key>
+						<string>구성하다</string>
+						<key>de</key>
+						<string>Bilden</string>
+						<key>ru</key>
+						<string>Макияж</string>
+						<key>fr</key>
+						<string>Makeup</string>
+						<key>es</key>
+						<string>Makeup</string>
+						<key>pt</key>
+						<string>Makeup</string>
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
@@ -161,6 +161,37 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 						<string>Fantasía</string>
 						<key>pt</key>
 						<string>Fantasia</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>Words</key>
+					<string>get close to nature, see mountains and rivers</string>
+					<key>name</key>
+					<string>home_nature</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Nature</string>
+						<key>zh-Hans</key>
+						<string>自然</string>
+						<key>zh-Hant-HK</key>
+						<string>自然</string>
+						<key>ja</key>
+						<string>自然</string>
+						<key>ko</key>
+						<string>자연</string>
+						<key>de</key>
+						<string>Natur</string>
+						<key>ru</key>
+						<string>Природа</string>
+						<key>fr</key>
+						<string>Nature</string>
+						<key>es</key>
+						<string>Naturaleza</string>
+						<key>pt</key>
+						<string>Natureza</string>
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
@@ -535,37 +566,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					<key>categoryMiddle</key>
 					<string>Live</string>
 				</dict>
-				<dict>
-					<key>Words</key>
-					<string>Flowers are the eyes of angels</string>
-					<key>name</key>
-					<string>home_flower</string>
-					<key>title</key>
-					<dict>
-						<key>en</key>
-						<string>Flower</string>
-						<key>zh-Hans</key>
-						<string>花</string>
-						<key>zh-Hant-HK</key>
-						<string>花</string>
-						<key>ja</key>
-						<string>花</string>
-						<key>ko</key>
-						<string>꽃</string>
-						<key>de</key>
-						<string>Blume</string>
-						<key>ru</key>
-						<string>Цветок</string>
-						<key>fr</key>
-						<string>Fleur</string>
-						<key>es</key>
-						<string>Flor</string>
-						<key>pt</key>
-						<string>Flor</string>
-					</dict>
-					<key>categoryMiddle</key>
-					<string>Live</string>
-				</dict>
 			</array>
 		</dict>
 		<dict>
@@ -637,37 +637,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<array>
 				<dict>
 					<key>Words</key>
-					<string>MakeupMakeupMakeup</string>
-					<key>name</key>
-					<string>home_flower</string>
-					<key>title</key>
-					<dict>
-						<key>en</key>
-						<string>Makeup</string>
-						<key>zh-Hans</key>
-						<string>花</string>
-						<key>zh-Hant-HK</key>
-						<string>花</string>
-						<key>ja</key>
-						<string>花</string>
-						<key>ko</key>
-						<string>꽃</string>
-						<key>de</key>
-						<string>Blume</string>
-						<key>ru</key>
-						<string>Цветок</string>
-						<key>fr</key>
-						<string>Fleur</string>
-						<key>es</key>
-						<string>Flor</string>
-						<key>pt</key>
-						<string>Flor</string>
-					</dict>
-					<key>categoryMiddle</key>
-					<string>Live</string>
-				</dict>
-				<dict>
-					<key>Words</key>
 					<string>People are the most beautiful scenery</string>
 					<key>name</key>
 					<string>category_head_people</string>
@@ -699,31 +668,62 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 				</dict>
 				<dict>
 					<key>Words</key>
-					<string>get close to nature, see mountains and rivers</string>
+					<string>Flowers are the eyes of angels</string>
 					<key>name</key>
-					<string>category_head_nature</string>
+					<string>category_head_flower</string>
 					<key>title</key>
 					<dict>
 						<key>en</key>
-						<string>Nature</string>
+						<string>Flower</string>
 						<key>zh-Hans</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>zh-Hant-HK</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>ja</key>
-						<string>自然</string>
+						<string>花</string>
 						<key>ko</key>
-						<string>자연</string>
+						<string>꽃</string>
 						<key>de</key>
-						<string>Natur</string>
+						<string>Blume</string>
 						<key>ru</key>
-						<string>Природа</string>
+						<string>Цветок</string>
 						<key>fr</key>
-						<string>Nature</string>
+						<string>Fleur</string>
 						<key>es</key>
-						<string>Naturaleza</string>
+						<string>Flor</string>
 						<key>pt</key>
-						<string>Natureza</string>
+						<string>Flor</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>Words</key>
+					<string>Beauty comes from within</string>
+					<key>name</key>
+					<string>category_head_makeup</string>
+					<key>title </key>
+					<dict>
+						<key>en</key>
+						<string>Makeup</string>
+						<key>zh-Hans</key>
+						<string>美妝</string>
+						<key>zh-Hant-HK</key>
+						<string>美妝</string>
+						<key>ja</key>
+						<string>化粧</string>
+						<key>ko</key>
+						<string>구성하다</string>
+						<key>de</key>
+						<string>Bilden</string>
+						<key>ru</key>
+						<string>Макияж</string>
+						<key>fr</key>
+						<string>Makeup</string>
+						<key>es</key>
+						<string>Makeup</string>
+						<key>pt</key>
+						<string>Makeup</string>
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
@@ -787,6 +787,37 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 						<string>Fantasía</string>
 						<key>pt</key>
 						<string>Fantasia</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Live</string>
+				</dict>
+				<dict>
+					<key>Words</key>
+					<string>get close to nature, see mountains and rivers</string>
+					<key>name</key>
+					<string>category_head_nature</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Nature</string>
+						<key>zh-Hans</key>
+						<string>自然</string>
+						<key>zh-Hant-HK</key>
+						<string>自然</string>
+						<key>ja</key>
+						<string>自然</string>
+						<key>ko</key>
+						<string>자연</string>
+						<key>de</key>
+						<string>Natur</string>
+						<key>ru</key>
+						<string>Природа</string>
+						<key>fr</key>
+						<string>Nature</string>
+						<key>es</key>
+						<string>Naturaleza</string>
+						<key>pt</key>
+						<string>Natureza</string>
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
@@ -1157,37 +1188,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 						<string>Amar</string>
 						<key>pt</key>
 						<string>Amar</string>
-					</dict>
-					<key>categoryMiddle</key>
-					<string>Live</string>
-				</dict>
-				<dict>
-					<key>Words</key>
-					<string>Flowers are the eyes of angels</string>
-					<key>name</key>
-					<string>category_head_flower</string>
-					<key>title</key>
-					<dict>
-						<key>en</key>
-						<string>Flower</string>
-						<key>zh-Hans</key>
-						<string>花</string>
-						<key>zh-Hant-HK</key>
-						<string>花</string>
-						<key>ja</key>
-						<string>花</string>
-						<key>ko</key>
-						<string>꽃</string>
-						<key>de</key>
-						<string>Blume</string>
-						<key>ru</key>
-						<string>Цветок</string>
-						<key>fr</key>
-						<string>Fleur</string>
-						<key>es</key>
-						<string>Flor</string>
-						<key>pt</key>
-						<string>Flor</string>
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>

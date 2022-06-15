@@ -27063,6 +27063,22 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>ads</key>
 			<string>no</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>livetest</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>Animals|Rare|Most Popular</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>particle</key>
+			<string>star_1</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
 	</array>
 	<key>Puzzle</key>
 	<array>

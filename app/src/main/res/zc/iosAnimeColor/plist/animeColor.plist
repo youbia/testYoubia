@@ -3336,6 +3336,54 @@
 			<key>category</key>
 			<string>Cute</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_248</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_249</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_250</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_251</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>friend_14</string>
+			<key>category</key>
+			<string>Friend</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>love_9</string>
+			<key>category</key>
+			<string>Love</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ColorLive</string>
+			<key>url</key>
+			<string>itms-apps://itunes.apple.com/app/id1613756863</string>
+		</dict>
 	</array>
 	<key>Category</key>
 	<array>

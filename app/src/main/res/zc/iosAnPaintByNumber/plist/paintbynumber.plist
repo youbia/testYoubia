@@ -27585,6 +27585,50 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>live286</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>Makeup</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>particle</key>
+			<string>star_1</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live286m1</string>
+				<string>live286m2</string>
+				<string>live286m3</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live298</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>Makeup</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>particle</key>
+			<string>faceStar_1</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live298m1</string>
+				<string>live298m2</string>
+				<string>live298m3</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>live299</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -34835,6 +34879,50 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 				<string>live297m1</string>
 				<string>live297m2</string>
 				<string>live297m3</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live286</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>Makeup</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>particle</key>
+			<string>star_1</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live286m1</string>
+				<string>live286m2</string>
+				<string>live286m3</string>
+			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>live298</string>
+			<key>category_1</key>
+			<string>Live</string>
+			<key>category_2</key>
+			<string>Makeup</string>
+			<key>bian</key>
+			<string>no</string>
+			<key>particle</key>
+			<string>faceStar_1</string>
+			<key>background</key>
+			<string>Gif_Di_2</string>
+			<key>animation</key>
+			<array>
+				<string>live298m1</string>
+				<string>live298m2</string>
+				<string>live298m3</string>
 			</array>
 			<key>ads</key>
 			<string>no</string>

@@ -26213,28 +26213,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>live227</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_3</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live227m1</string>
-				<string>live227m2</string>
-				<string>live227m3</string>
-			</array>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>live228</string>
 			<key>category_1</key>
 			<string>Live</string>
@@ -33508,28 +33486,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<string>snow_2</string>
 			<key>background</key>
 			<string>Gif_Di_1</string>
-			<key>ads</key>
-			<string>no</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>live227</string>
-			<key>category_1</key>
-			<string>Live</string>
-			<key>category_2</key>
-			<string>Nature</string>
-			<key>bian</key>
-			<string>no</string>
-			<key>particle</key>
-			<string>snow_3</string>
-			<key>background</key>
-			<string>Gif_Di_2</string>
-			<key>animation</key>
-			<array>
-				<string>live227m1</string>
-				<string>live227m2</string>
-				<string>live227m3</string>
-			</array>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

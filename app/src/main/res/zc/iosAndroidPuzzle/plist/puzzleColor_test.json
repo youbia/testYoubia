@@ -348,8 +348,34 @@
   "302": {"name": "puzzle_303", "count": "2"},
   "303": {"name": "puzzle_304", "count": "2"},
   "304": {"name": "puzzle_305", "count": "3"},
+  "305": {"name": "puzzle_306", "count": "3"},
+  "306": {"name": "puzzle_307", "count": "2"},
+  "307": {"name": "puzzle_308", "count": "2"},
+  "308": {"name": "puzzle_309", "count": "2"},
+  "309": {"name": "puzzle_310", "count": "3"},
+  "310": {"name": "puzzle_311", "count": "5"},
+  "311": {"name": "puzzle_312", "count": "4"},
+  "312": {"name": "puzzle_313", "count": "2"},
+  "313": {"name": "puzzle_314", "count": "3"},
+  "314": {"name": "puzzle_315", "count": "3"},
+  "315": {"name": "puzzle_316", "count": "2"},
+  "316": {"name": "puzzle_317", "count": "2"},
+  "317": {"name": "puzzle_318", "count": "2"},
+  "318": {"name": "puzzle_319", "count": "3"},
+  "319": {"name": "puzzle_320", "count": "2"},
+  "320": {"name": "puzzle_321", "count": "2"},
+  "321": {"name": "puzzle_322", "count": "2"},
+  "322": {"name": "puzzle_323", "count": "3"},
+  "323": {"name": "puzzle_324", "count": "2"},
+  "324": {"name": "puzzle_325", "count": "2"},
+  "325": {"name": "puzzle_326", "count": "2"},
+  "326": {"name": "puzzle_327", "count": "3"},
+  "327": {"name": "puzzle_328", "count": "3"},
+  "328": {"name": "puzzle_329", "count": "3"},
+  "329": {"name": "puzzle_330", "count": "2"},
+  "330": {"name": "puzzle_331", "count": "2"},
 
-  "305": {"name": "coming", "count": "0"}
+  "331": {"name": "coming", "count": "0"}
 
 
 

@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":127,"y":1798,"w":578,"h":207},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":422,"y":415,"w":578,"h":207},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_4.png",
+	"frame": {"x":1,"y":1338,"w":1000,"h":458},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":892,"w":1000,"h":458},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_3.png",
+	"frame": {"x":1003,"y":1239,"w":765,"h":381},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":157,"y":969,"w":765,"h":381},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_7.png",
+	"frame": {"x":1,"y":1798,"w":124,"h":228},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":876,"y":306,"w":124,"h":228},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_2.png",
+	"frame": {"x":707,"y":1798,"w":174,"h":254},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":438,"y":1066,"w":174,"h":254},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_4.png",
+	"frame": {"x":1386,"y":1239,"w":623,"h":741},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":184,"y":609,"w":623,"h":741},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_5.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1335},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":1000,"h":1335},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_2.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1236},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":114,"w":1000,"h":1236},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_311_1.png",
+	"format": "RGBA8888",
+	"size": {"w":2010,"h":2027},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_311_0.json", "puzzle_311_2.json", "puzzle_311_3.json", "puzzle_311_4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:8e842bee0c6f3f01f27a06711ef40baa:b77e1880cce63873bdb3622e29a8f43d:e061cc607f601325ff30c1e4f81cc546$"
+}
+}

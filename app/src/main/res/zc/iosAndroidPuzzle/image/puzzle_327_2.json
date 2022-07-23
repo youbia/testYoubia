@@ -1,27 +1,51 @@
 {"frames": [
 
 {
-	"filename": "Group_3_3.png",
-	"frame": {"x":534,"y":537,"w":199,"h":429},
+	"filename": "Group_1_3.png",
+	"frame": {"x":806,"y":1,"w":169,"h":546},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":199,"y":779,"w":199,"h":429},
+	"spriteSourceSize": {"x":426,"y":517,"w":169,"h":546},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_4.png",
-	"frame": {"x":1,"y":537,"w":448,"h":531},
+	"filename": "Group_3_9.png",
+	"frame": {"x":481,"y":681,"w":91,"h":91},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":883,"y":1013,"w":91,"h":91},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_4_2.png",
+	"frame": {"x":1,"y":538,"w":277,"h":251},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":334,"y":1099,"w":277,"h":251},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_6_6.png",
+	"frame": {"x":280,"y":549,"w":199,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":349,"y":35,"w":199,"h":200},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_6_8.png",
+	"frame": {"x":481,"y":549,"w":130,"h":93},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":552,"y":708,"w":448,"h":531},
+	"spriteSourceSize": {"x":499,"y":397,"w":130,"h":93},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Line_2_Group_4.png",
-	"frame": {"x":1,"y":1,"w":880,"h":534},
+	"filename": "Line_1_Group_3.png",
+	"frame": {"x":1,"y":1,"w":803,"h":535},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":105,"y":816,"w":880,"h":534},
+	"spriteSourceSize": {"x":197,"y":706,"w":803,"h":535},
 	"sourceSize": {"w":1000,"h":1350}
 }],
 "meta": {
@@ -29,9 +53,9 @@
 	"version": "1.0",
 	"image": "puzzle_327_2.png",
 	"format": "RGBA8888",
-	"size": {"w":882,"h":986},
+	"size": {"w":976,"h":790},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_327_0.json", "puzzle_327_1.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:823a60c9f37d13194491a1b6e1c5a2d0:42da5cc637aa5dae9f2ce59b82782e05:e32f274f33c79e170d238b4a8d15c835$"
+	"smartupdate": "$TexturePacker:SmartUpdate:43c46d73e2c2e88ef7b18a8bd21e570a:45f9fd24db790438e93eb94e98a8464a:e32f274f33c79e170d238b4a8d15c835$"
 }
 }

@@ -81,7 +81,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_1-001.png",
+	"filename": "Group_3_1.png",
 	"frame": {"x":226,"y":1792,"w":219,"h":183},
 	"rotated": false,
 	"trimmed": true,
@@ -89,7 +89,7 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_1.png",
+	"filename": "Group_3_2.png",
 	"frame": {"x":1032,"y":1750,"w":232,"h":291},
 	"rotated": true,
 	"trimmed": true,
@@ -168,6 +168,6 @@
 	"size": {"w":2004,"h":1986},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_308_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:8105d11ecef99c1c0f3457a634ce8904:a42d32971ccb34332cc64540e0144dcc:b13795418fc4acbeba654fcefb06b899$"
+	"smartupdate": "$TexturePacker:SmartUpdate:6de45469dbd1e8217b593e663e93c3a0:8b89802ab9554d42b138d097018f97f2:b13795418fc4acbeba654fcefb06b899$"
 }
 }

@@ -519,5 +519,5 @@
     {"appurl":"","ads":"no","store":"no","image":"live192","categoryName":"Boy"},
     {"appurl":"","ads":"no","store":"no","image":"live289","categoryName":"Boy"},
 
-    {"appurl":"","ads":"no","store":"no","image":"live193","categoryName":"Boy","particle":"star_1","background":"Gif_Di_2","animation":["live193m1","live193m2","live193m3"]}
+    {"appurl":"","ads":"no","store":"no","image":"live193","categoryName":"Boy","particleName":"star_1","backgroundName":"Gif_Di_2","animationName":["live193m1","live193m2","live193m3"]}
   ]}

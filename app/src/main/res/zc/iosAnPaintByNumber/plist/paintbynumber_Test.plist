@@ -29260,6 +29260,16 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<key>ads</key>
 			<string>no</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>classic_animal_64</string>
+			<key>category_1</key>
+			<string>Classic</string>
+			<key>category_2</key>
+			<string>Animals</string>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
 	</array>
 	<key>Puzzle</key>
 	<array>
@@ -31181,6 +31191,16 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 			<array>
 				<string>live11m1</string>
 			</array>
+			<key>ads</key>
+			<string>no</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>classic_animal_64</string>
+			<key>category_1</key>
+			<string>Classic</string>
+			<key>category_2</key>
+			<string>Animals</string>
 			<key>ads</key>
 			<string>no</string>
 		</dict>

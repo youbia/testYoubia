@@ -3590,9 +3590,31 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ColorLive</string>
-			<key>url</key>
-			<string>itms-apps://itunes.apple.com/app/id1613756863</string>
+			<string>girl_269</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_270</string>
+			<key>category</key>
+			<string>Girl</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_271</string>
+			<key>category</key>
+			<string>Girl</string>
+			<key>ads</key>
+			<string>yes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>girl_272</string>
+			<key>category</key>
+			<string>Girl</string>
 		</dict>
 	</array>
 	<key>Category</key>

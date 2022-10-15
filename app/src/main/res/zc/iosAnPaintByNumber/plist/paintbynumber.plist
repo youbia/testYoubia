@@ -291,6 +291,37 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 				</dict>
 				<dict>
 					<key>Words</key>
+					<string>only the classic can last forever</string>
+					<key>name</key>
+					<string>home_classic</string>
+					<key>title</key>
+					<dict>
+						<key>en</key>
+						<string>Classic</string>
+						<key>zh-Hans</key>
+						<string>经典</string>
+						<key>zh-Hant-HK</key>
+						<string>經典</string>
+						<key>ja</key>
+						<string>クラシック</string>
+						<key>ko</key>
+						<string>권위 있는</string>
+						<key>de</key>
+						<string>Klassisch</string>
+						<key>ru</key>
+						<string>Классический</string>
+						<key>fr</key>
+						<string>Classique</string>
+						<key>es</key>
+						<string>Clásico</string>
+						<key>pt</key>
+						<string>Clássico</string>
+					</dict>
+					<key>categoryMiddle</key>
+					<string>Classic</string>
+				</dict>
+				<dict>
+					<key>Words</key>
 					<string>Take you into the world of sparkle</string>
 					<key>name</key>
 					<string>home_glitter</string>
@@ -379,37 +410,6 @@ I didn&apos;t know who I was a guest in my dream, I was greedy for a while.</str
 					</dict>
 					<key>categoryMiddle</key>
 					<string>Live</string>
-				</dict>
-				<dict>
-					<key>Words</key>
-					<string>only the classic can last forever</string>
-					<key>name</key>
-					<string>home_classic</string>
-					<key>title</key>
-					<dict>
-						<key>en</key>
-						<string>Classic</string>
-						<key>zh-Hans</key>
-						<string>经典</string>
-						<key>zh-Hant-HK</key>
-						<string>經典</string>
-						<key>ja</key>
-						<string>クラシック</string>
-						<key>ko</key>
-						<string>권위 있는</string>
-						<key>de</key>
-						<string>Klassisch</string>
-						<key>ru</key>
-						<string>Классический</string>
-						<key>fr</key>
-						<string>Classique</string>
-						<key>es</key>
-						<string>Clásico</string>
-						<key>pt</key>
-						<string>Clássico</string>
-					</dict>
-					<key>categoryMiddle</key>
-					<string>Classic</string>
 				</dict>
 				<dict>
 					<key>Words</key>

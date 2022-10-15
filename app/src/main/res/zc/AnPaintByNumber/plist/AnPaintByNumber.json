@@ -898,17 +898,27 @@
 
     {"ads":"no","store":"no","image":"live370","categoryName":"Flowers","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live370m1"]},
     {"ads":"no","store":"no","image":"live371","categoryName":"People","particleName":"faceStar_1","backgroundName":"gif_di_2","animationName":["live371m1","live371m2"]},
-    {"ads":"yes","store":"no","image":"live372","categoryName":"People","particleName":"faceStar_2","backgroundName":"Gif_Di_1","animationName":["live372m1"]},
+    {"ads":"yes","store":"no","image":"live372","categoryName":"People","particleName":"faceStar_2","backgroundName":"gif_di_1","animationName":["live372m1"]},
     {"ads":"no","store":"no","image":"live373","categoryName":"Fantasy","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live373m1"]},
     {"ads":"no","store":"no","image":"live374","categoryName":"People","particleName":"faceStar_1","backgroundName":"gif_di_2","animationName":["live374m1","live374m2"]},
     {"ads":"no","store":"no","image":"live375","categoryName":"Flowers","particleName":"snow_2","backgroundName":"gif_di_3","animationName":["live375m1","live375m2","live375m3","live375m4"]},
     {"ads":"yes","store":"no","image":"live376","categoryName":"Flowers","particleName":"star_1","backgroundName":"gif_di_2","animationName":[]},
     {"ads":"no","store":"no","image":"live377","categoryName":"People","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live377m1","live377m2"]},
-
     {"ads":"no","store":"no","image":"live378","categoryName":"Flowers","particleName":"snow_1","backgroundName":"gif_di_3","animationName":["live378m1","live378m2"]},
+    {"ads":"no","store":"no","image":"live379","categoryName":"Fantasy","particleName":"snow_1","backgroundName":"gif_di_2","animationName":["live379m1","live379m2"]},
 
-    {"ads":"no","store":"no","image":"live379","categoryName":"Fantasy","particleName":"snow_1","backgroundName":"gif_di_2","animationName":["live379m1","live379m2"]}
 
+
+    {"ads":"yes","store":"no","image":"live380","categoryName":"People","particleName":"star_1","backgroundName":"gif_di_2","animationName":[]},
+    {"ads":"no","store":"no","image":"live381","categoryName":"Animals","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live381m1","live381m2","live381m3"]},
+    {"ads":"no","store":"no","image":"live382","categoryName":"People","particleName":"faceStar_2","backgroundName":"gif_di_2","animationName":["live382m1","live382m2"]},
+    {"ads":"no","store":"no","image":"live383","categoryName":"Flowers","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live383m1","live383m2","live383m3"]},
+    {"ads":"yes","store":"no","image":"live384","categoryName":"Flowers","particleName":"star_1","backgroundName":"gif_di_1","animationName":["live384m1"]},
+    {"ads":"no","store":"no","image":"live385","categoryName":"People","particleName":"snow_1","backgroundName":"gif_di_3","animationName":["live385m1","live385m2"]},
+    {"ads":"no","store":"no","image":"live386","categoryName":"People","particleName":"faceStar_1","backgroundName":"gif_di_2","animationName":["live386m1","live386m2"]},
+    {"ads":"no","store":"no","image":"live387","categoryName":"Fashion","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live387m1","live387m2","live387m3"]},
+    {"ads":"yes","store":"no","image":"live388","categoryName":"Animals","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live388m1"]},
+    {"ads":"no","store":"no","image":"live389","categoryName":"Love","particleName":"star_1","backgroundName":"gif_di_2","animationName":["live389m1","live389m2"]}
 
 
 

@@ -1,0 +1,149 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_3.png",
+	"frame": {"x":1,"y":1351,"w":1000,"h":513},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":835,"w":1000,"h":513},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_1_4.png",
+	"frame": {"x":661,"y":1866,"w":151,"h":174},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":654,"w":151,"h":174},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_1.png",
+	"frame": {"x":1644,"y":1945,"w":143,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":821,"w":143,"h":77},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_4.png",
+	"frame": {"x":957,"y":1945,"w":90,"h":185},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":628,"y":716,"w":90,"h":185},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_5.png",
+	"frame": {"x":240,"y":1866,"w":130,"h":240},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":618,"y":473,"w":130,"h":240},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_6.png",
+	"frame": {"x":1927,"y":1945,"w":77,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":634,"y":644,"w":77,"h":83},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_5.png",
+	"frame": {"x":1789,"y":1945,"w":136,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":511,"y":151,"w":136,"h":74},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_6-001.png",
+	"frame": {"x":1144,"y":1945,"w":185,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":775,"y":243,"w":185,"h":80},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_7.png",
+	"frame": {"x":1331,"y":1945,"w":163,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":453,"y":934,"w":163,"h":79},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_8.png",
+	"frame": {"x":1496,"y":1945,"w":146,"h":78},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":299,"y":932,"w":146,"h":78},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_11.png",
+	"frame": {"x":1,"y":1866,"w":170,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1110,"w":170,"h":237},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_12.png",
+	"frame": {"x":482,"y":1866,"w":177,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":342,"y":1217,"w":177,"h":130},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_15.png",
+	"frame": {"x":837,"y":1866,"w":170,"h":118},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":627,"y":1230,"w":170,"h":118},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1078},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":267,"w":1000,"h":1078},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_2.png",
+	"frame": {"x":1003,"y":1081,"w":985,"h":440},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":468,"w":985,"h":440},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_2_Group_3.png",
+	"frame": {"x":1003,"y":1523,"w":1000,"h":420},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":928,"w":1000,"h":420},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_377_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2005,"h":2037},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_377_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b8eeab614d8645d3688e9bc283c25760:3c481ed35e69b2cc56e7465cf0f25fd0:984af64418072db2da6789f1663f16df$"
+}
+}

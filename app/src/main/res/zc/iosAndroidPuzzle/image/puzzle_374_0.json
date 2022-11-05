@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "Background.png",
+	"frame": {"x":1,"y":1,"w":1000,"h":1348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":1348},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_2_2.png",
+	"frame": {"x":1908,"y":1296,"w":131,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":574,"y":617,"w":131,"h":366},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_2.png",
+	"frame": {"x":874,"y":1351,"w":111,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":523,"y":731,"w":111,"h":366},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_3_3.png",
+	"frame": {"x":1908,"y":1664,"w":115,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":613,"y":739,"w":115,"h":356},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Group_5_4.png",
+	"frame": {"x":1,"y":1840,"w":1000,"h":164},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1184,"w":1000,"h":164},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_1.png",
+	"frame": {"x":1,"y":1351,"w":871,"h":487},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":66,"y":797,"w":871,"h":487},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_4.png",
+	"frame": {"x":1003,"y":1296,"w":903,"h":722},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":555,"w":903,"h":722},
+	"sourceSize": {"w":1000,"h":1350}
+},
+{
+	"filename": "Line_1_Group_5.png",
+	"frame": {"x":1003,"y":1,"w":1000,"h":1293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":1000,"h":1293},
+	"sourceSize": {"w":1000,"h":1350}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "puzzle_374_0.png",
+	"format": "RGBA8888",
+	"size": {"w":2040,"h":2021},
+	"scale": "1",
+	"related_multi_packs": [ "puzzle_374_1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:7f51e15878df4192ee0775d691693558:16699d43207c5a17584ef15b46950d76:7aa25e49c8a4cbb79df5913d2d88de7d$"
+}
+}

@@ -58,7 +58,7 @@
 },
 {
 	"filename": "Group_3_3.png",
-	"frame": {"x":428,"y":1563,"w":134,"h":134},
+	"frame": {"x":431,"y":1563,"w":134,"h":134},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":301,"y":52,"w":134,"h":134},
@@ -66,14 +66,14 @@
 },
 {
 	"filename": "Group_3_4.png",
-	"frame": {"x":221,"y":1563,"w":205,"h":111},
+	"frame": {"x":224,"y":1563,"w":205,"h":111},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":66,"y":165,"w":205,"h":111},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_6.png",
+	"filename": "Group_3_7.png",
 	"frame": {"x":907,"y":1,"w":758,"h":345},
 	"rotated": true,
 	"trimmed": true,
@@ -81,35 +81,35 @@
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_9.png",
-	"frame": {"x":1097,"y":1273,"w":129,"h":129},
+	"filename": "Group_3_10.png",
+	"frame": {"x":1097,"y":1142,"w":129,"h":129},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":690,"y":1082,"w":129,"h":129},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_10.png",
-	"frame": {"x":1097,"y":1142,"w":129,"h":129},
+	"filename": "Group_3_11.png",
+	"frame": {"x":1097,"y":1273,"w":129,"h":129},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":212,"y":1078,"w":129,"h":129},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_13.png",
-	"frame": {"x":1,"y":1563,"w":116,"h":218},
+	"filename": "Group_3_14.png",
+	"frame": {"x":1,"y":1563,"w":116,"h":221},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":248,"y":1129,"w":116,"h":218},
+	"spriteSourceSize": {"x":248,"y":1129,"w":116,"h":221},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
-	"filename": "Group_3_14.png",
-	"frame": {"x":604,"y":1503,"w":195,"h":191},
+	"filename": "Group_3_15.png",
+	"frame": {"x":604,"y":1503,"w":195,"h":193},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":805,"y":1157,"w":195,"h":191},
+	"spriteSourceSize": {"x":805,"y":1157,"w":195,"h":193},
 	"sourceSize": {"w":1000,"h":1350}
 },
 {
@@ -128,6 +128,6 @@
 	"size": {"w":1253,"h":1698},
 	"scale": "1",
 	"related_multi_packs": [ "puzzle_377_0.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b8eeab614d8645d3688e9bc283c25760:3c481ed35e69b2cc56e7465cf0f25fd0:984af64418072db2da6789f1663f16df$"
+	"smartupdate": "$TexturePacker:SmartUpdate:5ac3893aa598f1a89a386f9dd88de413:ad62967d7efdc031cbf68002303fd4eb:984af64418072db2da6789f1663f16df$"
 }
 }

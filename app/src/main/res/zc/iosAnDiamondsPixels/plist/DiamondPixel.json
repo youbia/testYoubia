@@ -1,0 +1,17 @@
+
+
+
+{
+  "10": {"name": "puzzle_11", "ads": "yes", "store": "yes"},
+  "9": {"name": "puzzle_10", "ads": "no","store": "no"},
+  "8": {"name": "puzzle_09", "ads": "no","store": "no"},
+  "7": {"name": "puzzle_08", "ads": "no","store": "no"},
+  "6": {"name": "puzzle_07", "ads": "no","store": "no"},
+  "5": {"name": "puzzle_06", "ads": "no","store": "no"},
+  "4": {"name": "puzzle_05", "ads": "no","store": "no"},
+  "3": {"name": "puzzle_04", "ads": "no","store": "no"},
+  "2": {"name": "puzzle_03", "ads": "no","store": "no"},
+  "1": {"name": "puzzle_02", "ads": "no","store": "no"},
+  "0": {"name": "puzzle_01", "ads": "no","store": "no"}
+  
+}

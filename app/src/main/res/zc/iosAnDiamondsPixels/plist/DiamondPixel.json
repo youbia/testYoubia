@@ -2,15 +2,15 @@
 
 
 {
-  "0": {"name": "puzzle_1", "count": "2"},
-  "1": {"name": "puzzle_2", "count": "1"},
-  "2": {"name": "puzzle_3", "count": "3"},
-  "3": {"name": "puzzle_4", "count": "2"},
-  "4": {"name": "puzzle_5", "count": "2"},
-  "5": {"name": "puzzle_6", "count": "2"},
-  "6": {"name": "puzzle_7", "count": "2"},
-  "7": {"name": "puzzle_8", "count": "2"},
-  "8": {"name": "puzzle_9", "count": "2"},
-  "9": {"name": "puzzle_10", "count": "2"},
-  "10": {"name": "puzzle_11", "count": "2"}
+  "0": {"name": "puzzle_11", "ads": "yes", "store": "yes"},
+  "1": {"name": "puzzle_10", "ads": "no","store": "no"},
+  "2": {"name": "puzzle_09", "ads": "no","store": "no"},
+  "3": {"name": "puzzle_08", "ads": "no","store": "no"},
+  "4": {"name": "puzzle_07", "ads": "no","store": "no"},
+  "5": {"name": "puzzle_06", "ads": "no","store": "no"},
+  "6": {"name": "puzzle_05", "ads": "no","store": "no"},
+  "7": {"name": "puzzle_04", "ads": "no","store": "no"},
+  "8": {"name": "puzzle_03", "ads": "no","store": "no"},
+  "9": {"name": "puzzle_02", "ads": "no","store": "no"},
+  "10": {"name": "puzzle_01", "ads": "no","store": "no"}
 }

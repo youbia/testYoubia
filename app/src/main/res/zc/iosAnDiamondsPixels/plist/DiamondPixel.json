@@ -111,9 +111,6 @@
   "106": {"name": "puzzle_106", "ads": "no","store": "no"},
   "107": {"name": "puzzle_107", "ads": "no","store": "no"},
   "108": {"name": "puzzle_108", "ads": "no","store": "no"},
-  "109": {"name": "puzzle_109", "ads": "no","store": "no"},
-  "110": {"name": "puzzle_110", "ads": "no","store": "no"},
-  "111": {"name": "puzzle_111", "ads": "no","store": "yes"},
-  "112": {"name": "puzzle_112", "ads": "yes","store": "no"}
+  "109": {"name": "puzzle_109", "ads": "yes","store": "yes"}
 
 }

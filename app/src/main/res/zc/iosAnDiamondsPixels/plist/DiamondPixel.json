@@ -109,8 +109,7 @@
   "104": {"name": "puzzle_104", "ads": "no","store": "no"},
   "105": {"name": "puzzle_105", "ads": "no","store": "no"},
   "106": {"name": "puzzle_106", "ads": "no","store": "no"},
-  "107": {"name": "puzzle_107", "ads": "no","store": "no"},
-  "108": {"name": "puzzle_108", "ads": "yes","store": "no"},
-  "109": {"name": "puzzle_109", "ads": "no","store": "yes"}
+  "107": {"name": "puzzle_107", "ads": "no","store": "yes"},
+  "108": {"name": "puzzle_108", "ads": "yes","store": "no"}
 
 }

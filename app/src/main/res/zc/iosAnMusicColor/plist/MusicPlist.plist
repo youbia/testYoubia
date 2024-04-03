@@ -271,10 +271,10 @@
 	</array>
 	<key>Category</key>
 	<array>
-		<string>a_Nature</string>
-		<string>b_Travel</string>
-		<string>c_Fitness</string>
-		<string>d_Food</string>
+		<string>Nature</string>
+		<string>Travel</string>
+		<string>Fitness</string>
+		<string>Food</string>
 	</array>
 </dict>
 </plist>

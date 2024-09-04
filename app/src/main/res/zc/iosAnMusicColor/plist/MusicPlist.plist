@@ -8,7 +8,9 @@
 			<key>name</key>
 			<string>Fitness1</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -16,7 +18,9 @@
 			<key>name</key>
 			<string>Fitness2</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -24,7 +28,9 @@
 			<key>name</key>
 			<string>Fitness3</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -32,7 +38,9 @@
 			<key>name</key>
 			<string>Food1</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -40,7 +48,9 @@
 			<key>name</key>
 			<string>Food2</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -48,7 +58,9 @@
 			<key>name</key>
 			<string>Food3</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -56,7 +68,9 @@
 			<key>name</key>
 			<string>Food4</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -64,7 +78,9 @@
 			<key>name</key>
 			<string>Nature1</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -72,7 +88,9 @@
 			<key>name</key>
 			<string>Nature2</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -80,7 +98,9 @@
 			<key>name</key>
 			<string>Nature3</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -88,7 +108,9 @@
 			<key>name</key>
 			<string>Nature4</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -96,7 +118,9 @@
 			<key>name</key>
 			<string>Nature5</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -104,7 +128,9 @@
 			<key>name</key>
 			<string>Travel1</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -112,7 +138,9 @@
 			<key>name</key>
 			<string>Travel2</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -120,7 +148,9 @@
 			<key>name</key>
 			<string>Travel3</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -128,7 +158,9 @@
 			<key>name</key>
 			<string>Travel4</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -136,7 +168,9 @@
 			<key>name</key>
 			<string>Fitness4</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -144,7 +178,9 @@
 			<key>name</key>
 			<string>Fitness5</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -152,7 +188,9 @@
 			<key>name</key>
 			<string>Fitness6</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -160,7 +198,9 @@
 			<key>name</key>
 			<string>Fitness7</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -168,7 +208,9 @@
 			<key>name</key>
 			<string>Fitness8</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -176,7 +218,9 @@
 			<key>name</key>
 			<string>Fitness9</string>
 			<key>category</key>
-			<string>Fitness</string>
+			<array>
+				<string>Fitness</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -184,7 +228,9 @@
 			<key>name</key>
 			<string>Nature6</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -192,7 +238,9 @@
 			<key>name</key>
 			<string>Nature7</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -200,7 +248,9 @@
 			<key>name</key>
 			<string>Nature8</string>
 			<key>category</key>
-			<string>Nature</string>
+			<array>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -208,7 +258,9 @@
 			<key>name</key>
 			<string>Food5</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -216,7 +268,9 @@
 			<key>name</key>
 			<string>Food6</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -224,7 +278,9 @@
 			<key>name</key>
 			<string>Food7</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -232,7 +288,10 @@
 			<key>name</key>
 			<string>Food8</string>
 			<key>category</key>
-			<string>Food</string>
+			<array>
+				<string>Food</string>
+				<string>Travel</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -240,7 +299,9 @@
 			<key>name</key>
 			<string>Travel5</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -248,7 +309,10 @@
 			<key>name</key>
 			<string>Travel6</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+				<string>Nature</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -256,7 +320,10 @@
 			<key>name</key>
 			<string>Travel7</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
@@ -264,7 +331,10 @@
 			<key>name</key>
 			<string>Travel8</string>
 			<key>category</key>
-			<string>Travel</string>
+			<array>
+				<string>Travel</string>
+				<string>Food</string>
+			</array>
 			<key>ads</key>
 			<string>yes</string>
 		</dict>
